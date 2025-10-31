@@ -179,3 +179,9 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
 DATA_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5 MB limit
+
+import dj_database_url
+
+DATABASES = {
+    'default': dj_database_url.config(default='postgresql://drras_db_user:3zBo0LTzS9uYNohAtUMDKqXnfhtjkPK0@dpg-d42a9b63jp1c73afm8i0-a/drras_db')
+}
