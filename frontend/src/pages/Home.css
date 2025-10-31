@@ -1,0 +1,53 @@
+.home-container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    padding: 20px 0;
+  }
+  
+  /* Image Styles */
+  .image-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center; /* Center image */
+  }
+  
+  .home-image {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+  }
+  
+  /* Quote Styles */
+  .quote-container {
+    width: 80%;
+    text-align: center;
+    margin-top: 20px; /* Adds space between image and quote */
+  }
+  
+  .quote {
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    color: #000;
+  }
+  .cta-button {
+    background-color: #006400;
+    color: white;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .cta-button:hover {
+    background-color: #004d00;
+    transform: scale(1.05);
+  }
+  

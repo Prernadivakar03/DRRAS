@@ -1,0 +1,2501 @@
+Beneficiary ID,Disaster ID,Name,Age,Gender,Location,Aid Received,Date Received
+B-2000,D-2440,Person_0,90,Other,Nashik,Financial Assistance,7/9/2016
+B-2001,D-1365,Person_1,99,Female,Mumbai,Shelter,5/17/2011
+B-2002,D-1301,Person_2,96,Female,Kolhapur,Food,1/16/2009
+B-2003,D-2876,Person_3,86,Male,Ratnagiri,Financial Assistance,12/1/2008
+B-2004,D-2517,Person_4,31,Other,Ratnagiri,Medical,7/17/2004
+B-2005,D-1985,Person_5,16,Female,Mumbai,Medical,8/10/2008
+B-2006,D-2557,Person_6,89,Male,Satara,Food,7/15/2009
+B-2007,D-1391,Person_7,28,Female,Kolhapur,Food,5/3/2009
+B-2008,D-2046,Person_8,51,Male,Nashik,Financial Assistance,5/8/2022
+B-2009,D-1710,Person_9,25,Female,Nagpur,Food,9/30/2006
+B-2010,D-2884,Person_10,50,Other,Nagpur,Food,2/15/2007
+B-2011,D-2802,Person_11,53,Male,Mumbai,Financial Assistance,4/4/2017
+B-2012,D-1894,Person_12,52,Female,Nagpur,Financial Assistance,1/5/2006
+B-2013,D-2428,Person_13,38,Other,Mumbai,Financial Assistance,4/24/2019
+B-2014,D-2697,Person_14,17,Male,Nashik,Medical,5/6/2018
+B-2015,D-2208,Person_15,88,Female,Pune,Food,8/27/2004
+B-2016,D-2539,Person_16,22,Male,Nashik,Medical,3/18/2006
+B-2017,D-1777,Person_17,12,Other,Satara,Medical,2/26/2009
+B-2018,D-2423,Person_18,40,Other,Ratnagiri,Shelter,8/29/2017
+B-2019,D-2073,Person_19,21,Female,Mumbai,Financial Assistance,7/8/2012
+B-2020,D-1989,Person_20,42,Other,Solapur,Food,11/7/2017
+B-2021,D-1896,Person_21,55,Female,Thane,Shelter,12/10/2009
+B-2022,D-2704,Person_22,67,Male,Nashik,Food,11/12/2009
+B-2023,D-1609,Person_23,62,Male,Solapur,Financial Assistance,12/20/2019
+B-2024,D-1483,Person_24,77,Other,Ratnagiri,Medical,1/7/2008
+B-2025,D-1142,Person_25,26,Other,Nashik,Shelter,4/11/2015
+B-2026,D-2102,Person_26,25,Other,Mumbai,Medical,9/16/2014
+B-2027,D-1619,Person_27,82,Other,Nagpur,Medical,8/3/2007
+B-2028,D-1963,Person_28,16,Other,Aurangabad,Food,10/10/2007
+B-2029,D-2935,Person_29,76,Female,Pune,Financial Assistance,3/19/2015
+B-2030,D-1330,Person_30,23,Female,Satara,Shelter,11/2/2009
+B-2031,D-2894,Person_31,17,Male,Nashik,Medical,10/25/2015
+B-2032,D-1855,Person_32,95,Female,Pune,Food,9/24/2012
+B-2033,D-2269,Person_33,10,Other,Nagpur,Food,4/30/2005
+B-2034,D-1314,Person_34,15,Male,Satara,Shelter,11/4/2009
+B-2035,D-1763,Person_35,7,Male,Mumbai,Financial Assistance,10/5/2017
+B-2036,D-1773,Person_36,12,Male,Aurangabad,Shelter,10/26/2012
+B-2037,D-1076,Person_37,90,Other,Nashik,Financial Assistance,1/22/2007
+B-2038,D-2746,Person_38,75,Male,Pune,Food,1/2/2013
+B-2039,D-1301,Person_39,73,Other,Nagpur,Shelter,2/14/2013
+B-2040,D-1159,Person_40,66,Female,Aurangabad,Financial Assistance,5/19/2006
+B-2041,D-2332,Person_41,43,Male,Pune,Financial Assistance,12/5/2014
+B-2042,D-2932,Person_42,92,Other,Aurangabad,Shelter,11/13/2007
+B-2043,D-1145,Person_43,81,Male,Solapur,Food,12/26/2012
+B-2044,D-2959,Person_44,95,Other,Nagpur,Financial Assistance,12/10/2013
+B-2045,D-1065,Person_45,13,Male,Satara,Food,6/22/2012
+B-2046,D-2601,Person_46,81,Male,Thane,Food,12/21/2007
+B-2047,D-2443,Person_47,49,Male,Ratnagiri,Shelter,4/17/2018
+B-2048,D-2683,Person_48,80,Male,Kolhapur,Shelter,1/8/2016
+B-2049,D-1974,Person_49,60,Other,Kolhapur,Medical,3/11/2020
+B-2050,D-1187,Person_50,11,Male,Solapur,Medical,8/22/2018
+B-2051,D-1903,Person_51,40,Other,Satara,Financial Assistance,5/8/2004
+B-2052,D-1736,Person_52,62,Other,Kolhapur,Financial Assistance,1/31/2018
+B-2053,D-2147,Person_53,72,Female,Pune,Financial Assistance,9/16/2023
+B-2054,D-2601,Person_54,28,Other,Nagpur,Food,4/26/2006
+B-2055,D-2068,Person_55,36,Male,Pune,Shelter,12/9/2022
+B-2056,D-1018,Person_56,77,Female,Aurangabad,Food,8/20/2011
+B-2057,D-1797,Person_57,58,Female,Solapur,Medical,4/30/2014
+B-2058,D-1376,Person_58,63,Other,Kolhapur,Food,5/13/2023
+B-2059,D-1592,Person_59,19,Other,Aurangabad,Financial Assistance,9/22/2007
+B-2060,D-2029,Person_60,5,Female,Mumbai,Food,5/4/2018
+B-2061,D-1706,Person_61,71,Male,Solapur,Shelter,7/21/2014
+B-2062,D-2670,Person_62,91,Male,Solapur,Shelter,1/13/2019
+B-2063,D-2333,Person_63,9,Female,Satara,Medical,2/18/2017
+B-2064,D-2741,Person_64,85,Other,Nagpur,Financial Assistance,9/23/2011
+B-2065,D-1184,Person_65,14,Other,Ratnagiri,Financial Assistance,3/17/2020
+B-2066,D-2967,Person_66,19,Other,Mumbai,Financial Assistance,8/1/2013
+B-2067,D-1936,Person_67,97,Male,Nashik,Financial Assistance,1/27/2010
+B-2068,D-2235,Person_68,87,Other,Mumbai,Shelter,5/30/2009
+B-2069,D-1798,Person_69,2,Other,Mumbai,Food,4/17/2017
+B-2070,D-2045,Person_70,2,Female,Pune,Financial Assistance,5/11/2011
+B-2071,D-2778,Person_71,42,Male,Nagpur,Medical,9/27/2012
+B-2072,D-1698,Person_72,2,Other,Pune,Shelter,1/17/2007
+B-2073,D-1043,Person_73,52,Female,Kolhapur,Medical,6/24/2019
+B-2074,D-2480,Person_74,52,Other,Thane,Financial Assistance,12/22/2013
+B-2075,D-2285,Person_75,63,Female,Nashik,Financial Assistance,12/31/2016
+B-2076,D-1948,Person_76,85,Female,Thane,Financial Assistance,10/18/2011
+B-2077,D-1834,Person_77,46,Female,Mumbai,Food,8/31/2020
+B-2078,D-2955,Person_78,2,Female,Nashik,Medical,12/22/2020
+B-2079,D-1524,Person_79,45,Female,Satara,Medical,10/17/2020
+B-2080,D-1766,Person_80,37,Other,Nashik,Food,9/26/2023
+B-2081,D-2016,Person_81,10,Male,Pune,Financial Assistance,7/17/2016
+B-2082,D-1996,Person_82,95,Female,Thane,Financial Assistance,8/11/2020
+B-2083,D-1194,Person_83,40,Other,Aurangabad,Food,1/26/2021
+B-2084,D-1223,Person_84,42,Male,Thane,Medical,10/23/2015
+B-2085,D-1706,Person_85,90,Female,Satara,Financial Assistance,2/27/2019
+B-2086,D-2614,Person_86,88,Female,Aurangabad,Food,1/16/2012
+B-2087,D-1689,Person_87,15,Other,Kolhapur,Medical,6/23/2013
+B-2088,D-2566,Person_88,65,Other,Aurangabad,Medical,5/16/2007
+B-2089,D-2302,Person_89,55,Male,Aurangabad,Medical,5/5/2006
+B-2090,D-1973,Person_90,60,Male,Nashik,Medical,7/15/2005
+B-2091,D-2240,Person_91,89,Other,Pune,Financial Assistance,10/25/2015
+B-2092,D-1322,Person_92,87,Male,Satara,Food,9/30/2020
+B-2093,D-2228,Person_93,80,Female,Solapur,Food,9/16/2017
+B-2094,D-2143,Person_94,26,Female,Nagpur,Medical,9/14/2019
+B-2095,D-2364,Person_95,42,Female,Nagpur,Medical,2/9/2014
+B-2096,D-1251,Person_96,76,Other,Solapur,Medical,3/26/2010
+B-2097,D-1553,Person_97,50,Female,Thane,Food,6/27/2010
+B-2098,D-2779,Person_98,79,Other,Aurangabad,Medical,12/21/2014
+B-2099,D-1738,Person_99,17,Female,Satara,Food,3/28/2010
+B-2100,D-1126,Person_100,26,Male,Kolhapur,Food,9/20/2011
+B-2101,D-1315,Person_101,3,Other,Solapur,Financial Assistance,2/6/2006
+B-2102,D-2623,Person_102,14,Male,Kolhapur,Shelter,1/12/2017
+B-2103,D-2060,Person_103,1,Other,Solapur,Medical,6/26/2020
+B-2104,D-1611,Person_104,7,Other,Solapur,Medical,5/24/2022
+B-2105,D-1627,Person_105,40,Male,Mumbai,Shelter,8/2/2015
+B-2106,D-2657,Person_106,43,Female,Aurangabad,Financial Assistance,5/7/2014
+B-2107,D-1931,Person_107,5,Male,Solapur,Shelter,8/1/2014
+B-2108,D-2907,Person_108,4,Male,Thane,Financial Assistance,8/25/2014
+B-2109,D-2004,Person_109,32,Male,Nashik,Food,1/5/2016
+B-2110,D-2224,Person_110,1,Other,Satara,Shelter,10/26/2013
+B-2111,D-2719,Person_111,79,Other,Kolhapur,Shelter,8/30/2007
+B-2112,D-1889,Person_112,94,Female,Mumbai,Shelter,11/9/2005
+B-2113,D-2131,Person_113,64,Other,Nagpur,Medical,11/28/2012
+B-2114,D-2672,Person_114,16,Other,Thane,Financial Assistance,2/25/2005
+B-2115,D-2208,Person_115,56,Male,Mumbai,Shelter,8/16/2019
+B-2116,D-2713,Person_116,18,Male,Nagpur,Medical,6/6/2007
+B-2117,D-2960,Person_117,85,Other,Satara,Shelter,7/3/2013
+B-2118,D-2507,Person_118,86,Male,Mumbai,Financial Assistance,8/21/2017
+B-2119,D-1852,Person_119,54,Other,Nashik,Medical,9/4/2020
+B-2120,D-2997,Person_120,6,Other,Thane,Food,12/16/2019
+B-2121,D-1012,Person_121,2,Male,Thane,Food,2/23/2007
+B-2122,D-2646,Person_122,51,Male,Solapur,Food,2/25/2010
+B-2123,D-2519,Person_123,52,Female,Ratnagiri,Shelter,10/7/2017
+B-2124,D-2044,Person_124,9,Other,Nashik,Financial Assistance,6/20/2019
+B-2125,D-2438,Person_125,55,Male,Mumbai,Shelter,3/7/2023
+B-2126,D-2809,Person_126,77,Other,Ratnagiri,Food,5/30/2015
+B-2127,D-1687,Person_127,74,Other,Solapur,Shelter,3/21/2023
+B-2128,D-1470,Person_128,23,Female,Aurangabad,Financial Assistance,3/1/2016
+B-2129,D-1370,Person_129,28,Other,Solapur,Shelter,10/15/2011
+B-2130,D-2867,Person_130,20,Male,Solapur,Food,7/25/2004
+B-2131,D-2901,Person_131,60,Other,Pune,Financial Assistance,12/8/2013
+B-2132,D-1092,Person_132,83,Other,Thane,Financial Assistance,8/16/2010
+B-2133,D-2465,Person_133,40,Female,Ratnagiri,Medical,12/5/2015
+B-2134,D-2734,Person_134,20,Male,Nagpur,Shelter,12/30/2022
+B-2135,D-2955,Person_135,14,Female,Thane,Shelter,7/18/2016
+B-2136,D-2445,Person_136,62,Female,Satara,Medical,7/24/2012
+B-2137,D-2698,Person_137,80,Male,Nashik,Shelter,12/6/2011
+B-2138,D-1769,Person_138,56,Male,Kolhapur,Financial Assistance,7/19/2014
+B-2139,D-2300,Person_139,29,Male,Nagpur,Financial Assistance,5/28/2019
+B-2140,D-1992,Person_140,42,Male,Kolhapur,Financial Assistance,11/6/2012
+B-2141,D-1264,Person_141,50,Male,Mumbai,Financial Assistance,1/30/2010
+B-2142,D-2443,Person_142,76,Female,Pune,Food,9/26/2011
+B-2143,D-1187,Person_143,24,Female,Kolhapur,Medical,5/24/2012
+B-2144,D-1206,Person_144,33,Other,Aurangabad,Shelter,3/24/2016
+B-2145,D-2872,Person_145,76,Male,Nagpur,Financial Assistance,5/19/2004
+B-2146,D-1002,Person_146,73,Male,Mumbai,Financial Assistance,2/3/2019
+B-2147,D-1080,Person_147,27,Female,Ratnagiri,Medical,2/2/2011
+B-2148,D-1260,Person_148,75,Other,Pune,Food,9/1/2006
+B-2149,D-1072,Person_149,11,Female,Thane,Medical,4/23/2008
+B-2150,D-1211,Person_150,64,Male,Aurangabad,Medical,8/31/2014
+B-2151,D-1087,Person_151,48,Other,Pune,Food,9/25/2013
+B-2152,D-2775,Person_152,12,Female,Ratnagiri,Shelter,6/29/2013
+B-2153,D-2724,Person_153,21,Other,Satara,Food,4/13/2020
+B-2154,D-1076,Person_154,40,Female,Mumbai,Medical,10/23/2012
+B-2155,D-2486,Person_155,26,Male,Satara,Medical,2/14/2016
+B-2156,D-1741,Person_156,1,Other,Ratnagiri,Food,6/29/2020
+B-2157,D-2672,Person_157,69,Other,Nashik,Shelter,4/2/2018
+B-2158,D-1580,Person_158,90,Female,Pune,Shelter,3/7/2018
+B-2159,D-1846,Person_159,58,Male,Nagpur,Shelter,10/30/2015
+B-2160,D-2977,Person_160,91,Male,Satara,Financial Assistance,9/16/2023
+B-2161,D-2656,Person_161,98,Female,Ratnagiri,Medical,10/30/2015
+B-2162,D-1874,Person_162,70,Female,Solapur,Shelter,10/30/2014
+B-2163,D-2279,Person_163,20,Female,Thane,Medical,8/13/2020
+B-2164,D-2702,Person_164,16,Female,Kolhapur,Food,5/23/2013
+B-2165,D-1306,Person_165,20,Other,Solapur,Shelter,3/2/2009
+B-2166,D-1332,Person_166,44,Female,Kolhapur,Shelter,8/29/2019
+B-2167,D-2519,Person_167,63,Female,Nagpur,Shelter,10/18/2021
+B-2168,D-2271,Person_168,87,Female,Kolhapur,Food,8/2/2018
+B-2169,D-1222,Person_169,95,Male,Kolhapur,Financial Assistance,12/21/2020
+B-2170,D-2980,Person_170,98,Other,Ratnagiri,Financial Assistance,8/26/2011
+B-2171,D-2239,Person_171,69,Male,Thane,Shelter,10/18/2006
+B-2172,D-2363,Person_172,8,Other,Nagpur,Financial Assistance,2/18/2007
+B-2173,D-1253,Person_173,39,Female,Thane,Medical,12/2/2013
+B-2174,D-2543,Person_174,28,Female,Pune,Medical,6/10/2021
+B-2175,D-2040,Person_175,60,Female,Thane,Shelter,5/18/2010
+B-2176,D-1335,Person_176,32,Male,Kolhapur,Food,7/7/2018
+B-2177,D-1397,Person_177,25,Female,Solapur,Shelter,1/15/2011
+B-2178,D-2420,Person_178,46,Male,Nashik,Shelter,5/9/2009
+B-2179,D-1795,Person_179,80,Male,Mumbai,Financial Assistance,10/22/2022
+B-2180,D-1480,Person_180,81,Male,Ratnagiri,Financial Assistance,10/31/2014
+B-2181,D-2843,Person_181,63,Other,Nagpur,Food,9/7/2015
+B-2182,D-2812,Person_182,25,Other,Nagpur,Food,5/18/2018
+B-2183,D-2079,Person_183,77,Female,Mumbai,Food,9/17/2011
+B-2184,D-2106,Person_184,92,Female,Nagpur,Food,7/18/2013
+B-2185,D-2125,Person_185,62,Male,Satara,Shelter,6/14/2012
+B-2186,D-2890,Person_186,38,Other,Ratnagiri,Financial Assistance,8/4/2005
+B-2187,D-1103,Person_187,71,Male,Solapur,Financial Assistance,12/13/2013
+B-2188,D-2550,Person_188,65,Other,Mumbai,Food,2/26/2021
+B-2189,D-2957,Person_189,10,Other,Ratnagiri,Financial Assistance,12/10/2015
+B-2190,D-1878,Person_190,73,Male,Nashik,Financial Assistance,1/15/2004
+B-2191,D-1228,Person_191,53,Female,Solapur,Medical,7/12/2011
+B-2192,D-2540,Person_192,10,Male,Satara,Medical,9/17/2009
+B-2193,D-1650,Person_193,3,Male,Solapur,Financial Assistance,2/13/2018
+B-2194,D-1027,Person_194,20,Female,Solapur,Shelter,12/8/2011
+B-2195,D-1480,Person_195,80,Female,Ratnagiri,Food,10/16/2013
+B-2196,D-2424,Person_196,69,Other,Kolhapur,Medical,4/18/2007
+B-2197,D-2745,Person_197,76,Other,Ratnagiri,Shelter,1/23/2006
+B-2198,D-1921,Person_198,3,Other,Pune,Food,1/11/2013
+B-2199,D-1904,Person_199,1,Female,Ratnagiri,Food,6/29/2008
+B-2200,D-1833,Person_200,5,Female,Nagpur,Shelter,12/3/2008
+B-2201,D-2614,Person_201,23,Other,Pune,Financial Assistance,3/12/2016
+B-2202,D-1848,Person_202,6,Male,Thane,Financial Assistance,5/8/2022
+B-2203,D-2224,Person_203,3,Female,Nagpur,Medical,9/25/2014
+B-2204,D-1526,Person_204,65,Other,Satara,Shelter,10/26/2012
+B-2205,D-1968,Person_205,50,Other,Kolhapur,Shelter,9/3/2021
+B-2206,D-1973,Person_206,27,Male,Ratnagiri,Financial Assistance,12/2/2008
+B-2207,D-2189,Person_207,2,Other,Pune,Shelter,4/23/2022
+B-2208,D-2039,Person_208,86,Other,Thane,Shelter,7/31/2019
+B-2209,D-1414,Person_209,28,Other,Satara,Medical,6/11/2007
+B-2210,D-2656,Person_210,93,Male,Thane,Medical,5/20/2021
+B-2211,D-2187,Person_211,20,Male,Solapur,Shelter,2/16/2012
+B-2212,D-1609,Person_212,89,Other,Thane,Food,1/30/2022
+B-2213,D-1333,Person_213,97,Male,Nagpur,Shelter,10/13/2007
+B-2214,D-2564,Person_214,35,Male,Aurangabad,Financial Assistance,2/21/2022
+B-2215,D-2985,Person_215,33,Male,Nashik,Food,11/7/2015
+B-2216,D-1882,Person_216,32,Male,Ratnagiri,Shelter,11/15/2009
+B-2217,D-1069,Person_217,90,Female,Solapur,Food,12/7/2022
+B-2218,D-2779,Person_218,29,Female,Thane,Shelter,2/11/2021
+B-2219,D-2771,Person_219,64,Female,Aurangabad,Financial Assistance,6/6/2018
+B-2220,D-1691,Person_220,67,Male,Thane,Food,12/31/2012
+B-2221,D-1855,Person_221,90,Female,Ratnagiri,Shelter,12/29/2006
+B-2222,D-2549,Person_222,33,Female,Thane,Financial Assistance,5/7/2023
+B-2223,D-1392,Person_223,48,Female,Kolhapur,Shelter,12/9/2009
+B-2224,D-1236,Person_224,56,Male,Ratnagiri,Food,10/9/2009
+B-2225,D-2799,Person_225,30,Female,Nagpur,Medical,2/5/2013
+B-2226,D-1086,Person_226,45,Other,Thane,Medical,12/28/2016
+B-2227,D-1606,Person_227,13,Male,Pune,Medical,3/26/2004
+B-2228,D-2052,Person_228,36,Female,Satara,Shelter,9/21/2020
+B-2229,D-2891,Person_229,57,Female,Nashik,Shelter,6/30/2004
+B-2230,D-2936,Person_230,46,Other,Nashik,Shelter,5/6/2016
+B-2231,D-1983,Person_231,86,Male,Satara,Shelter,4/17/2006
+B-2232,D-1928,Person_232,20,Other,Nashik,Food,5/22/2009
+B-2233,D-2883,Person_233,9,Male,Thane,Food,1/9/2013
+B-2234,D-1457,Person_234,85,Female,Nashik,Medical,1/18/2007
+B-2235,D-2141,Person_235,97,Male,Nashik,Shelter,8/2/2004
+B-2236,D-2431,Person_236,41,Female,Nagpur,Food,4/15/2008
+B-2237,D-1279,Person_237,69,Male,Solapur,Financial Assistance,2/22/2015
+B-2238,D-1426,Person_238,91,Female,Nagpur,Medical,10/20/2018
+B-2239,D-2218,Person_239,68,Other,Ratnagiri,Food,9/6/2011
+B-2240,D-2805,Person_240,51,Other,Thane,Food,12/25/2005
+B-2241,D-2499,Person_241,49,Male,Mumbai,Food,12/13/2004
+B-2242,D-2375,Person_242,61,Male,Solapur,Food,6/6/2008
+B-2243,D-1780,Person_243,75,Other,Nagpur,Medical,3/21/2016
+B-2244,D-2618,Person_244,90,Male,Aurangabad,Medical,8/8/2009
+B-2245,D-2900,Person_245,26,Male,Kolhapur,Financial Assistance,3/4/2012
+B-2246,D-1704,Person_246,40,Female,Thane,Shelter,9/25/2022
+B-2247,D-2820,Person_247,26,Female,Nashik,Financial Assistance,6/10/2014
+B-2248,D-2701,Person_248,71,Female,Mumbai,Food,1/20/2019
+B-2249,D-2646,Person_249,79,Female,Ratnagiri,Medical,11/2/2005
+B-2250,D-1670,Person_250,98,Male,Aurangabad,Shelter,8/30/2022
+B-2251,D-2552,Person_251,60,Female,Solapur,Shelter,10/28/2016
+B-2252,D-1767,Person_252,57,Male,Kolhapur,Shelter,11/14/2014
+B-2253,D-2629,Person_253,43,Male,Nagpur,Shelter,9/30/2007
+B-2254,D-1922,Person_254,75,Male,Mumbai,Financial Assistance,7/30/2006
+B-2255,D-1500,Person_255,20,Male,Nashik,Medical,10/5/2012
+B-2256,D-1972,Person_256,24,Male,Nashik,Medical,3/10/2019
+B-2257,D-1003,Person_257,2,Male,Thane,Shelter,9/8/2011
+B-2258,D-2115,Person_258,51,Other,Nagpur,Financial Assistance,3/27/2021
+B-2259,D-2513,Person_259,85,Other,Ratnagiri,Shelter,11/21/2010
+B-2260,D-2984,Person_260,75,Female,Ratnagiri,Shelter,7/1/2005
+B-2261,D-2407,Person_261,93,Other,Pune,Food,9/28/2005
+B-2262,D-1159,Person_262,25,Female,Pune,Food,7/23/2018
+B-2263,D-1490,Person_263,81,Male,Solapur,Shelter,11/25/2018
+B-2264,D-2465,Person_264,58,Other,Kolhapur,Shelter,1/10/2015
+B-2265,D-1127,Person_265,87,Male,Ratnagiri,Food,6/28/2005
+B-2266,D-2866,Person_266,27,Other,Solapur,Medical,5/16/2010
+B-2267,D-2223,Person_267,73,Female,Ratnagiri,Financial Assistance,8/8/2007
+B-2268,D-2819,Person_268,99,Other,Kolhapur,Food,3/30/2012
+B-2269,D-1886,Person_269,16,Other,Nashik,Medical,7/27/2010
+B-2270,D-2384,Person_270,47,Female,Satara,Food,4/10/2006
+B-2271,D-2756,Person_271,55,Other,Mumbai,Shelter,1/12/2006
+B-2272,D-2520,Person_272,89,Male,Mumbai,Financial Assistance,4/23/2005
+B-2273,D-2870,Person_273,27,Other,Kolhapur,Financial Assistance,7/13/2007
+B-2274,D-2968,Person_274,79,Male,Nashik,Medical,6/3/2007
+B-2275,D-2506,Person_275,29,Male,Aurangabad,Medical,7/6/2015
+B-2276,D-1874,Person_276,51,Male,Nagpur,Shelter,11/22/2012
+B-2277,D-1632,Person_277,12,Female,Pune,Financial Assistance,3/29/2011
+B-2278,D-2408,Person_278,94,Other,Kolhapur,Medical,7/11/2019
+B-2279,D-2625,Person_279,82,Female,Aurangabad,Food,3/23/2021
+B-2280,D-2344,Person_280,25,Female,Solapur,Medical,3/23/2008
+B-2281,D-1657,Person_281,47,Female,Nagpur,Financial Assistance,1/14/2008
+B-2282,D-2779,Person_282,81,Male,Ratnagiri,Medical,9/8/2017
+B-2283,D-1897,Person_283,72,Male,Pune,Food,6/6/2018
+B-2284,D-1412,Person_284,8,Other,Aurangabad,Medical,10/25/2010
+B-2285,D-2687,Person_285,91,Other,Mumbai,Medical,11/1/2006
+B-2286,D-2866,Person_286,98,Other,Nagpur,Financial Assistance,7/20/2020
+B-2287,D-1774,Person_287,51,Female,Aurangabad,Financial Assistance,4/17/2020
+B-2288,D-2695,Person_288,35,Male,Satara,Medical,9/8/2011
+B-2289,D-2175,Person_289,52,Other,Satara,Medical,3/13/2020
+B-2290,D-2529,Person_290,87,Other,Aurangabad,Medical,12/4/2020
+B-2291,D-2236,Person_291,24,Female,Satara,Shelter,2/17/2005
+B-2292,D-2002,Person_292,85,Male,Nashik,Medical,9/11/2014
+B-2293,D-1801,Person_293,37,Male,Aurangabad,Food,10/25/2022
+B-2294,D-1862,Person_294,29,Male,Solapur,Financial Assistance,6/7/2021
+B-2295,D-1766,Person_295,82,Male,Pune,Financial Assistance,9/20/2011
+B-2296,D-1951,Person_296,31,Female,Nagpur,Medical,9/11/2023
+B-2297,D-2262,Person_297,18,Other,Satara,Financial Assistance,4/29/2016
+B-2298,D-2396,Person_298,100,Other,Nagpur,Financial Assistance,5/5/2020
+B-2299,D-1635,Person_299,84,Other,Aurangabad,Shelter,4/16/2004
+B-2300,D-1411,Person_300,24,Male,Thane,Food,10/24/2013
+B-2301,D-2062,Person_301,43,Male,Pune,Food,8/14/2023
+B-2302,D-1949,Person_302,49,Male,Satara,Food,11/13/2014
+B-2303,D-2168,Person_303,100,Other,Kolhapur,Financial Assistance,10/1/2019
+B-2304,D-1950,Person_304,74,Male,Nagpur,Food,6/15/2017
+B-2305,D-2489,Person_305,5,Male,Mumbai,Financial Assistance,4/14/2010
+B-2306,D-2529,Person_306,15,Other,Thane,Financial Assistance,8/16/2016
+B-2307,D-1866,Person_307,15,Female,Mumbai,Shelter,1/14/2013
+B-2308,D-2830,Person_308,14,Other,Pune,Financial Assistance,9/8/2009
+B-2309,D-2566,Person_309,56,Female,Nagpur,Medical,6/14/2010
+B-2310,D-1713,Person_310,69,Female,Pune,Food,3/22/2015
+B-2311,D-1781,Person_311,47,Other,Kolhapur,Shelter,6/14/2017
+B-2312,D-1184,Person_312,70,Other,Aurangabad,Shelter,7/25/2022
+B-2313,D-1680,Person_313,56,Female,Satara,Food,11/14/2008
+B-2314,D-2996,Person_314,18,Other,Kolhapur,Financial Assistance,9/2/2008
+B-2315,D-1320,Person_315,89,Female,Thane,Shelter,8/5/2022
+B-2316,D-2260,Person_316,34,Other,Satara,Financial Assistance,3/22/2018
+B-2317,D-2335,Person_317,46,Other,Ratnagiri,Food,4/25/2007
+B-2318,D-2910,Person_318,27,Other,Kolhapur,Food,6/15/2007
+B-2319,D-2075,Person_319,90,Female,Pune,Shelter,4/24/2009
+B-2320,D-2955,Person_320,33,Male,Pune,Medical,12/12/2017
+B-2321,D-1777,Person_321,84,Female,Pune,Food,12/11/2019
+B-2322,D-2058,Person_322,92,Other,Solapur,Financial Assistance,4/8/2020
+B-2323,D-1586,Person_323,97,Male,Nashik,Food,5/5/2010
+B-2324,D-2602,Person_324,36,Other,Nashik,Shelter,4/15/2021
+B-2325,D-2396,Person_325,79,Other,Nagpur,Medical,10/2/2013
+B-2326,D-1805,Person_326,84,Other,Ratnagiri,Food,8/29/2019
+B-2327,D-1713,Person_327,27,Female,Thane,Medical,9/22/2012
+B-2328,D-2567,Person_328,14,Female,Mumbai,Shelter,5/6/2014
+B-2329,D-1481,Person_329,60,Other,Nagpur,Shelter,1/29/2013
+B-2330,D-1369,Person_330,86,Male,Solapur,Financial Assistance,10/10/2010
+B-2331,D-2411,Person_331,50,Male,Kolhapur,Medical,8/8/2006
+B-2332,D-1432,Person_332,20,Other,Satara,Shelter,12/4/2016
+B-2333,D-1410,Person_333,65,Female,Satara,Medical,11/17/2005
+B-2334,D-1388,Person_334,3,Female,Nashik,Financial Assistance,6/13/2008
+B-2335,D-1927,Person_335,79,Other,Satara,Food,12/29/2020
+B-2336,D-1818,Person_336,78,Other,Solapur,Food,9/15/2010
+B-2337,D-2284,Person_337,11,Other,Kolhapur,Medical,1/15/2023
+B-2338,D-2667,Person_338,75,Male,Thane,Shelter,12/21/2022
+B-2339,D-1038,Person_339,57,Other,Nagpur,Medical,12/21/2010
+B-2340,D-1062,Person_340,7,Other,Thane,Shelter,11/1/2017
+B-2341,D-1357,Person_341,55,Female,Nagpur,Medical,3/16/2022
+B-2342,D-1189,Person_342,73,Female,Pune,Food,12/4/2022
+B-2343,D-1412,Person_343,37,Other,Nashik,Financial Assistance,5/25/2007
+B-2344,D-1712,Person_344,14,Male,Ratnagiri,Medical,2/11/2008
+B-2345,D-1369,Person_345,64,Other,Satara,Medical,6/25/2022
+B-2346,D-1126,Person_346,16,Male,Thane,Shelter,4/24/2023
+B-2347,D-1940,Person_347,53,Other,Nashik,Food,7/29/2011
+B-2348,D-2183,Person_348,29,Female,Pune,Food,4/28/2023
+B-2349,D-1621,Person_349,77,Other,Aurangabad,Medical,12/10/2023
+B-2350,D-1614,Person_350,4,Other,Pune,Financial Assistance,1/18/2011
+B-2351,D-1268,Person_351,45,Male,Nashik,Shelter,4/22/2013
+B-2352,D-2382,Person_352,14,Female,Nashik,Shelter,10/20/2005
+B-2353,D-1891,Person_353,12,Female,Solapur,Food,6/20/2022
+B-2354,D-1218,Person_354,37,Female,Satara,Food,9/9/2020
+B-2355,D-2810,Person_355,58,Male,Satara,Food,12/26/2008
+B-2356,D-2273,Person_356,91,Other,Solapur,Medical,9/12/2007
+B-2357,D-2478,Person_357,25,Male,Thane,Food,10/14/2007
+B-2358,D-1477,Person_358,11,Other,Kolhapur,Medical,7/17/2023
+B-2359,D-2188,Person_359,92,Other,Satara,Shelter,7/23/2023
+B-2360,D-2338,Person_360,58,Other,Nashik,Financial Assistance,5/10/2012
+B-2361,D-2779,Person_361,14,Other,Thane,Medical,1/3/2021
+B-2362,D-2625,Person_362,6,Female,Nashik,Food,4/7/2014
+B-2363,D-1060,Person_363,69,Other,Satara,Financial Assistance,1/8/2017
+B-2364,D-2824,Person_364,48,Male,Pune,Food,3/12/2019
+B-2365,D-2096,Person_365,56,Female,Ratnagiri,Shelter,9/1/2015
+B-2366,D-1450,Person_366,27,Female,Pune,Medical,12/11/2020
+B-2367,D-1057,Person_367,27,Female,Satara,Food,7/19/2015
+B-2368,D-1096,Person_368,11,Other,Satara,Shelter,11/26/2023
+B-2369,D-1122,Person_369,23,Male,Satara,Medical,4/15/2023
+B-2370,D-1167,Person_370,17,Female,Thane,Shelter,12/26/2006
+B-2371,D-2939,Person_371,84,Male,Aurangabad,Financial Assistance,4/22/2019
+B-2372,D-2961,Person_372,16,Other,Ratnagiri,Medical,12/1/2020
+B-2373,D-2224,Person_373,79,Female,Pune,Financial Assistance,10/19/2017
+B-2374,D-2126,Person_374,40,Female,Aurangabad,Financial Assistance,3/27/2013
+B-2375,D-1137,Person_375,80,Male,Mumbai,Financial Assistance,12/28/2010
+B-2376,D-2902,Person_376,20,Female,Satara,Financial Assistance,10/25/2004
+B-2377,D-1204,Person_377,43,Female,Nashik,Food,5/16/2016
+B-2378,D-1646,Person_378,14,Other,Nashik,Financial Assistance,5/1/2009
+B-2379,D-1563,Person_379,51,Female,Ratnagiri,Medical,10/6/2022
+B-2380,D-2034,Person_380,33,Other,Ratnagiri,Food,10/5/2007
+B-2381,D-1196,Person_381,5,Other,Ratnagiri,Financial Assistance,7/18/2013
+B-2382,D-2823,Person_382,68,Female,Mumbai,Financial Assistance,1/25/2016
+B-2383,D-1029,Person_383,79,Male,Solapur,Shelter,4/1/2015
+B-2384,D-2631,Person_384,75,Female,Mumbai,Medical,1/18/2009
+B-2385,D-2642,Person_385,32,Male,Ratnagiri,Food,6/20/2022
+B-2386,D-2128,Person_386,7,Male,Nagpur,Food,7/1/2009
+B-2387,D-2221,Person_387,19,Female,Aurangabad,Financial Assistance,5/29/2021
+B-2388,D-2235,Person_388,5,Male,Nashik,Food,3/17/2006
+B-2389,D-1912,Person_389,95,Male,Satara,Financial Assistance,7/1/2018
+B-2390,D-2241,Person_390,19,Male,Ratnagiri,Medical,2/11/2019
+B-2391,D-2477,Person_391,77,Female,Nagpur,Financial Assistance,2/16/2019
+B-2392,D-2580,Person_392,30,Other,Solapur,Financial Assistance,8/17/2021
+B-2393,D-2554,Person_393,81,Female,Nashik,Shelter,8/5/2017
+B-2394,D-2060,Person_394,22,Male,Kolhapur,Medical,3/14/2010
+B-2395,D-2591,Person_395,87,Male,Nashik,Shelter,10/18/2010
+B-2396,D-1919,Person_396,30,Female,Aurangabad,Shelter,10/25/2012
+B-2397,D-1918,Person_397,70,Female,Aurangabad,Financial Assistance,11/17/2015
+B-2398,D-2272,Person_398,56,Female,Thane,Financial Assistance,8/2/2015
+B-2399,D-1528,Person_399,93,Male,Pune,Shelter,5/22/2021
+B-2400,D-2624,Person_400,98,Male,Nashik,Food,11/3/2012
+B-2401,D-1250,Person_401,96,Male,Aurangabad,Shelter,7/24/2015
+B-2402,D-2168,Person_402,76,Male,Aurangabad,Food,11/11/2005
+B-2403,D-2824,Person_403,93,Male,Satara,Medical,4/6/2019
+B-2404,D-1990,Person_404,69,Male,Satara,Financial Assistance,11/19/2016
+B-2405,D-2855,Person_405,49,Male,Satara,Shelter,7/28/2007
+B-2406,D-2282,Person_406,14,Other,Pune,Food,3/11/2005
+B-2407,D-2998,Person_407,1,Female,Kolhapur,Food,2/18/2019
+B-2408,D-1007,Person_408,69,Male,Mumbai,Medical,6/15/2020
+B-2409,D-2217,Person_409,35,Female,Thane,Shelter,8/16/2022
+B-2410,D-1004,Person_410,45,Female,Nagpur,Financial Assistance,4/4/2018
+B-2411,D-2504,Person_411,31,Male,Mumbai,Financial Assistance,8/1/2013
+B-2412,D-1796,Person_412,36,Female,Nagpur,Medical,2/3/2019
+B-2413,D-1257,Person_413,29,Female,Ratnagiri,Financial Assistance,9/5/2010
+B-2414,D-2611,Person_414,36,Female,Pune,Food,3/2/2008
+B-2415,D-2700,Person_415,81,Male,Ratnagiri,Shelter,1/20/2009
+B-2416,D-2593,Person_416,6,Female,Satara,Shelter,5/8/2008
+B-2417,D-1398,Person_417,35,Male,Mumbai,Financial Assistance,4/18/2015
+B-2418,D-1526,Person_418,86,Female,Nashik,Financial Assistance,11/9/2020
+B-2419,D-1056,Person_419,31,Female,Nashik,Medical,11/21/2011
+B-2420,D-1265,Person_420,80,Male,Pune,Shelter,7/11/2012
+B-2421,D-1566,Person_421,13,Male,Kolhapur,Financial Assistance,6/2/2004
+B-2422,D-2689,Person_422,58,Other,Ratnagiri,Food,8/10/2004
+B-2423,D-1562,Person_423,20,Female,Nagpur,Shelter,6/11/2018
+B-2424,D-1716,Person_424,85,Male,Nagpur,Financial Assistance,8/18/2016
+B-2425,D-1141,Person_425,38,Female,Nagpur,Medical,1/29/2019
+B-2426,D-1322,Person_426,87,Other,Ratnagiri,Financial Assistance,2/20/2010
+B-2427,D-2907,Person_427,9,Female,Mumbai,Shelter,4/29/2005
+B-2428,D-2456,Person_428,36,Female,Kolhapur,Medical,3/13/2019
+B-2429,D-2331,Person_429,53,Female,Solapur,Food,11/18/2018
+B-2430,D-1006,Person_430,32,Female,Mumbai,Medical,6/23/2018
+B-2431,D-2688,Person_431,72,Female,Pune,Medical,12/11/2019
+B-2432,D-1674,Person_432,51,Male,Solapur,Medical,7/19/2010
+B-2433,D-1190,Person_433,9,Male,Kolhapur,Food,9/5/2012
+B-2434,D-1808,Person_434,41,Female,Thane,Shelter,2/2/2006
+B-2435,D-2595,Person_435,44,Other,Kolhapur,Medical,11/28/2013
+B-2436,D-1532,Person_436,48,Male,Aurangabad,Shelter,2/26/2007
+B-2437,D-2966,Person_437,44,Female,Nagpur,Financial Assistance,5/23/2011
+B-2438,D-2238,Person_438,22,Female,Nashik,Shelter,11/14/2016
+B-2439,D-1678,Person_439,89,Male,Pune,Medical,4/18/2020
+B-2440,D-1112,Person_440,99,Other,Nashik,Medical,10/8/2020
+B-2441,D-2035,Person_441,64,Male,Nashik,Medical,2/10/2022
+B-2442,D-2659,Person_442,35,Other,Pune,Food,1/17/2009
+B-2443,D-1208,Person_443,8,Other,Satara,Food,7/23/2013
+B-2444,D-1280,Person_444,37,Female,Mumbai,Financial Assistance,1/18/2023
+B-2445,D-1785,Person_445,91,Female,Satara,Financial Assistance,8/14/2009
+B-2446,D-1483,Person_446,40,Female,Nashik,Food,7/26/2011
+B-2447,D-2409,Person_447,41,Other,Kolhapur,Shelter,10/14/2017
+B-2448,D-2107,Person_448,61,Male,Mumbai,Financial Assistance,7/13/2021
+B-2449,D-2281,Person_449,70,Other,Ratnagiri,Medical,6/20/2007
+B-2450,D-1387,Person_450,39,Female,Satara,Food,11/5/2016
+B-2451,D-1467,Person_451,93,Male,Pune,Medical,5/24/2018
+B-2452,D-1351,Person_452,90,Male,Ratnagiri,Shelter,11/17/2008
+B-2453,D-2464,Person_453,83,Male,Thane,Financial Assistance,3/30/2009
+B-2454,D-1516,Person_454,76,Male,Solapur,Financial Assistance,10/1/2020
+B-2455,D-2888,Person_455,72,Other,Solapur,Food,5/26/2006
+B-2456,D-2049,Person_456,76,Female,Thane,Shelter,8/17/2004
+B-2457,D-1162,Person_457,27,Female,Satara,Financial Assistance,4/17/2015
+B-2458,D-1905,Person_458,28,Female,Nashik,Medical,5/11/2006
+B-2459,D-2485,Person_459,96,Female,Thane,Food,10/6/2018
+B-2460,D-1445,Person_460,57,Other,Solapur,Financial Assistance,10/17/2014
+B-2461,D-1096,Person_461,20,Male,Kolhapur,Financial Assistance,8/27/2010
+B-2462,D-2997,Person_462,86,Male,Thane,Medical,9/30/2017
+B-2463,D-1927,Person_463,95,Other,Kolhapur,Shelter,1/23/2008
+B-2464,D-2531,Person_464,50,Other,Solapur,Financial Assistance,7/26/2019
+B-2465,D-2477,Person_465,84,Other,Kolhapur,Financial Assistance,12/11/2020
+B-2466,D-2843,Person_466,69,Male,Kolhapur,Medical,8/5/2014
+B-2467,D-1230,Person_467,86,Male,Thane,Food,2/19/2017
+B-2468,D-2997,Person_468,36,Female,Solapur,Shelter,1/30/2009
+B-2469,D-1912,Person_469,39,Male,Thane,Food,4/5/2004
+B-2470,D-1527,Person_470,81,Other,Solapur,Medical,1/10/2016
+B-2471,D-2929,Person_471,62,Other,Mumbai,Financial Assistance,3/21/2013
+B-2472,D-2257,Person_472,21,Female,Mumbai,Food,7/12/2014
+B-2473,D-1270,Person_473,96,Other,Pune,Medical,2/4/2021
+B-2474,D-2088,Person_474,32,Other,Ratnagiri,Financial Assistance,12/8/2013
+B-2475,D-1532,Person_475,49,Male,Ratnagiri,Financial Assistance,6/4/2006
+B-2476,D-1229,Person_476,42,Male,Solapur,Food,4/29/2013
+B-2477,D-1886,Person_477,81,Female,Kolhapur,Food,10/25/2022
+B-2478,D-1442,Person_478,72,Female,Solapur,Food,6/12/2021
+B-2479,D-1481,Person_479,80,Other,Nagpur,Shelter,5/23/2012
+B-2480,D-1653,Person_480,19,Female,Aurangabad,Medical,9/7/2023
+B-2481,D-2367,Person_481,25,Female,Ratnagiri,Food,9/7/2018
+B-2482,D-1527,Person_482,32,Other,Satara,Shelter,2/10/2005
+B-2483,D-1369,Person_483,6,Other,Satara,Food,3/20/2018
+B-2484,D-1695,Person_484,55,Female,Kolhapur,Shelter,9/26/2010
+B-2485,D-1485,Person_485,9,Male,Mumbai,Shelter,10/29/2014
+B-2486,D-1616,Person_486,3,Female,Solapur,Financial Assistance,5/23/2012
+B-2487,D-1077,Person_487,54,Male,Nashik,Food,5/25/2011
+B-2488,D-2767,Person_488,10,Other,Pune,Shelter,10/20/2010
+B-2489,D-2304,Person_489,77,Male,Mumbai,Medical,5/13/2021
+B-2490,D-2219,Person_490,49,Female,Kolhapur,Financial Assistance,3/22/2021
+B-2491,D-1622,Person_491,100,Male,Satara,Medical,2/6/2004
+B-2492,D-1662,Person_492,86,Other,Thane,Shelter,12/17/2014
+B-2493,D-1138,Person_493,48,Other,Satara,Financial Assistance,7/11/2019
+B-2494,D-2357,Person_494,67,Male,Nashik,Shelter,12/11/2017
+B-2495,D-1989,Person_495,1,Female,Kolhapur,Food,11/21/2017
+B-2496,D-2638,Person_496,54,Other,Solapur,Shelter,2/4/2018
+B-2497,D-2796,Person_497,57,Other,Pune,Financial Assistance,2/13/2006
+B-2498,D-1804,Person_498,97,Male,Nagpur,Financial Assistance,5/30/2011
+B-2499,D-2354,Person_499,15,Female,Solapur,Medical,2/19/2016
+B-2500,D-2641,Person_500,17,Other,Nagpur,Shelter,11/10/2020
+B-2501,D-1807,Person_501,65,Male,Kolhapur,Medical,10/30/2021
+B-2502,D-1287,Person_502,95,Male,Satara,Financial Assistance,12/27/2022
+B-2503,D-1272,Person_503,61,Female,Kolhapur,Shelter,9/16/2005
+B-2504,D-1281,Person_504,59,Female,Ratnagiri,Financial Assistance,9/9/2020
+B-2505,D-1181,Person_505,58,Other,Solapur,Financial Assistance,8/16/2016
+B-2506,D-2620,Person_506,71,Other,Nashik,Shelter,10/28/2014
+B-2507,D-1679,Person_507,47,Female,Mumbai,Financial Assistance,11/30/2020
+B-2508,D-1032,Person_508,37,Male,Ratnagiri,Food,12/22/2015
+B-2509,D-1167,Person_509,32,Other,Ratnagiri,Medical,2/20/2004
+B-2510,D-1241,Person_510,14,Female,Mumbai,Financial Assistance,4/3/2019
+B-2511,D-2242,Person_511,69,Other,Nashik,Shelter,10/9/2010
+B-2512,D-1978,Person_512,61,Female,Mumbai,Food,3/10/2023
+B-2513,D-2696,Person_513,86,Other,Solapur,Shelter,5/19/2004
+B-2514,D-2610,Person_514,34,Male,Mumbai,Medical,12/8/2013
+B-2515,D-2589,Person_515,31,Female,Nashik,Shelter,11/15/2004
+B-2516,D-1499,Person_516,89,Other,Pune,Shelter,1/23/2014
+B-2517,D-1446,Person_517,56,Female,Mumbai,Financial Assistance,6/17/2021
+B-2518,D-2297,Person_518,32,Female,Thane,Financial Assistance,6/8/2012
+B-2519,D-1007,Person_519,86,Male,Aurangabad,Shelter,6/14/2014
+B-2520,D-2462,Person_520,17,Other,Solapur,Financial Assistance,10/19/2023
+B-2521,D-2000,Person_521,25,Male,Mumbai,Food,2/27/2021
+B-2522,D-1504,Person_522,11,Male,Ratnagiri,Food,2/26/2019
+B-2523,D-2113,Person_523,71,Female,Satara,Shelter,3/28/2022
+B-2524,D-2448,Person_524,11,Male,Kolhapur,Food,10/9/2005
+B-2525,D-2508,Person_525,91,Other,Nashik,Medical,4/13/2019
+B-2526,D-2821,Person_526,93,Male,Nashik,Financial Assistance,11/8/2019
+B-2527,D-1474,Person_527,1,Female,Aurangabad,Financial Assistance,11/23/2013
+B-2528,D-2719,Person_528,68,Female,Ratnagiri,Financial Assistance,6/18/2008
+B-2529,D-2328,Person_529,48,Male,Aurangabad,Financial Assistance,12/22/2018
+B-2530,D-2826,Person_530,68,Female,Aurangabad,Financial Assistance,7/27/2010
+B-2531,D-2198,Person_531,22,Female,Ratnagiri,Medical,1/8/2012
+B-2532,D-2752,Person_532,78,Other,Nashik,Medical,12/20/2018
+B-2533,D-1092,Person_533,81,Female,Pune,Shelter,7/29/2011
+B-2534,D-2761,Person_534,55,Female,Solapur,Medical,3/10/2007
+B-2535,D-1558,Person_535,4,Female,Nashik,Food,3/2/2008
+B-2536,D-2599,Person_536,25,Female,Thane,Medical,11/6/2004
+B-2537,D-1191,Person_537,83,Male,Nashik,Medical,7/29/2010
+B-2538,D-1630,Person_538,100,Other,Nashik,Shelter,2/11/2017
+B-2539,D-1702,Person_539,43,Male,Satara,Shelter,11/7/2016
+B-2540,D-2332,Person_540,97,Other,Nashik,Shelter,5/24/2014
+B-2541,D-2743,Person_541,67,Other,Nashik,Medical,6/25/2007
+B-2542,D-1174,Person_542,73,Other,Pune,Shelter,6/23/2023
+B-2543,D-1063,Person_543,68,Male,Mumbai,Financial Assistance,5/29/2013
+B-2544,D-1914,Person_544,43,Male,Ratnagiri,Shelter,3/14/2022
+B-2545,D-2496,Person_545,19,Male,Solapur,Shelter,8/21/2010
+B-2546,D-1088,Person_546,55,Male,Mumbai,Food,11/29/2007
+B-2547,D-2375,Person_547,59,Male,Mumbai,Food,11/24/2006
+B-2548,D-1469,Person_548,19,Male,Solapur,Shelter,2/22/2014
+B-2549,D-2465,Person_549,47,Female,Ratnagiri,Food,1/31/2021
+B-2550,D-1204,Person_550,51,Male,Kolhapur,Financial Assistance,9/11/2018
+B-2551,D-2517,Person_551,90,Male,Nagpur,Shelter,12/30/2007
+B-2552,D-1902,Person_552,48,Other,Pune,Financial Assistance,7/4/2019
+B-2553,D-1711,Person_553,70,Other,Kolhapur,Medical,7/1/2019
+B-2554,D-2163,Person_554,24,Male,Satara,Financial Assistance,6/28/2013
+B-2555,D-1201,Person_555,62,Female,Thane,Medical,9/9/2020
+B-2556,D-1928,Person_556,16,Female,Mumbai,Food,3/21/2022
+B-2557,D-1975,Person_557,70,Male,Nashik,Food,1/23/2010
+B-2558,D-1159,Person_558,60,Male,Solapur,Shelter,6/6/2019
+B-2559,D-1399,Person_559,50,Female,Kolhapur,Food,3/15/2018
+B-2560,D-2381,Person_560,85,Female,Pune,Medical,10/16/2016
+B-2561,D-2142,Person_561,84,Female,Thane,Food,4/8/2012
+B-2562,D-2684,Person_562,19,Other,Kolhapur,Shelter,8/31/2013
+B-2563,D-2933,Person_563,17,Other,Thane,Medical,8/26/2008
+B-2564,D-2389,Person_564,14,Female,Satara,Financial Assistance,12/1/2021
+B-2565,D-1853,Person_565,49,Other,Aurangabad,Medical,5/10/2010
+B-2566,D-1910,Person_566,42,Other,Aurangabad,Financial Assistance,1/11/2006
+B-2567,D-2239,Person_567,74,Male,Nashik,Food,8/30/2006
+B-2568,D-2502,Person_568,19,Male,Satara,Medical,1/24/2021
+B-2569,D-1497,Person_569,99,Male,Nashik,Food,5/23/2023
+B-2570,D-2225,Person_570,72,Male,Kolhapur,Medical,10/10/2019
+B-2571,D-2068,Person_571,6,Female,Aurangabad,Food,3/30/2004
+B-2572,D-2690,Person_572,28,Male,Thane,Shelter,9/8/2018
+B-2573,D-1314,Person_573,68,Male,Nagpur,Food,11/8/2022
+B-2574,D-2699,Person_574,30,Female,Ratnagiri,Shelter,4/16/2013
+B-2575,D-2617,Person_575,73,Other,Nashik,Food,4/28/2010
+B-2576,D-2615,Person_576,59,Other,Kolhapur,Medical,3/3/2011
+B-2577,D-1167,Person_577,13,Other,Kolhapur,Food,7/30/2009
+B-2578,D-1155,Person_578,12,Female,Solapur,Shelter,7/14/2017
+B-2579,D-2012,Person_579,29,Other,Nagpur,Financial Assistance,7/29/2005
+B-2580,D-2699,Person_580,73,Other,Nashik,Medical,7/29/2011
+B-2581,D-1859,Person_581,17,Other,Kolhapur,Financial Assistance,1/10/2007
+B-2582,D-1966,Person_582,41,Female,Mumbai,Financial Assistance,6/9/2004
+B-2583,D-1317,Person_583,37,Other,Mumbai,Financial Assistance,7/3/2006
+B-2584,D-2605,Person_584,71,Male,Ratnagiri,Medical,3/24/2023
+B-2585,D-2170,Person_585,8,Male,Satara,Financial Assistance,4/1/2006
+B-2586,D-2915,Person_586,94,Female,Pune,Shelter,6/16/2010
+B-2587,D-2903,Person_587,49,Female,Pune,Financial Assistance,4/29/2005
+B-2588,D-1027,Person_588,8,Female,Nagpur,Shelter,1/1/2010
+B-2589,D-2890,Person_589,18,Female,Pune,Medical,8/7/2019
+B-2590,D-1479,Person_590,11,Other,Ratnagiri,Medical,6/19/2021
+B-2591,D-1462,Person_591,91,Male,Mumbai,Financial Assistance,7/30/2019
+B-2592,D-2742,Person_592,30,Female,Mumbai,Medical,5/31/2014
+B-2593,D-1992,Person_593,55,Other,Nashik,Financial Assistance,2/5/2021
+B-2594,D-2024,Person_594,93,Male,Kolhapur,Food,1/7/2010
+B-2595,D-2293,Person_595,80,Other,Nagpur,Shelter,6/14/2010
+B-2596,D-1386,Person_596,57,Male,Mumbai,Financial Assistance,3/21/2018
+B-2597,D-1416,Person_597,19,Female,Ratnagiri,Medical,1/17/2022
+B-2598,D-1466,Person_598,98,Male,Mumbai,Medical,9/19/2005
+B-2599,D-2097,Person_599,49,Male,Solapur,Medical,10/28/2015
+B-2600,D-2935,Person_600,100,Other,Mumbai,Food,8/30/2018
+B-2601,D-1440,Person_601,40,Other,Nashik,Shelter,12/7/2004
+B-2602,D-2588,Person_602,94,Other,Aurangabad,Shelter,12/23/2004
+B-2603,D-1678,Person_603,19,Female,Satara,Food,6/25/2013
+B-2604,D-2941,Person_604,16,Other,Pune,Medical,4/18/2011
+B-2605,D-1127,Person_605,46,Male,Mumbai,Financial Assistance,11/12/2016
+B-2606,D-2791,Person_606,26,Male,Kolhapur,Shelter,7/26/2017
+B-2607,D-1976,Person_607,97,Other,Satara,Shelter,11/18/2014
+B-2608,D-2693,Person_608,99,Other,Mumbai,Medical,11/19/2021
+B-2609,D-1229,Person_609,70,Female,Solapur,Shelter,10/12/2014
+B-2610,D-2640,Person_610,17,Female,Mumbai,Financial Assistance,3/26/2014
+B-2611,D-1588,Person_611,23,Other,Aurangabad,Medical,8/4/2021
+B-2612,D-2151,Person_612,45,Male,Nagpur,Financial Assistance,8/28/2017
+B-2613,D-1694,Person_613,47,Other,Nashik,Food,5/6/2004
+B-2614,D-2650,Person_614,98,Male,Mumbai,Food,2/28/2017
+B-2615,D-2960,Person_615,86,Male,Aurangabad,Medical,9/9/2012
+B-2616,D-1524,Person_616,47,Male,Solapur,Food,12/5/2007
+B-2617,D-2511,Person_617,24,Female,Ratnagiri,Food,8/28/2009
+B-2618,D-2120,Person_618,21,Female,Satara,Medical,8/3/2012
+B-2619,D-2752,Person_619,35,Other,Nagpur,Food,6/27/2013
+B-2620,D-2368,Person_620,80,Female,Satara,Financial Assistance,4/24/2023
+B-2621,D-1048,Person_621,8,Other,Aurangabad,Financial Assistance,5/5/2009
+B-2622,D-1647,Person_622,23,Other,Aurangabad,Shelter,6/10/2007
+B-2623,D-1027,Person_623,56,Male,Pune,Financial Assistance,7/8/2015
+B-2624,D-1689,Person_624,24,Other,Aurangabad,Medical,5/18/2006
+B-2625,D-1824,Person_625,36,Other,Kolhapur,Shelter,12/19/2019
+B-2626,D-1701,Person_626,38,Male,Mumbai,Medical,2/2/2012
+B-2627,D-1432,Person_627,85,Male,Solapur,Medical,3/11/2011
+B-2628,D-2775,Person_628,11,Male,Solapur,Shelter,3/7/2020
+B-2629,D-1689,Person_629,12,Male,Ratnagiri,Shelter,8/11/2008
+B-2630,D-1920,Person_630,81,Female,Satara,Medical,8/11/2015
+B-2631,D-2969,Person_631,52,Male,Aurangabad,Shelter,8/14/2023
+B-2632,D-2503,Person_632,81,Other,Ratnagiri,Financial Assistance,5/24/2007
+B-2633,D-1933,Person_633,47,Male,Ratnagiri,Medical,10/24/2016
+B-2634,D-2796,Person_634,46,Other,Ratnagiri,Shelter,12/19/2012
+B-2635,D-1750,Person_635,3,Other,Kolhapur,Financial Assistance,6/20/2005
+B-2636,D-2616,Person_636,52,Other,Pune,Medical,5/10/2020
+B-2637,D-2742,Person_637,1,Other,Thane,Shelter,6/3/2016
+B-2638,D-1308,Person_638,67,Other,Aurangabad,Food,3/3/2011
+B-2639,D-2176,Person_639,13,Male,Nagpur,Shelter,1/31/2004
+B-2640,D-2052,Person_640,33,Other,Nashik,Financial Assistance,7/31/2018
+B-2641,D-2194,Person_641,57,Female,Solapur,Medical,11/30/2008
+B-2642,D-1305,Person_642,26,Female,Kolhapur,Medical,7/8/2012
+B-2643,D-2632,Person_643,83,Other,Ratnagiri,Financial Assistance,11/15/2009
+B-2644,D-1771,Person_644,96,Other,Solapur,Shelter,2/7/2017
+B-2645,D-1746,Person_645,54,Female,Nagpur,Food,12/22/2013
+B-2646,D-1497,Person_646,31,Female,Solapur,Shelter,5/21/2008
+B-2647,D-2758,Person_647,63,Other,Aurangabad,Medical,3/1/2018
+B-2648,D-1844,Person_648,63,Other,Thane,Food,3/27/2005
+B-2649,D-2738,Person_649,18,Female,Kolhapur,Shelter,8/5/2014
+B-2650,D-1850,Person_650,93,Male,Kolhapur,Food,12/12/2011
+B-2651,D-1167,Person_651,44,Female,Mumbai,Financial Assistance,6/15/2017
+B-2652,D-1214,Person_652,70,Male,Thane,Food,4/15/2015
+B-2653,D-2835,Person_653,1,Male,Thane,Food,8/21/2010
+B-2654,D-1565,Person_654,3,Other,Satara,Medical,6/25/2020
+B-2655,D-2781,Person_655,11,Female,Solapur,Shelter,10/8/2017
+B-2656,D-1815,Person_656,67,Male,Satara,Food,4/22/2022
+B-2657,D-1967,Person_657,86,Male,Aurangabad,Shelter,1/16/2012
+B-2658,D-2198,Person_658,72,Male,Aurangabad,Medical,4/12/2022
+B-2659,D-2704,Person_659,65,Male,Kolhapur,Medical,12/28/2012
+B-2660,D-2455,Person_660,43,Male,Solapur,Food,2/10/2018
+B-2661,D-1043,Person_661,75,Female,Pune,Financial Assistance,9/11/2021
+B-2662,D-1028,Person_662,23,Male,Thane,Financial Assistance,3/20/2009
+B-2663,D-1021,Person_663,57,Male,Nagpur,Shelter,12/2/2016
+B-2664,D-1643,Person_664,75,Male,Ratnagiri,Food,5/21/2010
+B-2665,D-1380,Person_665,95,Other,Ratnagiri,Shelter,11/12/2012
+B-2666,D-1974,Person_666,81,Female,Ratnagiri,Medical,3/2/2014
+B-2667,D-1554,Person_667,11,Other,Kolhapur,Shelter,7/13/2012
+B-2668,D-1317,Person_668,84,Other,Mumbai,Food,8/12/2023
+B-2669,D-2520,Person_669,41,Female,Ratnagiri,Financial Assistance,9/4/2009
+B-2670,D-2876,Person_670,41,Male,Satara,Medical,11/1/2011
+B-2671,D-1825,Person_671,89,Male,Nagpur,Medical,12/23/2006
+B-2672,D-1681,Person_672,77,Other,Aurangabad,Food,1/25/2008
+B-2673,D-2735,Person_673,39,Female,Pune,Financial Assistance,1/13/2012
+B-2674,D-1110,Person_674,79,Female,Ratnagiri,Shelter,6/27/2010
+B-2675,D-1183,Person_675,92,Other,Pune,Medical,12/16/2017
+B-2676,D-1829,Person_676,60,Male,Ratnagiri,Shelter,10/12/2014
+B-2677,D-1707,Person_677,38,Female,Nagpur,Food,7/13/2014
+B-2678,D-2390,Person_678,14,Female,Nagpur,Shelter,5/16/2021
+B-2679,D-1684,Person_679,92,Male,Aurangabad,Medical,1/24/2023
+B-2680,D-2117,Person_680,53,Male,Nashik,Food,9/26/2020
+B-2681,D-2570,Person_681,50,Male,Solapur,Financial Assistance,12/9/2009
+B-2682,D-1075,Person_682,75,Female,Pune,Food,4/4/2009
+B-2683,D-2077,Person_683,39,Male,Kolhapur,Food,3/4/2009
+B-2684,D-1921,Person_684,58,Other,Solapur,Financial Assistance,9/30/2009
+B-2685,D-2257,Person_685,16,Male,Mumbai,Financial Assistance,6/21/2021
+B-2686,D-1573,Person_686,8,Other,Thane,Financial Assistance,3/21/2022
+B-2687,D-2351,Person_687,33,Female,Ratnagiri,Medical,5/1/2021
+B-2688,D-1421,Person_688,62,Female,Kolhapur,Shelter,7/15/2018
+B-2689,D-1254,Person_689,2,Other,Kolhapur,Medical,2/1/2010
+B-2690,D-2644,Person_690,88,Male,Aurangabad,Food,6/5/2007
+B-2691,D-1130,Person_691,36,Male,Nashik,Financial Assistance,11/20/2019
+B-2692,D-2954,Person_692,25,Female,Kolhapur,Food,1/4/2008
+B-2693,D-1609,Person_693,15,Female,Mumbai,Medical,5/4/2011
+B-2694,D-2877,Person_694,28,Female,Pune,Financial Assistance,12/22/2021
+B-2695,D-2604,Person_695,30,Female,Satara,Food,8/29/2006
+B-2696,D-1042,Person_696,33,Other,Thane,Financial Assistance,11/15/2017
+B-2697,D-1012,Person_697,7,Male,Kolhapur,Food,3/13/2007
+B-2698,D-2185,Person_698,81,Other,Pune,Financial Assistance,8/13/2013
+B-2699,D-1273,Person_699,53,Female,Thane,Medical,12/24/2011
+B-2700,D-2941,Person_700,64,Other,Nashik,Food,10/16/2004
+B-2701,D-2277,Person_701,41,Other,Pune,Financial Assistance,5/26/2007
+B-2702,D-2693,Person_702,57,Other,Nagpur,Shelter,5/13/2021
+B-2703,D-1659,Person_703,73,Other,Pune,Medical,9/22/2006
+B-2704,D-1919,Person_704,15,Other,Thane,Financial Assistance,12/15/2016
+B-2705,D-1631,Person_705,12,Female,Mumbai,Financial Assistance,8/29/2020
+B-2706,D-2066,Person_706,92,Male,Thane,Shelter,10/25/2023
+B-2707,D-2224,Person_707,54,Other,Ratnagiri,Medical,5/21/2020
+B-2708,D-1738,Person_708,12,Male,Aurangabad,Financial Assistance,11/23/2007
+B-2709,D-2520,Person_709,26,Other,Nashik,Financial Assistance,7/6/2009
+B-2710,D-2059,Person_710,18,Other,Kolhapur,Food,5/26/2006
+B-2711,D-1316,Person_711,14,Female,Pune,Shelter,10/22/2005
+B-2712,D-1325,Person_712,84,Female,Nagpur,Financial Assistance,8/26/2019
+B-2713,D-2741,Person_713,82,Female,Kolhapur,Food,5/31/2004
+B-2714,D-1704,Person_714,3,Female,Solapur,Financial Assistance,4/11/2023
+B-2715,D-2013,Person_715,64,Other,Nashik,Shelter,10/15/2006
+B-2716,D-2128,Person_716,46,Female,Aurangabad,Shelter,12/27/2021
+B-2717,D-2393,Person_717,41,Other,Nagpur,Financial Assistance,3/8/2008
+B-2718,D-2436,Person_718,32,Other,Satara,Food,7/28/2012
+B-2719,D-2042,Person_719,50,Other,Mumbai,Food,12/6/2012
+B-2720,D-2892,Person_720,82,Male,Thane,Medical,1/10/2009
+B-2721,D-2324,Person_721,91,Other,Pune,Food,3/5/2008
+B-2722,D-1229,Person_722,84,Male,Nashik,Medical,5/18/2022
+B-2723,D-2296,Person_723,99,Male,Satara,Food,10/23/2013
+B-2724,D-1089,Person_724,61,Male,Mumbai,Financial Assistance,4/4/2017
+B-2725,D-2500,Person_725,63,Male,Kolhapur,Food,10/17/2019
+B-2726,D-1536,Person_726,49,Male,Solapur,Medical,11/8/2017
+B-2727,D-2939,Person_727,61,Female,Kolhapur,Food,10/8/2007
+B-2728,D-2010,Person_728,39,Other,Pune,Food,7/27/2022
+B-2729,D-1831,Person_729,3,Other,Nashik,Shelter,8/29/2010
+B-2730,D-2764,Person_730,42,Other,Ratnagiri,Shelter,3/11/2009
+B-2731,D-1027,Person_731,87,Male,Kolhapur,Medical,2/2/2017
+B-2732,D-2850,Person_732,24,Male,Kolhapur,Shelter,2/25/2006
+B-2733,D-1062,Person_733,65,Female,Satara,Financial Assistance,8/31/2007
+B-2734,D-2711,Person_734,66,Male,Satara,Medical,4/26/2014
+B-2735,D-2465,Person_735,73,Other,Thane,Medical,7/7/2021
+B-2736,D-1381,Person_736,94,Other,Thane,Medical,10/16/2021
+B-2737,D-1700,Person_737,14,Other,Ratnagiri,Financial Assistance,12/22/2016
+B-2738,D-2581,Person_738,8,Female,Mumbai,Food,4/19/2016
+B-2739,D-2052,Person_739,11,Other,Pune,Financial Assistance,5/2/2017
+B-2740,D-2048,Person_740,46,Male,Satara,Food,9/26/2012
+B-2741,D-2183,Person_741,1,Male,Nagpur,Food,2/22/2018
+B-2742,D-1235,Person_742,51,Male,Kolhapur,Food,7/15/2013
+B-2743,D-2344,Person_743,66,Female,Kolhapur,Food,9/12/2010
+B-2744,D-2181,Person_744,8,Male,Mumbai,Medical,7/23/2021
+B-2745,D-1181,Person_745,99,Female,Ratnagiri,Medical,2/2/2011
+B-2746,D-2868,Person_746,52,Male,Nashik,Food,6/9/2011
+B-2747,D-2794,Person_747,38,Other,Nagpur,Shelter,4/4/2004
+B-2748,D-2971,Person_748,36,Female,Mumbai,Shelter,5/4/2005
+B-2749,D-1774,Person_749,3,Female,Thane,Medical,4/5/2011
+B-2750,D-2101,Person_750,31,Other,Nashik,Food,1/14/2022
+B-2751,D-1550,Person_751,34,Other,Pune,Financial Assistance,7/23/2006
+B-2752,D-1119,Person_752,21,Male,Nagpur,Financial Assistance,5/1/2009
+B-2753,D-1260,Person_753,100,Female,Ratnagiri,Shelter,11/20/2019
+B-2754,D-2867,Person_754,61,Other,Nashik,Shelter,4/27/2020
+B-2755,D-2542,Person_755,71,Other,Aurangabad,Shelter,9/6/2008
+B-2756,D-1675,Person_756,8,Other,Kolhapur,Food,9/12/2022
+B-2757,D-1598,Person_757,73,Other,Solapur,Medical,12/28/2004
+B-2758,D-2403,Person_758,49,Other,Mumbai,Medical,7/9/2008
+B-2759,D-2363,Person_759,64,Male,Pune,Medical,12/19/2023
+B-2760,D-2844,Person_760,87,Other,Ratnagiri,Food,1/2/2004
+B-2761,D-2236,Person_761,67,Male,Satara,Food,7/20/2007
+B-2762,D-1929,Person_762,41,Female,Nashik,Shelter,8/19/2004
+B-2763,D-2121,Person_763,63,Female,Nashik,Shelter,8/13/2008
+B-2764,D-1346,Person_764,34,Male,Ratnagiri,Financial Assistance,7/29/2009
+B-2765,D-2058,Person_765,49,Male,Aurangabad,Shelter,11/5/2018
+B-2766,D-2801,Person_766,69,Female,Nagpur,Shelter,4/9/2008
+B-2767,D-1405,Person_767,72,Male,Aurangabad,Medical,11/17/2023
+B-2768,D-1480,Person_768,7,Female,Thane,Food,2/27/2019
+B-2769,D-1487,Person_769,75,Male,Solapur,Food,11/13/2019
+B-2770,D-2513,Person_770,36,Other,Satara,Financial Assistance,4/26/2019
+B-2771,D-1015,Person_771,12,Male,Ratnagiri,Food,10/8/2021
+B-2772,D-2217,Person_772,47,Other,Thane,Food,6/21/2007
+B-2773,D-2979,Person_773,62,Male,Kolhapur,Shelter,9/5/2017
+B-2774,D-1046,Person_774,16,Female,Kolhapur,Medical,9/20/2013
+B-2775,D-1038,Person_775,53,Female,Thane,Medical,5/12/2017
+B-2776,D-1550,Person_776,94,Other,Solapur,Financial Assistance,9/14/2016
+B-2777,D-2257,Person_777,15,Female,Solapur,Food,4/12/2015
+B-2778,D-1875,Person_778,57,Other,Thane,Medical,3/18/2013
+B-2779,D-1473,Person_779,95,Other,Aurangabad,Medical,6/17/2013
+B-2780,D-2841,Person_780,93,Female,Pune,Financial Assistance,2/9/2016
+B-2781,D-2099,Person_781,86,Female,Thane,Food,2/14/2021
+B-2782,D-1965,Person_782,90,Male,Solapur,Financial Assistance,6/16/2011
+B-2783,D-2496,Person_783,28,Male,Pune,Shelter,9/17/2005
+B-2784,D-2700,Person_784,63,Other,Satara,Shelter,5/14/2021
+B-2785,D-1682,Person_785,89,Other,Aurangabad,Food,8/8/2020
+B-2786,D-1191,Person_786,36,Other,Pune,Food,11/3/2010
+B-2787,D-2006,Person_787,31,Female,Thane,Food,9/28/2019
+B-2788,D-2319,Person_788,97,Other,Thane,Shelter,1/13/2021
+B-2789,D-1449,Person_789,41,Other,Satara,Medical,6/22/2014
+B-2790,D-2611,Person_790,96,Male,Pune,Medical,1/25/2005
+B-2791,D-2751,Person_791,49,Female,Ratnagiri,Shelter,7/21/2005
+B-2792,D-1213,Person_792,41,Other,Nashik,Medical,10/23/2010
+B-2793,D-1347,Person_793,53,Male,Pune,Medical,7/9/2015
+B-2794,D-2061,Person_794,23,Male,Ratnagiri,Medical,4/30/2009
+B-2795,D-1989,Person_795,93,Female,Solapur,Shelter,1/20/2005
+B-2796,D-2918,Person_796,23,Male,Kolhapur,Medical,7/5/2019
+B-2797,D-2837,Person_797,77,Male,Aurangabad,Financial Assistance,11/11/2023
+B-2798,D-2855,Person_798,95,Other,Kolhapur,Financial Assistance,6/25/2023
+B-2799,D-1320,Person_799,29,Female,Ratnagiri,Shelter,11/9/2018
+B-2800,D-1597,Person_800,9,Male,Thane,Shelter,2/21/2019
+B-2801,D-1572,Person_801,81,Other,Kolhapur,Shelter,12/15/2006
+B-2802,D-2447,Person_802,68,Male,Aurangabad,Medical,3/19/2023
+B-2803,D-1179,Person_803,85,Other,Nashik,Financial Assistance,3/4/2008
+B-2804,D-2984,Person_804,76,Female,Aurangabad,Shelter,5/28/2018
+B-2805,D-2859,Person_805,73,Female,Pune,Financial Assistance,10/15/2011
+B-2806,D-2403,Person_806,72,Other,Satara,Medical,7/2/2014
+B-2807,D-1364,Person_807,97,Other,Solapur,Food,10/7/2017
+B-2808,D-2693,Person_808,20,Other,Nashik,Food,9/19/2019
+B-2809,D-1303,Person_809,72,Other,Pune,Medical,12/3/2010
+B-2810,D-2557,Person_810,99,Female,Aurangabad,Food,5/8/2022
+B-2811,D-2300,Person_811,32,Male,Solapur,Medical,5/28/2007
+B-2812,D-1026,Person_812,66,Other,Solapur,Shelter,4/26/2009
+B-2813,D-2947,Person_813,47,Male,Kolhapur,Financial Assistance,10/2/2013
+B-2814,D-2690,Person_814,24,Other,Nagpur,Medical,5/18/2018
+B-2815,D-2360,Person_815,67,Male,Solapur,Medical,3/7/2008
+B-2816,D-2116,Person_816,66,Other,Solapur,Financial Assistance,4/5/2020
+B-2817,D-1686,Person_817,47,Other,Pune,Medical,12/30/2020
+B-2818,D-1705,Person_818,36,Other,Mumbai,Medical,6/10/2012
+B-2819,D-1656,Person_819,18,Male,Satara,Financial Assistance,2/25/2018
+B-2820,D-2442,Person_820,27,Other,Satara,Food,12/23/2023
+B-2821,D-2043,Person_821,78,Male,Mumbai,Medical,10/28/2020
+B-2822,D-1426,Person_822,22,Male,Nashik,Medical,3/15/2011
+B-2823,D-2377,Person_823,19,Other,Kolhapur,Financial Assistance,5/1/2010
+B-2824,D-2711,Person_824,79,Male,Nagpur,Financial Assistance,6/22/2004
+B-2825,D-2022,Person_825,52,Male,Mumbai,Food,3/17/2006
+B-2826,D-2797,Person_826,33,Male,Thane,Financial Assistance,12/7/2010
+B-2827,D-2599,Person_827,81,Female,Thane,Medical,12/4/2013
+B-2828,D-2362,Person_828,50,Other,Mumbai,Shelter,8/20/2017
+B-2829,D-2163,Person_829,43,Male,Aurangabad,Financial Assistance,7/3/2019
+B-2830,D-2551,Person_830,77,Female,Nagpur,Medical,10/24/2007
+B-2831,D-1578,Person_831,78,Female,Satara,Financial Assistance,1/18/2013
+B-2832,D-2844,Person_832,61,Female,Kolhapur,Financial Assistance,3/18/2008
+B-2833,D-2680,Person_833,47,Other,Pune,Shelter,9/26/2008
+B-2834,D-1626,Person_834,48,Male,Kolhapur,Food,11/28/2015
+B-2835,D-2173,Person_835,30,Male,Nashik,Medical,10/26/2014
+B-2836,D-1439,Person_836,90,Female,Thane,Financial Assistance,5/29/2015
+B-2837,D-2289,Person_837,16,Other,Pune,Financial Assistance,7/20/2019
+B-2838,D-2156,Person_838,61,Male,Satara,Financial Assistance,4/3/2005
+B-2839,D-2056,Person_839,66,Male,Mumbai,Food,3/8/2013
+B-2840,D-2962,Person_840,26,Male,Nashik,Medical,5/28/2020
+B-2841,D-1307,Person_841,52,Female,Ratnagiri,Shelter,2/20/2011
+B-2842,D-2799,Person_842,59,Male,Thane,Shelter,10/6/2014
+B-2843,D-1468,Person_843,11,Female,Aurangabad,Shelter,10/14/2022
+B-2844,D-2767,Person_844,69,Other,Satara,Financial Assistance,6/27/2019
+B-2845,D-1605,Person_845,93,Female,Nashik,Food,1/22/2008
+B-2846,D-1247,Person_846,18,Female,Nagpur,Food,6/19/2022
+B-2847,D-1587,Person_847,38,Male,Aurangabad,Shelter,5/2/2009
+B-2848,D-1133,Person_848,79,Female,Pune,Financial Assistance,3/20/2022
+B-2849,D-1143,Person_849,85,Other,Pune,Medical,1/30/2014
+B-2850,D-1578,Person_850,79,Male,Pune,Shelter,8/16/2022
+B-2851,D-2536,Person_851,17,Female,Satara,Food,3/24/2010
+B-2852,D-2091,Person_852,35,Other,Nagpur,Financial Assistance,9/9/2013
+B-2853,D-1577,Person_853,64,Other,Thane,Food,9/17/2011
+B-2854,D-1149,Person_854,62,Other,Mumbai,Shelter,5/10/2008
+B-2855,D-2595,Person_855,81,Female,Ratnagiri,Food,1/11/2022
+B-2856,D-2435,Person_856,90,Male,Mumbai,Medical,12/19/2023
+B-2857,D-2006,Person_857,69,Male,Satara,Medical,9/27/2023
+B-2858,D-2403,Person_858,56,Male,Thane,Financial Assistance,2/12/2016
+B-2859,D-1765,Person_859,3,Male,Satara,Shelter,5/4/2009
+B-2860,D-1821,Person_860,74,Female,Thane,Financial Assistance,9/24/2022
+B-2861,D-1043,Person_861,78,Female,Pune,Medical,4/26/2023
+B-2862,D-1128,Person_862,35,Other,Kolhapur,Shelter,10/3/2013
+B-2863,D-1982,Person_863,45,Female,Aurangabad,Shelter,12/2/2020
+B-2864,D-1782,Person_864,91,Other,Satara,Food,9/18/2016
+B-2865,D-1549,Person_865,45,Male,Pune,Food,12/31/2020
+B-2866,D-1339,Person_866,3,Female,Nagpur,Financial Assistance,6/19/2004
+B-2867,D-1240,Person_867,70,Other,Kolhapur,Financial Assistance,12/29/2023
+B-2868,D-1413,Person_868,54,Other,Satara,Medical,5/5/2014
+B-2869,D-1361,Person_869,68,Other,Satara,Medical,8/24/2005
+B-2870,D-1114,Person_870,55,Male,Nashik,Financial Assistance,2/15/2021
+B-2871,D-2759,Person_871,19,Other,Nashik,Shelter,1/10/2006
+B-2872,D-1614,Person_872,69,Male,Ratnagiri,Shelter,10/6/2010
+B-2873,D-1368,Person_873,100,Other,Pune,Food,9/11/2005
+B-2874,D-2556,Person_874,85,Other,Ratnagiri,Shelter,12/4/2020
+B-2875,D-1585,Person_875,26,Other,Satara,Financial Assistance,7/20/2017
+B-2876,D-2351,Person_876,92,Female,Satara,Financial Assistance,2/26/2007
+B-2877,D-2629,Person_877,84,Female,Nagpur,Shelter,5/23/2008
+B-2878,D-1666,Person_878,40,Male,Ratnagiri,Medical,12/16/2023
+B-2879,D-2736,Person_879,96,Other,Aurangabad,Shelter,5/20/2007
+B-2880,D-2991,Person_880,13,Female,Pune,Food,4/2/2018
+B-2881,D-2447,Person_881,73,Male,Thane,Medical,9/13/2010
+B-2882,D-1352,Person_882,28,Male,Kolhapur,Medical,3/4/2023
+B-2883,D-1320,Person_883,67,Female,Nagpur,Food,10/31/2016
+B-2884,D-2646,Person_884,76,Other,Mumbai,Medical,10/16/2005
+B-2885,D-2357,Person_885,21,Male,Ratnagiri,Shelter,4/30/2022
+B-2886,D-2660,Person_886,60,Female,Aurangabad,Food,2/11/2012
+B-2887,D-2776,Person_887,65,Female,Kolhapur,Shelter,1/7/2017
+B-2888,D-1089,Person_888,70,Other,Aurangabad,Shelter,9/13/2018
+B-2889,D-1175,Person_889,26,Other,Aurangabad,Financial Assistance,10/28/2022
+B-2890,D-1489,Person_890,27,Other,Nashik,Financial Assistance,3/22/2006
+B-2891,D-1284,Person_891,27,Male,Nagpur,Shelter,5/18/2009
+B-2892,D-1594,Person_892,57,Male,Pune,Shelter,2/29/2004
+B-2893,D-2630,Person_893,34,Other,Kolhapur,Food,12/23/2011
+B-2894,D-2517,Person_894,7,Other,Pune,Financial Assistance,11/20/2014
+B-2895,D-1107,Person_895,5,Other,Solapur,Medical,3/15/2019
+B-2896,D-2229,Person_896,78,Other,Ratnagiri,Shelter,6/27/2023
+B-2897,D-2797,Person_897,94,Female,Solapur,Medical,8/12/2004
+B-2898,D-1237,Person_898,99,Other,Nagpur,Shelter,10/31/2019
+B-2899,D-1702,Person_899,63,Male,Aurangabad,Food,11/10/2005
+B-2900,D-1340,Person_900,67,Other,Solapur,Financial Assistance,11/25/2017
+B-2901,D-2114,Person_901,47,Male,Ratnagiri,Financial Assistance,3/29/2011
+B-2902,D-2140,Person_902,43,Male,Kolhapur,Food,11/20/2023
+B-2903,D-1804,Person_903,16,Other,Nagpur,Medical,2/27/2009
+B-2904,D-1790,Person_904,31,Other,Satara,Medical,2/23/2008
+B-2905,D-2733,Person_905,62,Female,Thane,Food,12/21/2005
+B-2906,D-1059,Person_906,62,Male,Pune,Shelter,3/24/2020
+B-2907,D-1229,Person_907,76,Male,Solapur,Medical,9/8/2006
+B-2908,D-1770,Person_908,45,Other,Nashik,Food,2/23/2023
+B-2909,D-1216,Person_909,13,Female,Ratnagiri,Financial Assistance,2/9/2011
+B-2910,D-2387,Person_910,39,Male,Mumbai,Food,8/9/2021
+B-2911,D-2458,Person_911,56,Male,Nashik,Medical,11/26/2019
+B-2912,D-1721,Person_912,75,Other,Nashik,Shelter,1/18/2010
+B-2913,D-1191,Person_913,50,Female,Mumbai,Medical,7/24/2011
+B-2914,D-1791,Person_914,16,Other,Kolhapur,Food,10/2/2021
+B-2915,D-2816,Person_915,29,Female,Nashik,Financial Assistance,1/12/2023
+B-2916,D-1360,Person_916,82,Male,Thane,Food,8/11/2021
+B-2917,D-2876,Person_917,31,Female,Satara,Food,3/8/2005
+B-2918,D-1398,Person_918,16,Male,Kolhapur,Medical,12/17/2012
+B-2919,D-1828,Person_919,73,Female,Aurangabad,Financial Assistance,8/22/2013
+B-2920,D-1022,Person_920,90,Female,Kolhapur,Food,11/22/2009
+B-2921,D-1582,Person_921,39,Male,Nashik,Medical,4/11/2009
+B-2922,D-2145,Person_922,42,Male,Satara,Financial Assistance,7/24/2015
+B-2923,D-2170,Person_923,48,Other,Kolhapur,Shelter,7/27/2009
+B-2924,D-2769,Person_924,79,Female,Solapur,Financial Assistance,4/4/2014
+B-2925,D-2656,Person_925,75,Female,Ratnagiri,Medical,4/20/2005
+B-2926,D-1332,Person_926,37,Other,Ratnagiri,Financial Assistance,10/21/2009
+B-2927,D-1171,Person_927,63,Other,Nagpur,Food,9/13/2023
+B-2928,D-2329,Person_928,76,Male,Satara,Medical,12/13/2023
+B-2929,D-1515,Person_929,52,Other,Mumbai,Financial Assistance,1/5/2008
+B-2930,D-1560,Person_930,62,Male,Aurangabad,Medical,6/16/2016
+B-2931,D-2595,Person_931,97,Female,Satara,Shelter,8/11/2021
+B-2932,D-1296,Person_932,55,Male,Mumbai,Financial Assistance,11/3/2016
+B-2933,D-1010,Person_933,73,Male,Kolhapur,Food,8/28/2022
+B-2934,D-2593,Person_934,3,Female,Mumbai,Food,9/30/2011
+B-2935,D-1325,Person_935,44,Other,Thane,Food,12/18/2012
+B-2936,D-1352,Person_936,23,Female,Nagpur,Food,11/17/2015
+B-2937,D-1792,Person_937,45,Male,Thane,Medical,5/30/2004
+B-2938,D-1350,Person_938,7,Male,Thane,Financial Assistance,5/20/2014
+B-2939,D-2562,Person_939,99,Other,Solapur,Medical,9/19/2010
+B-2940,D-2442,Person_940,95,Other,Pune,Financial Assistance,10/6/2017
+B-2941,D-2438,Person_941,24,Other,Pune,Shelter,10/26/2007
+B-2942,D-1535,Person_942,72,Other,Nashik,Medical,3/1/2017
+B-2943,D-2748,Person_943,9,Male,Solapur,Shelter,3/1/2021
+B-2944,D-2719,Person_944,56,Male,Thane,Medical,7/20/2011
+B-2945,D-1943,Person_945,13,Male,Aurangabad,Financial Assistance,5/11/2016
+B-2946,D-2178,Person_946,40,Other,Ratnagiri,Medical,7/5/2020
+B-2947,D-2059,Person_947,92,Other,Nagpur,Shelter,4/15/2013
+B-2948,D-1045,Person_948,29,Female,Nagpur,Food,7/18/2013
+B-2949,D-2732,Person_949,86,Female,Mumbai,Medical,11/14/2022
+B-2950,D-2679,Person_950,96,Other,Solapur,Shelter,2/2/2013
+B-2951,D-2439,Person_951,53,Male,Thane,Shelter,6/15/2011
+B-2952,D-1458,Person_952,25,Female,Kolhapur,Financial Assistance,3/31/2010
+B-2953,D-2613,Person_953,31,Female,Thane,Financial Assistance,12/14/2014
+B-2954,D-2335,Person_954,76,Female,Thane,Food,1/24/2022
+B-2955,D-2824,Person_955,80,Female,Thane,Shelter,9/22/2011
+B-2956,D-1235,Person_956,90,Female,Nashik,Shelter,3/19/2014
+B-2957,D-2578,Person_957,20,Male,Nashik,Medical,4/23/2023
+B-2958,D-1417,Person_958,13,Other,Kolhapur,Financial Assistance,5/31/2012
+B-2959,D-1497,Person_959,36,Female,Mumbai,Food,5/17/2006
+B-2960,D-2951,Person_960,58,Other,Mumbai,Shelter,1/28/2011
+B-2961,D-1593,Person_961,94,Male,Aurangabad,Food,3/17/2023
+B-2962,D-2098,Person_962,99,Other,Mumbai,Shelter,8/9/2011
+B-2963,D-2639,Person_963,64,Male,Kolhapur,Shelter,5/7/2015
+B-2964,D-1212,Person_964,47,Male,Mumbai,Food,8/17/2020
+B-2965,D-2988,Person_965,75,Male,Thane,Financial Assistance,3/12/2023
+B-2966,D-1885,Person_966,69,Male,Solapur,Food,1/30/2022
+B-2967,D-2115,Person_967,77,Other,Thane,Shelter,8/7/2006
+B-2968,D-1829,Person_968,79,Male,Aurangabad,Food,3/16/2017
+B-2969,D-1378,Person_969,38,Female,Kolhapur,Financial Assistance,10/4/2018
+B-2970,D-1258,Person_970,89,Other,Aurangabad,Shelter,3/25/2023
+B-2971,D-2604,Person_971,6,Female,Ratnagiri,Food,4/15/2022
+B-2972,D-2628,Person_972,61,Female,Ratnagiri,Shelter,7/24/2008
+B-2973,D-1535,Person_973,78,Other,Nagpur,Medical,11/6/2021
+B-2974,D-1714,Person_974,25,Male,Satara,Food,1/19/2007
+B-2975,D-1229,Person_975,30,Female,Solapur,Medical,11/2/2021
+B-2976,D-2453,Person_976,27,Female,Satara,Food,3/29/2012
+B-2977,D-1251,Person_977,89,Female,Ratnagiri,Shelter,1/28/2020
+B-2978,D-2350,Person_978,78,Other,Mumbai,Shelter,12/10/2004
+B-2979,D-1549,Person_979,24,Other,Aurangabad,Medical,10/6/2011
+B-2980,D-2325,Person_980,57,Male,Thane,Medical,4/6/2019
+B-2981,D-1827,Person_981,45,Male,Nashik,Food,9/6/2006
+B-2982,D-2115,Person_982,100,Other,Nagpur,Shelter,11/14/2021
+B-2983,D-2325,Person_983,80,Other,Nashik,Shelter,7/10/2022
+B-2984,D-2481,Person_984,8,Female,Aurangabad,Shelter,4/7/2021
+B-2985,D-1870,Person_985,2,Female,Solapur,Medical,9/28/2020
+B-2986,D-1891,Person_986,4,Male,Satara,Shelter,2/4/2006
+B-2987,D-2597,Person_987,81,Other,Nashik,Food,8/15/2005
+B-2988,D-1698,Person_988,73,Female,Aurangabad,Shelter,12/17/2017
+B-2989,D-1126,Person_989,85,Male,Kolhapur,Medical,6/25/2015
+B-2990,D-1775,Person_990,36,Female,Solapur,Medical,11/2/2018
+B-2991,D-1918,Person_991,56,Male,Nagpur,Shelter,12/10/2018
+B-2992,D-2411,Person_992,29,Female,Pune,Financial Assistance,9/25/2022
+B-2993,D-1431,Person_993,11,Other,Thane,Financial Assistance,4/12/2006
+B-2994,D-1713,Person_994,68,Male,Aurangabad,Shelter,3/13/2021
+B-2995,D-2713,Person_995,37,Female,Mumbai,Food,6/5/2005
+B-2996,D-1774,Person_996,67,Other,Nashik,Shelter,8/5/2013
+B-2997,D-2128,Person_997,64,Other,Aurangabad,Medical,12/24/2018
+B-2998,D-1228,Person_998,3,Other,Kolhapur,Food,2/28/2015
+B-2999,D-1613,Person_999,11,Other,Aurangabad,Financial Assistance,10/22/2018
+B-3000,D-1407,Person_1000,47,Female,Solapur,Financial Assistance,8/5/2023
+B-3001,D-2939,Person_1001,4,Male,Kolhapur,Financial Assistance,10/27/2021
+B-3002,D-1169,Person_1002,54,Other,Solapur,Shelter,9/27/2010
+B-3003,D-1737,Person_1003,10,Other,Aurangabad,Medical,5/15/2023
+B-3004,D-2325,Person_1004,89,Other,Ratnagiri,Shelter,8/9/2013
+B-3005,D-2748,Person_1005,65,Other,Kolhapur,Shelter,1/8/2020
+B-3006,D-1222,Person_1006,15,Female,Nagpur,Shelter,5/10/2021
+B-3007,D-2235,Person_1007,91,Female,Nashik,Shelter,11/11/2023
+B-3008,D-2216,Person_1008,25,Female,Solapur,Food,7/28/2017
+B-3009,D-1736,Person_1009,26,Female,Aurangabad,Medical,4/21/2023
+B-3010,D-1646,Person_1010,3,Female,Kolhapur,Shelter,3/12/2020
+B-3011,D-1756,Person_1011,62,Female,Pune,Financial Assistance,11/12/2006
+B-3012,D-1746,Person_1012,28,Other,Mumbai,Food,12/3/2013
+B-3013,D-1186,Person_1013,78,Female,Nagpur,Financial Assistance,4/11/2004
+B-3014,D-2612,Person_1014,51,Other,Ratnagiri,Financial Assistance,10/5/2023
+B-3015,D-1846,Person_1015,40,Female,Nagpur,Food,3/14/2008
+B-3016,D-2096,Person_1016,4,Female,Satara,Shelter,6/22/2020
+B-3017,D-1695,Person_1017,18,Male,Aurangabad,Food,12/27/2015
+B-3018,D-2996,Person_1018,75,Male,Nashik,Shelter,11/27/2007
+B-3019,D-1125,Person_1019,60,Other,Nashik,Food,12/12/2008
+B-3020,D-1403,Person_1020,56,Other,Ratnagiri,Medical,3/20/2011
+B-3021,D-1116,Person_1021,42,Other,Kolhapur,Shelter,2/25/2020
+B-3022,D-1796,Person_1022,69,Female,Pune,Financial Assistance,3/13/2017
+B-3023,D-2537,Person_1023,82,Male,Mumbai,Shelter,4/25/2023
+B-3024,D-2720,Person_1024,38,Male,Nagpur,Financial Assistance,2/6/2013
+B-3025,D-2043,Person_1025,82,Female,Solapur,Shelter,1/14/2021
+B-3026,D-1596,Person_1026,50,Female,Satara,Financial Assistance,9/29/2022
+B-3027,D-2577,Person_1027,60,Male,Mumbai,Financial Assistance,2/22/2011
+B-3028,D-1033,Person_1028,50,Female,Thane,Medical,12/25/2014
+B-3029,D-2869,Person_1029,73,Other,Satara,Shelter,3/19/2009
+B-3030,D-1880,Person_1030,5,Female,Pune,Shelter,11/18/2008
+B-3031,D-1088,Person_1031,94,Other,Aurangabad,Shelter,12/28/2022
+B-3032,D-2667,Person_1032,52,Female,Nagpur,Medical,10/16/2008
+B-3033,D-1607,Person_1033,96,Other,Kolhapur,Financial Assistance,3/10/2016
+B-3034,D-2009,Person_1034,48,Male,Satara,Financial Assistance,3/29/2010
+B-3035,D-1274,Person_1035,58,Female,Ratnagiri,Shelter,8/3/2011
+B-3036,D-2124,Person_1036,17,Female,Nashik,Medical,8/23/2010
+B-3037,D-1303,Person_1037,49,Male,Aurangabad,Food,10/23/2005
+B-3038,D-2919,Person_1038,36,Other,Solapur,Shelter,10/17/2010
+B-3039,D-2500,Person_1039,15,Male,Nashik,Shelter,7/30/2006
+B-3040,D-1296,Person_1040,13,Male,Thane,Financial Assistance,8/5/2016
+B-3041,D-2737,Person_1041,27,Other,Aurangabad,Food,7/3/2022
+B-3042,D-1756,Person_1042,91,Other,Solapur,Shelter,12/31/2017
+B-3043,D-1630,Person_1043,73,Other,Thane,Financial Assistance,8/2/2007
+B-3044,D-2395,Person_1044,75,Other,Kolhapur,Food,6/25/2012
+B-3045,D-1436,Person_1045,59,Female,Solapur,Medical,7/5/2019
+B-3046,D-1159,Person_1046,14,Other,Aurangabad,Shelter,7/26/2017
+B-3047,D-2934,Person_1047,88,Other,Mumbai,Financial Assistance,2/10/2005
+B-3048,D-2884,Person_1048,21,Female,Thane,Food,6/21/2009
+B-3049,D-2687,Person_1049,37,Other,Mumbai,Food,6/1/2014
+B-3050,D-2606,Person_1050,6,Other,Ratnagiri,Medical,9/23/2011
+B-3051,D-1510,Person_1051,93,Other,Solapur,Financial Assistance,2/9/2007
+B-3052,D-2245,Person_1052,62,Male,Aurangabad,Shelter,4/11/2010
+B-3053,D-2253,Person_1053,60,Male,Mumbai,Shelter,8/15/2022
+B-3054,D-1780,Person_1054,79,Other,Solapur,Shelter,1/28/2012
+B-3055,D-1724,Person_1055,17,Female,Pune,Financial Assistance,5/22/2014
+B-3056,D-1335,Person_1056,22,Other,Satara,Medical,5/15/2013
+B-3057,D-2446,Person_1057,22,Other,Pune,Financial Assistance,8/7/2021
+B-3058,D-1173,Person_1058,92,Female,Nashik,Medical,1/21/2020
+B-3059,D-1818,Person_1059,54,Female,Ratnagiri,Medical,8/4/2017
+B-3060,D-2185,Person_1060,65,Male,Mumbai,Food,10/9/2016
+B-3061,D-1239,Person_1061,97,Female,Mumbai,Food,3/13/2013
+B-3062,D-1046,Person_1062,86,Other,Aurangabad,Medical,2/22/2009
+B-3063,D-2093,Person_1063,10,Other,Kolhapur,Financial Assistance,11/21/2004
+B-3064,D-2048,Person_1064,25,Other,Thane,Shelter,9/2/2023
+B-3065,D-1515,Person_1065,94,Other,Mumbai,Food,5/8/2023
+B-3066,D-1466,Person_1066,87,Male,Thane,Medical,12/9/2015
+B-3067,D-1206,Person_1067,60,Female,Aurangabad,Food,6/22/2007
+B-3068,D-2137,Person_1068,35,Male,Ratnagiri,Food,7/6/2012
+B-3069,D-2562,Person_1069,18,Female,Mumbai,Financial Assistance,6/4/2007
+B-3070,D-1981,Person_1070,7,Male,Aurangabad,Medical,8/5/2019
+B-3071,D-1278,Person_1071,87,Male,Nashik,Medical,11/21/2015
+B-3072,D-2120,Person_1072,36,Male,Pune,Food,12/25/2007
+B-3073,D-1287,Person_1073,33,Other,Solapur,Shelter,6/11/2016
+B-3074,D-1591,Person_1074,77,Female,Mumbai,Food,10/7/2015
+B-3075,D-1501,Person_1075,45,Female,Kolhapur,Shelter,12/7/2018
+B-3076,D-2733,Person_1076,72,Female,Aurangabad,Food,5/27/2004
+B-3077,D-2026,Person_1077,78,Other,Solapur,Shelter,7/13/2017
+B-3078,D-1944,Person_1078,33,Male,Nashik,Medical,8/28/2007
+B-3079,D-2895,Person_1079,82,Male,Nagpur,Shelter,5/7/2010
+B-3080,D-2379,Person_1080,55,Female,Aurangabad,Shelter,12/13/2010
+B-3081,D-2783,Person_1081,79,Male,Mumbai,Shelter,5/6/2014
+B-3082,D-2346,Person_1082,56,Female,Nagpur,Food,5/11/2021
+B-3083,D-2909,Person_1083,59,Male,Thane,Medical,7/9/2023
+B-3084,D-1290,Person_1084,87,Male,Aurangabad,Shelter,2/17/2020
+B-3085,D-1675,Person_1085,98,Male,Nashik,Medical,1/30/2008
+B-3086,D-2874,Person_1086,68,Female,Solapur,Shelter,6/22/2020
+B-3087,D-1742,Person_1087,19,Male,Kolhapur,Medical,10/22/2011
+B-3088,D-1246,Person_1088,24,Male,Aurangabad,Food,2/17/2005
+B-3089,D-2986,Person_1089,94,Male,Nashik,Shelter,10/26/2013
+B-3090,D-1833,Person_1090,85,Female,Nagpur,Financial Assistance,6/1/2013
+B-3091,D-1177,Person_1091,58,Male,Aurangabad,Shelter,5/27/2005
+B-3092,D-1663,Person_1092,6,Female,Mumbai,Shelter,4/12/2023
+B-3093,D-2627,Person_1093,8,Female,Pune,Financial Assistance,5/16/2023
+B-3094,D-1006,Person_1094,98,Male,Thane,Shelter,5/1/2009
+B-3095,D-1529,Person_1095,30,Other,Mumbai,Financial Assistance,1/30/2019
+B-3096,D-1651,Person_1096,34,Female,Nashik,Financial Assistance,2/28/2007
+B-3097,D-1019,Person_1097,80,Male,Solapur,Shelter,2/13/2010
+B-3098,D-1191,Person_1098,14,Other,Satara,Food,1/6/2018
+B-3099,D-1827,Person_1099,10,Other,Aurangabad,Shelter,5/12/2016
+B-3100,D-2826,Person_1100,67,Other,Ratnagiri,Shelter,1/5/2019
+B-3101,D-1361,Person_1101,27,Female,Mumbai,Food,7/9/2010
+B-3102,D-1094,Person_1102,65,Other,Nashik,Food,2/2/2009
+B-3103,D-2597,Person_1103,19,Other,Solapur,Medical,4/20/2022
+B-3104,D-2721,Person_1104,76,Other,Aurangabad,Medical,5/6/2011
+B-3105,D-1839,Person_1105,61,Male,Aurangabad,Food,12/5/2017
+B-3106,D-1366,Person_1106,56,Male,Kolhapur,Food,9/20/2006
+B-3107,D-1609,Person_1107,49,Other,Ratnagiri,Medical,10/31/2008
+B-3108,D-1229,Person_1108,72,Male,Solapur,Medical,4/7/2006
+B-3109,D-1573,Person_1109,44,Female,Kolhapur,Financial Assistance,2/28/2007
+B-3110,D-2760,Person_1110,57,Other,Nagpur,Financial Assistance,1/2/2015
+B-3111,D-1971,Person_1111,34,Female,Mumbai,Shelter,1/17/2016
+B-3112,D-2575,Person_1112,83,Female,Mumbai,Shelter,1/24/2007
+B-3113,D-2514,Person_1113,87,Male,Nashik,Financial Assistance,3/11/2020
+B-3114,D-1634,Person_1114,83,Female,Thane,Food,4/18/2012
+B-3115,D-1312,Person_1115,61,Other,Mumbai,Shelter,7/7/2005
+B-3116,D-2566,Person_1116,38,Other,Kolhapur,Financial Assistance,9/29/2015
+B-3117,D-1344,Person_1117,27,Male,Satara,Food,6/25/2004
+B-3118,D-2805,Person_1118,88,Male,Mumbai,Financial Assistance,6/28/2012
+B-3119,D-2618,Person_1119,23,Female,Kolhapur,Shelter,5/28/2021
+B-3120,D-1971,Person_1120,49,Female,Satara,Medical,6/11/2016
+B-3121,D-2251,Person_1121,76,Male,Aurangabad,Financial Assistance,1/8/2004
+B-3122,D-1086,Person_1122,97,Female,Kolhapur,Medical,12/10/2005
+B-3123,D-2960,Person_1123,55,Female,Aurangabad,Medical,4/17/2008
+B-3124,D-1372,Person_1124,100,Other,Mumbai,Shelter,4/12/2013
+B-3125,D-2049,Person_1125,19,Female,Solapur,Food,6/27/2009
+B-3126,D-1150,Person_1126,29,Female,Mumbai,Food,4/19/2013
+B-3127,D-2326,Person_1127,12,Female,Kolhapur,Financial Assistance,4/1/2013
+B-3128,D-2472,Person_1128,92,Other,Mumbai,Food,10/16/2006
+B-3129,D-2355,Person_1129,35,Female,Nagpur,Shelter,9/26/2023
+B-3130,D-1890,Person_1130,88,Female,Satara,Food,10/1/2006
+B-3131,D-2420,Person_1131,81,Male,Solapur,Medical,1/31/2010
+B-3132,D-2522,Person_1132,37,Other,Ratnagiri,Financial Assistance,11/27/2016
+B-3133,D-2890,Person_1133,97,Female,Thane,Financial Assistance,12/21/2020
+B-3134,D-1292,Person_1134,59,Female,Nagpur,Food,3/10/2012
+B-3135,D-1239,Person_1135,89,Male,Nashik,Food,5/28/2013
+B-3136,D-1335,Person_1136,49,Other,Nagpur,Shelter,10/23/2011
+B-3137,D-1884,Person_1137,61,Other,Kolhapur,Financial Assistance,4/9/2015
+B-3138,D-1962,Person_1138,92,Male,Pune,Food,4/9/2013
+B-3139,D-1488,Person_1139,96,Other,Aurangabad,Food,7/13/2022
+B-3140,D-2284,Person_1140,29,Male,Mumbai,Medical,11/27/2021
+B-3141,D-2073,Person_1141,75,Male,Mumbai,Medical,2/7/2015
+B-3142,D-2737,Person_1142,20,Male,Nashik,Medical,10/8/2004
+B-3143,D-1666,Person_1143,36,Other,Aurangabad,Financial Assistance,5/16/2006
+B-3144,D-2988,Person_1144,7,Female,Nashik,Shelter,6/27/2009
+B-3145,D-2073,Person_1145,56,Female,Solapur,Financial Assistance,10/4/2005
+B-3146,D-2441,Person_1146,3,Male,Thane,Financial Assistance,9/16/2016
+B-3147,D-1094,Person_1147,25,Male,Nagpur,Food,11/30/2004
+B-3148,D-2267,Person_1148,98,Female,Solapur,Food,9/18/2007
+B-3149,D-2054,Person_1149,97,Female,Kolhapur,Food,3/1/2004
+B-3150,D-1508,Person_1150,57,Other,Nashik,Financial Assistance,7/12/2023
+B-3151,D-1078,Person_1151,75,Other,Satara,Shelter,1/31/2008
+B-3152,D-1616,Person_1152,21,Female,Ratnagiri,Financial Assistance,3/16/2019
+B-3153,D-2701,Person_1153,27,Other,Solapur,Financial Assistance,4/1/2016
+B-3154,D-2230,Person_1154,20,Female,Pune,Food,7/7/2010
+B-3155,D-2277,Person_1155,81,Male,Kolhapur,Shelter,7/2/2007
+B-3156,D-1317,Person_1156,74,Other,Nashik,Food,4/3/2006
+B-3157,D-1864,Person_1157,53,Female,Pune,Medical,9/8/2021
+B-3158,D-2753,Person_1158,14,Male,Ratnagiri,Financial Assistance,12/4/2018
+B-3159,D-1263,Person_1159,46,Male,Nashik,Financial Assistance,6/26/2023
+B-3160,D-2883,Person_1160,38,Female,Nashik,Medical,11/19/2005
+B-3161,D-2220,Person_1161,57,Other,Satara,Food,1/12/2009
+B-3162,D-1171,Person_1162,47,Male,Ratnagiri,Medical,2/9/2019
+B-3163,D-1973,Person_1163,93,Female,Nashik,Food,1/27/2022
+B-3164,D-1558,Person_1164,28,Male,Solapur,Financial Assistance,1/25/2007
+B-3165,D-1225,Person_1165,69,Other,Solapur,Shelter,8/30/2010
+B-3166,D-1109,Person_1166,11,Other,Aurangabad,Financial Assistance,1/12/2017
+B-3167,D-2361,Person_1167,54,Female,Pune,Shelter,1/11/2009
+B-3168,D-1840,Person_1168,12,Other,Mumbai,Food,1/30/2006
+B-3169,D-1949,Person_1169,84,Male,Aurangabad,Financial Assistance,11/29/2012
+B-3170,D-2490,Person_1170,98,Female,Ratnagiri,Shelter,9/28/2016
+B-3171,D-2177,Person_1171,61,Male,Aurangabad,Medical,11/28/2007
+B-3172,D-1581,Person_1172,62,Female,Pune,Medical,3/12/2008
+B-3173,D-2362,Person_1173,71,Other,Ratnagiri,Medical,7/26/2007
+B-3174,D-1873,Person_1174,73,Male,Kolhapur,Financial Assistance,6/1/2013
+B-3175,D-2790,Person_1175,100,Male,Nashik,Shelter,4/24/2009
+B-3176,D-2506,Person_1176,3,Female,Ratnagiri,Food,5/18/2017
+B-3177,D-1452,Person_1177,48,Female,Aurangabad,Financial Assistance,7/21/2008
+B-3178,D-2064,Person_1178,17,Female,Ratnagiri,Financial Assistance,7/20/2012
+B-3179,D-2016,Person_1179,58,Female,Pune,Food,9/15/2014
+B-3180,D-2572,Person_1180,50,Male,Pune,Medical,3/18/2020
+B-3181,D-1606,Person_1181,76,Male,Pune,Medical,9/10/2008
+B-3182,D-1417,Person_1182,100,Female,Mumbai,Medical,8/18/2023
+B-3183,D-2854,Person_1183,67,Male,Mumbai,Food,6/21/2005
+B-3184,D-1048,Person_1184,80,Male,Ratnagiri,Medical,12/13/2010
+B-3185,D-1752,Person_1185,3,Other,Pune,Shelter,8/24/2021
+B-3186,D-2678,Person_1186,40,Female,Nagpur,Shelter,12/10/2019
+B-3187,D-2038,Person_1187,9,Male,Ratnagiri,Financial Assistance,8/7/2015
+B-3188,D-1018,Person_1188,86,Other,Nagpur,Medical,3/9/2021
+B-3189,D-2533,Person_1189,48,Other,Aurangabad,Shelter,8/5/2009
+B-3190,D-2716,Person_1190,68,Other,Ratnagiri,Financial Assistance,10/22/2014
+B-3191,D-2114,Person_1191,92,Female,Mumbai,Shelter,7/30/2022
+B-3192,D-2492,Person_1192,65,Male,Nashik,Food,6/11/2018
+B-3193,D-2852,Person_1193,33,Female,Thane,Financial Assistance,3/22/2020
+B-3194,D-2378,Person_1194,80,Other,Thane,Food,7/1/2019
+B-3195,D-1227,Person_1195,37,Other,Satara,Medical,9/26/2017
+B-3196,D-2901,Person_1196,16,Other,Nashik,Financial Assistance,6/24/2016
+B-3197,D-1491,Person_1197,89,Male,Satara,Financial Assistance,12/30/2023
+B-3198,D-2383,Person_1198,37,Female,Pune,Medical,12/31/2004
+B-3199,D-1675,Person_1199,89,Female,Thane,Shelter,2/12/2004
+B-3200,D-2413,Person_1200,82,Male,Aurangabad,Food,11/15/2019
+B-3201,D-1971,Person_1201,94,Female,Kolhapur,Financial Assistance,7/29/2016
+B-3202,D-1630,Person_1202,6,Male,Solapur,Food,9/9/2019
+B-3203,D-1543,Person_1203,96,Other,Ratnagiri,Financial Assistance,1/27/2014
+B-3204,D-1781,Person_1204,22,Other,Aurangabad,Medical,5/24/2018
+B-3205,D-1295,Person_1205,49,Other,Ratnagiri,Financial Assistance,10/7/2012
+B-3206,D-1174,Person_1206,33,Female,Solapur,Financial Assistance,11/19/2009
+B-3207,D-1292,Person_1207,9,Male,Nagpur,Financial Assistance,6/10/2012
+B-3208,D-1947,Person_1208,71,Male,Solapur,Food,1/16/2009
+B-3209,D-2467,Person_1209,65,Other,Kolhapur,Food,10/8/2009
+B-3210,D-1283,Person_1210,43,Other,Mumbai,Shelter,12/23/2009
+B-3211,D-2798,Person_1211,30,Male,Thane,Food,8/8/2006
+B-3212,D-2599,Person_1212,100,Female,Kolhapur,Financial Assistance,1/6/2021
+B-3213,D-1236,Person_1213,34,Male,Ratnagiri,Medical,4/7/2022
+B-3214,D-2303,Person_1214,25,Male,Ratnagiri,Medical,6/19/2020
+B-3215,D-1074,Person_1215,11,Other,Ratnagiri,Food,8/3/2017
+B-3216,D-1419,Person_1216,11,Male,Ratnagiri,Medical,9/2/2019
+B-3217,D-1870,Person_1217,39,Male,Kolhapur,Shelter,2/22/2017
+B-3218,D-1891,Person_1218,62,Male,Kolhapur,Food,7/18/2017
+B-3219,D-2568,Person_1219,73,Male,Ratnagiri,Shelter,9/5/2012
+B-3220,D-2864,Person_1220,55,Other,Kolhapur,Financial Assistance,9/29/2009
+B-3221,D-2884,Person_1221,29,Other,Thane,Financial Assistance,7/8/2020
+B-3222,D-2134,Person_1222,89,Female,Solapur,Financial Assistance,1/12/2006
+B-3223,D-2995,Person_1223,37,Other,Nagpur,Medical,2/5/2011
+B-3224,D-1617,Person_1224,7,Male,Satara,Shelter,5/14/2006
+B-3225,D-1870,Person_1225,61,Male,Nashik,Shelter,6/4/2017
+B-3226,D-1083,Person_1226,6,Female,Pune,Shelter,8/6/2023
+B-3227,D-1932,Person_1227,94,Female,Mumbai,Medical,11/28/2021
+B-3228,D-2464,Person_1228,67,Male,Mumbai,Financial Assistance,9/15/2011
+B-3229,D-1285,Person_1229,73,Other,Thane,Shelter,10/12/2010
+B-3230,D-1495,Person_1230,15,Male,Thane,Medical,3/15/2013
+B-3231,D-1431,Person_1231,22,Female,Thane,Medical,8/19/2006
+B-3232,D-2263,Person_1232,89,Female,Satara,Shelter,2/20/2010
+B-3233,D-2788,Person_1233,40,Male,Thane,Financial Assistance,2/27/2016
+B-3234,D-2957,Person_1234,30,Other,Ratnagiri,Food,5/17/2009
+B-3235,D-1831,Person_1235,39,Female,Mumbai,Financial Assistance,6/10/2022
+B-3236,D-2569,Person_1236,92,Male,Pune,Financial Assistance,1/22/2015
+B-3237,D-2428,Person_1237,100,Female,Mumbai,Food,9/5/2022
+B-3238,D-2431,Person_1238,90,Male,Nagpur,Shelter,1/28/2008
+B-3239,D-2899,Person_1239,18,Other,Ratnagiri,Medical,10/15/2020
+B-3240,D-2407,Person_1240,96,Female,Aurangabad,Financial Assistance,7/22/2006
+B-3241,D-2754,Person_1241,68,Female,Mumbai,Shelter,8/30/2008
+B-3242,D-2045,Person_1242,52,Other,Ratnagiri,Medical,12/18/2013
+B-3243,D-2943,Person_1243,70,Male,Kolhapur,Medical,11/25/2014
+B-3244,D-1357,Person_1244,81,Female,Nagpur,Financial Assistance,2/21/2018
+B-3245,D-1340,Person_1245,50,Female,Mumbai,Shelter,3/15/2005
+B-3246,D-2666,Person_1246,25,Female,Satara,Food,2/24/2017
+B-3247,D-1849,Person_1247,18,Female,Nagpur,Shelter,3/25/2012
+B-3248,D-1601,Person_1248,29,Male,Aurangabad,Shelter,1/26/2004
+B-3249,D-1575,Person_1249,4,Male,Thane,Medical,4/19/2013
+B-3250,D-1019,Person_1250,42,Other,Mumbai,Financial Assistance,7/12/2018
+B-3251,D-2004,Person_1251,57,Other,Kolhapur,Shelter,1/25/2007
+B-3252,D-2177,Person_1252,65,Female,Thane,Medical,6/7/2008
+B-3253,D-1690,Person_1253,52,Male,Solapur,Financial Assistance,12/5/2015
+B-3254,D-2475,Person_1254,58,Other,Ratnagiri,Food,6/7/2010
+B-3255,D-1838,Person_1255,41,Male,Kolhapur,Food,2/20/2008
+B-3256,D-1841,Person_1256,4,Other,Satara,Financial Assistance,5/12/2010
+B-3257,D-2183,Person_1257,90,Female,Nagpur,Medical,9/21/2013
+B-3258,D-2150,Person_1258,90,Other,Nashik,Medical,10/1/2006
+B-3259,D-2968,Person_1259,38,Female,Ratnagiri,Shelter,1/27/2016
+B-3260,D-1807,Person_1260,93,Male,Solapur,Food,7/28/2012
+B-3261,D-2110,Person_1261,39,Female,Satara,Shelter,9/12/2004
+B-3262,D-1888,Person_1262,84,Other,Kolhapur,Shelter,6/28/2018
+B-3263,D-1061,Person_1263,31,Female,Aurangabad,Medical,3/30/2012
+B-3264,D-1824,Person_1264,94,Female,Pune,Shelter,11/21/2015
+B-3265,D-1006,Person_1265,34,Female,Satara,Medical,3/28/2012
+B-3266,D-2271,Person_1266,89,Female,Nagpur,Financial Assistance,7/1/2022
+B-3267,D-1419,Person_1267,97,Other,Mumbai,Medical,10/21/2005
+B-3268,D-1419,Person_1268,5,Other,Kolhapur,Medical,1/13/2022
+B-3269,D-2366,Person_1269,97,Female,Nashik,Shelter,3/1/2017
+B-3270,D-1206,Person_1270,17,Male,Mumbai,Food,8/17/2022
+B-3271,D-2455,Person_1271,57,Male,Pune,Financial Assistance,7/30/2005
+B-3272,D-1031,Person_1272,6,Female,Nashik,Food,10/29/2016
+B-3273,D-1959,Person_1273,69,Other,Ratnagiri,Financial Assistance,2/11/2015
+B-3274,D-2610,Person_1274,73,Male,Kolhapur,Financial Assistance,5/15/2005
+B-3275,D-2551,Person_1275,47,Male,Satara,Medical,9/16/2010
+B-3276,D-2192,Person_1276,51,Female,Satara,Medical,10/25/2014
+B-3277,D-1124,Person_1277,18,Female,Thane,Financial Assistance,9/22/2021
+B-3278,D-1265,Person_1278,11,Other,Solapur,Medical,8/9/2019
+B-3279,D-2477,Person_1279,67,Other,Mumbai,Shelter,2/15/2007
+B-3280,D-1201,Person_1280,37,Other,Aurangabad,Food,10/27/2019
+B-3281,D-1014,Person_1281,68,Male,Mumbai,Shelter,7/20/2016
+B-3282,D-1657,Person_1282,31,Male,Satara,Food,5/12/2006
+B-3283,D-2243,Person_1283,57,Other,Kolhapur,Medical,9/5/2012
+B-3284,D-2000,Person_1284,90,Male,Satara,Shelter,8/24/2018
+B-3285,D-1141,Person_1285,15,Female,Solapur,Shelter,7/25/2014
+B-3286,D-1756,Person_1286,71,Male,Aurangabad,Financial Assistance,10/4/2011
+B-3287,D-1377,Person_1287,34,Other,Solapur,Medical,10/19/2018
+B-3288,D-2135,Person_1288,10,Male,Solapur,Medical,2/25/2012
+B-3289,D-1241,Person_1289,64,Other,Nashik,Food,10/10/2018
+B-3290,D-2130,Person_1290,46,Female,Nagpur,Shelter,3/14/2018
+B-3291,D-2325,Person_1291,38,Other,Satara,Financial Assistance,3/15/2004
+B-3292,D-2755,Person_1292,77,Male,Nagpur,Financial Assistance,8/28/2007
+B-3293,D-1316,Person_1293,24,Male,Thane,Financial Assistance,5/24/2017
+B-3294,D-2662,Person_1294,35,Other,Nashik,Medical,9/1/2015
+B-3295,D-1554,Person_1295,4,Male,Thane,Medical,3/31/2022
+B-3296,D-2303,Person_1296,84,Other,Ratnagiri,Shelter,5/17/2005
+B-3297,D-1212,Person_1297,81,Other,Aurangabad,Shelter,6/3/2012
+B-3298,D-1176,Person_1298,60,Female,Kolhapur,Food,11/14/2005
+B-3299,D-2057,Person_1299,83,Other,Ratnagiri,Financial Assistance,5/3/2009
+B-3300,D-2800,Person_1300,93,Female,Aurangabad,Shelter,2/10/2014
+B-3301,D-2581,Person_1301,2,Other,Kolhapur,Food,2/18/2015
+B-3302,D-1290,Person_1302,20,Female,Kolhapur,Financial Assistance,2/7/2014
+B-3303,D-1550,Person_1303,13,Other,Pune,Medical,2/15/2008
+B-3304,D-1942,Person_1304,21,Other,Nagpur,Medical,6/12/2018
+B-3305,D-1088,Person_1305,93,Female,Nagpur,Food,7/8/2019
+B-3306,D-2070,Person_1306,20,Other,Kolhapur,Food,5/23/2013
+B-3307,D-2663,Person_1307,41,Other,Kolhapur,Medical,4/15/2008
+B-3308,D-2897,Person_1308,83,Male,Ratnagiri,Shelter,7/8/2004
+B-3309,D-2814,Person_1309,52,Male,Kolhapur,Food,6/18/2004
+B-3310,D-2500,Person_1310,72,Other,Ratnagiri,Shelter,7/5/2011
+B-3311,D-2638,Person_1311,74,Male,Ratnagiri,Medical,11/30/2023
+B-3312,D-1403,Person_1312,52,Male,Pune,Food,6/9/2007
+B-3313,D-2216,Person_1313,25,Female,Satara,Medical,5/20/2008
+B-3314,D-2044,Person_1314,100,Male,Kolhapur,Financial Assistance,2/17/2006
+B-3315,D-1337,Person_1315,27,Male,Satara,Food,9/1/2005
+B-3316,D-1861,Person_1316,58,Female,Pune,Financial Assistance,11/18/2011
+B-3317,D-2824,Person_1317,19,Male,Nashik,Shelter,4/10/2012
+B-3318,D-1711,Person_1318,96,Female,Nagpur,Shelter,8/10/2015
+B-3319,D-1169,Person_1319,55,Other,Solapur,Food,2/16/2009
+B-3320,D-1856,Person_1320,18,Other,Nagpur,Food,2/18/2022
+B-3321,D-2622,Person_1321,90,Male,Ratnagiri,Financial Assistance,7/18/2005
+B-3322,D-1886,Person_1322,79,Female,Solapur,Shelter,7/22/2008
+B-3323,D-2711,Person_1323,82,Female,Nagpur,Medical,2/21/2013
+B-3324,D-1154,Person_1324,50,Other,Mumbai,Financial Assistance,8/27/2008
+B-3325,D-1651,Person_1325,64,Other,Kolhapur,Medical,2/24/2006
+B-3326,D-2242,Person_1326,3,Female,Mumbai,Medical,6/19/2012
+B-3327,D-2887,Person_1327,65,Female,Kolhapur,Food,7/18/2010
+B-3328,D-2905,Person_1328,47,Male,Solapur,Financial Assistance,6/4/2015
+B-3329,D-2156,Person_1329,35,Other,Kolhapur,Medical,11/26/2017
+B-3330,D-2981,Person_1330,40,Male,Nashik,Shelter,1/17/2017
+B-3331,D-2987,Person_1331,80,Male,Solapur,Shelter,11/3/2019
+B-3332,D-1241,Person_1332,64,Other,Solapur,Financial Assistance,11/9/2010
+B-3333,D-2439,Person_1333,87,Male,Mumbai,Financial Assistance,12/22/2015
+B-3334,D-1904,Person_1334,28,Female,Nagpur,Food,5/29/2006
+B-3335,D-2279,Person_1335,63,Female,Satara,Shelter,7/8/2010
+B-3336,D-2086,Person_1336,82,Male,Nashik,Medical,9/2/2018
+B-3337,D-2128,Person_1337,29,Male,Satara,Medical,8/10/2007
+B-3338,D-2244,Person_1338,75,Female,Solapur,Shelter,9/12/2011
+B-3339,D-1681,Person_1339,2,Male,Aurangabad,Medical,5/12/2015
+B-3340,D-1480,Person_1340,38,Female,Solapur,Financial Assistance,6/30/2007
+B-3341,D-1428,Person_1341,25,Male,Pune,Shelter,3/2/2017
+B-3342,D-2135,Person_1342,43,Other,Satara,Medical,9/9/2004
+B-3343,D-2403,Person_1343,40,Male,Thane,Food,5/12/2004
+B-3344,D-1320,Person_1344,97,Other,Pune,Medical,7/26/2021
+B-3345,D-1840,Person_1345,70,Other,Nagpur,Shelter,3/11/2023
+B-3346,D-1726,Person_1346,98,Other,Kolhapur,Shelter,1/23/2015
+B-3347,D-1123,Person_1347,60,Other,Aurangabad,Shelter,11/25/2011
+B-3348,D-2789,Person_1348,44,Female,Pune,Shelter,12/1/2022
+B-3349,D-2628,Person_1349,92,Other,Mumbai,Shelter,12/2/2023
+B-3350,D-2236,Person_1350,31,Other,Pune,Medical,6/9/2023
+B-3351,D-2991,Person_1351,73,Male,Aurangabad,Food,6/26/2023
+B-3352,D-2820,Person_1352,9,Female,Pune,Financial Assistance,12/21/2014
+B-3353,D-2535,Person_1353,22,Male,Aurangabad,Food,4/10/2008
+B-3354,D-1309,Person_1354,30,Female,Mumbai,Food,10/17/2011
+B-3355,D-2067,Person_1355,25,Female,Nashik,Financial Assistance,4/11/2023
+B-3356,D-1560,Person_1356,6,Male,Nashik,Financial Assistance,4/10/2015
+B-3357,D-1664,Person_1357,28,Female,Aurangabad,Food,3/4/2015
+B-3358,D-2772,Person_1358,60,Female,Thane,Shelter,11/25/2008
+B-3359,D-2677,Person_1359,89,Other,Ratnagiri,Medical,9/10/2016
+B-3360,D-1084,Person_1360,7,Female,Ratnagiri,Food,7/20/2014
+B-3361,D-2859,Person_1361,90,Other,Mumbai,Shelter,8/14/2009
+B-3362,D-1203,Person_1362,24,Other,Thane,Financial Assistance,6/7/2010
+B-3363,D-1885,Person_1363,77,Other,Ratnagiri,Shelter,9/17/2019
+B-3364,D-1985,Person_1364,1,Other,Solapur,Shelter,1/23/2013
+B-3365,D-1365,Person_1365,100,Other,Mumbai,Shelter,3/8/2012
+B-3366,D-2858,Person_1366,90,Other,Ratnagiri,Food,12/15/2014
+B-3367,D-2433,Person_1367,33,Other,Aurangabad,Medical,7/17/2014
+B-3368,D-2779,Person_1368,22,Male,Aurangabad,Food,6/7/2019
+B-3369,D-1052,Person_1369,47,Female,Nashik,Financial Assistance,11/18/2013
+B-3370,D-2746,Person_1370,77,Other,Aurangabad,Medical,1/21/2011
+B-3371,D-2643,Person_1371,24,Female,Satara,Financial Assistance,9/8/2019
+B-3372,D-1131,Person_1372,26,Other,Mumbai,Medical,8/27/2016
+B-3373,D-2912,Person_1373,70,Male,Nagpur,Financial Assistance,8/20/2021
+B-3374,D-1594,Person_1374,76,Female,Solapur,Financial Assistance,6/14/2010
+B-3375,D-1071,Person_1375,73,Male,Satara,Financial Assistance,6/11/2012
+B-3376,D-1740,Person_1376,63,Female,Mumbai,Food,6/24/2008
+B-3377,D-2909,Person_1377,2,Other,Thane,Financial Assistance,6/15/2019
+B-3378,D-2893,Person_1378,9,Male,Ratnagiri,Medical,5/23/2009
+B-3379,D-2101,Person_1379,95,Other,Kolhapur,Food,12/13/2021
+B-3380,D-1350,Person_1380,28,Female,Satara,Medical,1/23/2007
+B-3381,D-1612,Person_1381,90,Female,Pune,Shelter,5/23/2012
+B-3382,D-1942,Person_1382,81,Male,Ratnagiri,Financial Assistance,7/3/2004
+B-3383,D-2989,Person_1383,64,Other,Pune,Shelter,1/21/2010
+B-3384,D-1957,Person_1384,15,Female,Nagpur,Financial Assistance,3/28/2012
+B-3385,D-1556,Person_1385,42,Female,Nashik,Shelter,12/6/2023
+B-3386,D-2227,Person_1386,2,Female,Thane,Shelter,2/17/2010
+B-3387,D-2009,Person_1387,82,Other,Aurangabad,Financial Assistance,1/23/2022
+B-3388,D-1260,Person_1388,34,Female,Nashik,Shelter,8/6/2006
+B-3389,D-2703,Person_1389,65,Female,Kolhapur,Medical,3/1/2021
+B-3390,D-1250,Person_1390,75,Female,Thane,Financial Assistance,10/28/2023
+B-3391,D-1439,Person_1391,23,Other,Solapur,Food,9/11/2019
+B-3392,D-2353,Person_1392,43,Male,Satara,Financial Assistance,6/5/2021
+B-3393,D-1129,Person_1393,93,Male,Aurangabad,Financial Assistance,12/3/2007
+B-3394,D-2869,Person_1394,2,Female,Solapur,Medical,1/8/2005
+B-3395,D-2174,Person_1395,14,Other,Solapur,Food,6/7/2023
+B-3396,D-1858,Person_1396,30,Other,Ratnagiri,Shelter,9/5/2022
+B-3397,D-1414,Person_1397,31,Female,Thane,Medical,5/19/2016
+B-3398,D-2837,Person_1398,90,Female,Nashik,Financial Assistance,7/30/2014
+B-3399,D-2504,Person_1399,41,Other,Nagpur,Shelter,9/11/2013
+B-3400,D-2509,Person_1400,82,Female,Satara,Financial Assistance,3/21/2016
+B-3401,D-2890,Person_1401,77,Other,Mumbai,Food,2/5/2009
+B-3402,D-1704,Person_1402,58,Male,Solapur,Food,11/14/2004
+B-3403,D-2471,Person_1403,51,Female,Thane,Shelter,11/9/2006
+B-3404,D-2700,Person_1404,66,Other,Mumbai,Financial Assistance,6/24/2012
+B-3405,D-2092,Person_1405,11,Female,Nagpur,Medical,2/16/2016
+B-3406,D-1387,Person_1406,68,Female,Nashik,Food,9/2/2014
+B-3407,D-2724,Person_1407,88,Female,Solapur,Shelter,8/12/2005
+B-3408,D-2182,Person_1408,51,Other,Kolhapur,Financial Assistance,7/6/2015
+B-3409,D-2111,Person_1409,42,Female,Pune,Financial Assistance,4/25/2007
+B-3410,D-2834,Person_1410,17,Female,Thane,Medical,5/31/2019
+B-3411,D-2515,Person_1411,78,Male,Nashik,Medical,4/16/2009
+B-3412,D-2186,Person_1412,76,Female,Pune,Food,5/19/2005
+B-3413,D-2425,Person_1413,47,Male,Nagpur,Shelter,12/28/2008
+B-3414,D-1895,Person_1414,87,Female,Mumbai,Shelter,4/29/2016
+B-3415,D-2840,Person_1415,68,Other,Pune,Food,5/15/2005
+B-3416,D-2516,Person_1416,37,Other,Mumbai,Financial Assistance,6/17/2004
+B-3417,D-1506,Person_1417,9,Other,Nagpur,Financial Assistance,12/13/2010
+B-3418,D-2579,Person_1418,79,Female,Aurangabad,Financial Assistance,6/11/2009
+B-3419,D-2234,Person_1419,14,Male,Nashik,Shelter,8/28/2017
+B-3420,D-2683,Person_1420,46,Female,Mumbai,Financial Assistance,12/21/2017
+B-3421,D-2059,Person_1421,60,Female,Pune,Financial Assistance,3/9/2017
+B-3422,D-2891,Person_1422,96,Male,Thane,Financial Assistance,2/3/2017
+B-3423,D-2670,Person_1423,86,Female,Nashik,Food,12/24/2016
+B-3424,D-2921,Person_1424,72,Other,Kolhapur,Medical,4/23/2007
+B-3425,D-2473,Person_1425,40,Male,Kolhapur,Food,10/17/2009
+B-3426,D-1003,Person_1426,32,Male,Pune,Medical,2/9/2008
+B-3427,D-2896,Person_1427,27,Other,Thane,Shelter,12/11/2019
+B-3428,D-1676,Person_1428,44,Other,Solapur,Shelter,4/2/2014
+B-3429,D-2010,Person_1429,4,Other,Nagpur,Shelter,12/15/2018
+B-3430,D-1202,Person_1430,54,Other,Thane,Financial Assistance,10/22/2004
+B-3431,D-1916,Person_1431,12,Other,Thane,Medical,8/6/2013
+B-3432,D-1837,Person_1432,72,Male,Kolhapur,Shelter,1/20/2014
+B-3433,D-2215,Person_1433,67,Male,Pune,Medical,3/28/2010
+B-3434,D-1279,Person_1434,4,Male,Kolhapur,Shelter,3/19/2022
+B-3435,D-2560,Person_1435,60,Male,Satara,Shelter,9/4/2004
+B-3436,D-2633,Person_1436,48,Male,Mumbai,Medical,8/22/2019
+B-3437,D-1637,Person_1437,28,Female,Nashik,Medical,9/1/2014
+B-3438,D-2544,Person_1438,19,Female,Thane,Shelter,5/16/2008
+B-3439,D-1547,Person_1439,96,Other,Solapur,Financial Assistance,10/6/2017
+B-3440,D-1289,Person_1440,61,Female,Thane,Financial Assistance,7/7/2016
+B-3441,D-1138,Person_1441,24,Male,Nashik,Financial Assistance,3/14/2006
+B-3442,D-2257,Person_1442,92,Male,Nashik,Food,2/14/2013
+B-3443,D-2403,Person_1443,71,Female,Thane,Medical,7/21/2019
+B-3444,D-2118,Person_1444,81,Female,Nagpur,Financial Assistance,12/6/2007
+B-3445,D-2415,Person_1445,89,Male,Pune,Food,4/9/2012
+B-3446,D-2262,Person_1446,97,Female,Aurangabad,Medical,3/30/2005
+B-3447,D-2134,Person_1447,44,Other,Pune,Shelter,3/14/2014
+B-3448,D-1268,Person_1448,20,Female,Pune,Food,6/20/2012
+B-3449,D-2191,Person_1449,94,Female,Mumbai,Medical,3/20/2023
+B-3450,D-2408,Person_1450,18,Male,Aurangabad,Shelter,7/13/2005
+B-3451,D-2097,Person_1451,53,Other,Thane,Shelter,12/27/2017
+B-3452,D-1173,Person_1452,80,Male,Ratnagiri,Financial Assistance,6/5/2011
+B-3453,D-2226,Person_1453,93,Male,Satara,Shelter,6/19/2012
+B-3454,D-1668,Person_1454,50,Male,Pune,Food,7/30/2017
+B-3455,D-1114,Person_1455,89,Other,Kolhapur,Medical,11/4/2014
+B-3456,D-1131,Person_1456,53,Female,Thane,Medical,6/10/2023
+B-3457,D-2325,Person_1457,72,Male,Nagpur,Shelter,10/13/2016
+B-3458,D-1119,Person_1458,42,Female,Nashik,Shelter,9/20/2010
+B-3459,D-2681,Person_1459,45,Female,Ratnagiri,Food,7/13/2004
+B-3460,D-2879,Person_1460,82,Female,Solapur,Medical,10/3/2019
+B-3461,D-1453,Person_1461,90,Other,Pune,Food,8/13/2005
+B-3462,D-1443,Person_1462,14,Male,Pune,Shelter,6/8/2023
+B-3463,D-2327,Person_1463,68,Female,Nashik,Medical,9/30/2022
+B-3464,D-2172,Person_1464,41,Male,Nagpur,Medical,9/13/2009
+B-3465,D-2743,Person_1465,86,Female,Pune,Financial Assistance,6/21/2012
+B-3466,D-1878,Person_1466,56,Male,Satara,Medical,4/2/2009
+B-3467,D-1971,Person_1467,93,Female,Ratnagiri,Shelter,1/28/2019
+B-3468,D-1948,Person_1468,61,Female,Nashik,Food,9/21/2018
+B-3469,D-2878,Person_1469,100,Female,Satara,Financial Assistance,12/26/2006
+B-3470,D-2204,Person_1470,28,Other,Thane,Financial Assistance,10/12/2018
+B-3471,D-1655,Person_1471,25,Female,Pune,Medical,11/24/2022
+B-3472,D-2397,Person_1472,72,Male,Pune,Medical,5/20/2007
+B-3473,D-1851,Person_1473,55,Female,Solapur,Food,9/30/2007
+B-3474,D-2470,Person_1474,54,Female,Satara,Food,12/6/2022
+B-3475,D-1628,Person_1475,78,Other,Satara,Food,2/18/2016
+B-3476,D-2865,Person_1476,10,Male,Ratnagiri,Food,4/29/2005
+B-3477,D-1127,Person_1477,13,Male,Nagpur,Medical,6/30/2012
+B-3478,D-1673,Person_1478,75,Male,Pune,Medical,6/12/2022
+B-3479,D-1953,Person_1479,96,Male,Aurangabad,Food,9/19/2013
+B-3480,D-1705,Person_1480,42,Female,Thane,Medical,3/7/2022
+B-3481,D-2818,Person_1481,81,Male,Satara,Shelter,12/13/2018
+B-3482,D-2733,Person_1482,93,Female,Solapur,Medical,1/12/2006
+B-3483,D-2918,Person_1483,80,Other,Nagpur,Financial Assistance,12/15/2022
+B-3484,D-2324,Person_1484,7,Other,Nashik,Financial Assistance,1/26/2010
+B-3485,D-2140,Person_1485,9,Male,Pune,Shelter,5/5/2010
+B-3486,D-2821,Person_1486,100,Other,Nashik,Food,8/16/2014
+B-3487,D-2226,Person_1487,20,Other,Ratnagiri,Financial Assistance,3/19/2017
+B-3488,D-2265,Person_1488,9,Female,Solapur,Financial Assistance,6/5/2019
+B-3489,D-2192,Person_1489,10,Female,Ratnagiri,Food,8/16/2016
+B-3490,D-2003,Person_1490,67,Other,Satara,Shelter,1/11/2009
+B-3491,D-2832,Person_1491,40,Other,Thane,Medical,3/1/2005
+B-3492,D-2910,Person_1492,70,Female,Solapur,Financial Assistance,5/13/2007
+B-3493,D-1310,Person_1493,18,Other,Kolhapur,Food,12/27/2009
+B-3494,D-1224,Person_1494,30,Female,Thane,Medical,1/13/2023
+B-3495,D-2184,Person_1495,99,Male,Satara,Food,10/30/2022
+B-3496,D-1430,Person_1496,52,Other,Solapur,Shelter,8/18/2009
+B-3497,D-1725,Person_1497,4,Male,Thane,Medical,3/14/2004
+B-3498,D-2784,Person_1498,41,Female,Nashik,Shelter,6/9/2013
+B-3499,D-1191,Person_1499,75,Other,Solapur,Financial Assistance,10/10/2018
+B-3500,D-1877,Person_1500,52,Female,Nagpur,Medical,11/22/2018
+B-3501,D-1074,Person_1501,84,Male,Kolhapur,Medical,4/21/2015
+B-3502,D-2586,Person_1502,96,Male,Kolhapur,Financial Assistance,1/28/2017
+B-3503,D-1449,Person_1503,53,Male,Ratnagiri,Medical,8/12/2018
+B-3504,D-1436,Person_1504,75,Female,Pune,Financial Assistance,2/13/2012
+B-3505,D-2245,Person_1505,91,Male,Ratnagiri,Medical,8/25/2022
+B-3506,D-2019,Person_1506,14,Female,Solapur,Shelter,9/4/2019
+B-3507,D-2609,Person_1507,19,Male,Nagpur,Financial Assistance,10/18/2016
+B-3508,D-1882,Person_1508,76,Female,Mumbai,Medical,9/6/2009
+B-3509,D-2125,Person_1509,45,Male,Mumbai,Shelter,5/31/2006
+B-3510,D-1445,Person_1510,41,Female,Kolhapur,Food,7/31/2023
+B-3511,D-1915,Person_1511,20,Female,Nagpur,Medical,3/15/2014
+B-3512,D-1163,Person_1512,94,Female,Nagpur,Food,12/9/2016
+B-3513,D-1517,Person_1513,98,Other,Ratnagiri,Medical,8/16/2014
+B-3514,D-1507,Person_1514,19,Female,Kolhapur,Financial Assistance,10/28/2018
+B-3515,D-2084,Person_1515,90,Other,Solapur,Shelter,12/15/2012
+B-3516,D-2848,Person_1516,29,Female,Pune,Financial Assistance,10/19/2016
+B-3517,D-2416,Person_1517,28,Male,Mumbai,Medical,3/10/2013
+B-3518,D-2615,Person_1518,5,Other,Thane,Financial Assistance,4/7/2020
+B-3519,D-2586,Person_1519,32,Male,Ratnagiri,Food,12/10/2016
+B-3520,D-1854,Person_1520,100,Other,Nagpur,Food,12/29/2019
+B-3521,D-1727,Person_1521,94,Female,Mumbai,Food,2/26/2009
+B-3522,D-1248,Person_1522,68,Male,Ratnagiri,Shelter,3/10/2009
+B-3523,D-1224,Person_1523,72,Female,Pune,Financial Assistance,11/19/2017
+B-3524,D-1765,Person_1524,6,Female,Ratnagiri,Medical,7/7/2011
+B-3525,D-2255,Person_1525,3,Female,Satara,Medical,12/23/2022
+B-3526,D-1416,Person_1526,95,Male,Kolhapur,Food,8/11/2022
+B-3527,D-1596,Person_1527,38,Female,Aurangabad,Medical,2/4/2016
+B-3528,D-2336,Person_1528,12,Male,Aurangabad,Food,2/17/2022
+B-3529,D-1875,Person_1529,93,Male,Ratnagiri,Shelter,10/14/2007
+B-3530,D-2714,Person_1530,86,Other,Nashik,Shelter,4/23/2021
+B-3531,D-2702,Person_1531,5,Other,Nashik,Shelter,1/18/2004
+B-3532,D-1151,Person_1532,99,Male,Nagpur,Shelter,7/8/2004
+B-3533,D-1868,Person_1533,56,Male,Ratnagiri,Food,4/24/2017
+B-3534,D-1157,Person_1534,23,Other,Mumbai,Shelter,2/13/2015
+B-3535,D-1107,Person_1535,89,Male,Solapur,Shelter,1/22/2012
+B-3536,D-1299,Person_1536,88,Other,Mumbai,Food,11/3/2023
+B-3537,D-2748,Person_1537,24,Male,Satara,Shelter,9/27/2010
+B-3538,D-2359,Person_1538,8,Other,Thane,Shelter,2/25/2006
+B-3539,D-2815,Person_1539,48,Male,Nashik,Financial Assistance,6/25/2006
+B-3540,D-2143,Person_1540,36,Male,Ratnagiri,Medical,3/8/2009
+B-3541,D-2183,Person_1541,14,Other,Kolhapur,Financial Assistance,9/20/2011
+B-3542,D-1865,Person_1542,29,Female,Thane,Food,2/10/2022
+B-3543,D-2895,Person_1543,99,Other,Aurangabad,Medical,9/4/2019
+B-3544,D-1129,Person_1544,80,Male,Satara,Financial Assistance,3/25/2005
+B-3545,D-2257,Person_1545,12,Female,Nashik,Food,9/6/2005
+B-3546,D-2337,Person_1546,83,Female,Pune,Medical,5/7/2010
+B-3547,D-1856,Person_1547,89,Other,Solapur,Shelter,3/25/2020
+B-3548,D-2108,Person_1548,77,Female,Kolhapur,Medical,2/27/2007
+B-3549,D-2355,Person_1549,60,Female,Kolhapur,Financial Assistance,12/14/2018
+B-3550,D-2888,Person_1550,20,Male,Satara,Food,4/16/2009
+B-3551,D-1648,Person_1551,65,Male,Nagpur,Medical,11/14/2010
+B-3552,D-1052,Person_1552,80,Other,Nashik,Financial Assistance,10/15/2018
+B-3553,D-2754,Person_1553,71,Female,Pune,Financial Assistance,5/11/2023
+B-3554,D-2482,Person_1554,57,Female,Pune,Financial Assistance,3/25/2012
+B-3555,D-2957,Person_1555,55,Other,Kolhapur,Medical,5/14/2021
+B-3556,D-2864,Person_1556,69,Male,Aurangabad,Financial Assistance,1/8/2020
+B-3557,D-1253,Person_1557,28,Other,Mumbai,Medical,8/29/2015
+B-3558,D-2223,Person_1558,82,Other,Solapur,Financial Assistance,5/4/2004
+B-3559,D-2508,Person_1559,36,Male,Pune,Shelter,7/9/2004
+B-3560,D-1527,Person_1560,79,Other,Pune,Shelter,8/20/2006
+B-3561,D-2507,Person_1561,35,Male,Kolhapur,Medical,1/24/2009
+B-3562,D-1158,Person_1562,17,Other,Nashik,Financial Assistance,11/11/2006
+B-3563,D-2330,Person_1563,42,Other,Ratnagiri,Shelter,7/4/2017
+B-3564,D-2940,Person_1564,55,Other,Thane,Medical,2/10/2006
+B-3565,D-1366,Person_1565,13,Female,Aurangabad,Medical,8/18/2017
+B-3566,D-1641,Person_1566,21,Other,Solapur,Food,1/17/2023
+B-3567,D-1025,Person_1567,9,Male,Aurangabad,Medical,12/2/2019
+B-3568,D-1660,Person_1568,7,Female,Pune,Shelter,5/28/2014
+B-3569,D-2913,Person_1569,2,Other,Satara,Shelter,7/20/2004
+B-3570,D-1288,Person_1570,88,Male,Nagpur,Financial Assistance,7/27/2013
+B-3571,D-1295,Person_1571,69,Female,Thane,Medical,1/30/2010
+B-3572,D-1590,Person_1572,51,Male,Mumbai,Food,9/29/2012
+B-3573,D-1250,Person_1573,11,Female,Aurangabad,Shelter,4/16/2021
+B-3574,D-2207,Person_1574,72,Other,Kolhapur,Food,11/24/2016
+B-3575,D-2972,Person_1575,14,Male,Satara,Medical,9/25/2023
+B-3576,D-1661,Person_1576,38,Female,Thane,Food,6/8/2005
+B-3577,D-1976,Person_1577,89,Female,Aurangabad,Shelter,9/21/2014
+B-3578,D-1411,Person_1578,25,Other,Solapur,Medical,8/20/2010
+B-3579,D-1210,Person_1579,3,Male,Satara,Shelter,4/18/2005
+B-3580,D-1056,Person_1580,66,Male,Thane,Financial Assistance,2/17/2016
+B-3581,D-1672,Person_1581,89,Other,Aurangabad,Shelter,10/30/2014
+B-3582,D-2689,Person_1582,1,Male,Kolhapur,Medical,8/1/2004
+B-3583,D-1968,Person_1583,14,Other,Mumbai,Medical,4/4/2007
+B-3584,D-2837,Person_1584,32,Male,Solapur,Food,10/4/2005
+B-3585,D-2660,Person_1585,85,Other,Nashik,Financial Assistance,6/9/2019
+B-3586,D-1008,Person_1586,81,Other,Nagpur,Financial Assistance,6/15/2013
+B-3587,D-1355,Person_1587,26,Other,Nagpur,Medical,4/29/2022
+B-3588,D-1394,Person_1588,8,Female,Kolhapur,Financial Assistance,12/14/2010
+B-3589,D-1511,Person_1589,37,Other,Thane,Shelter,4/16/2018
+B-3590,D-2824,Person_1590,57,Male,Pune,Shelter,9/27/2008
+B-3591,D-2242,Person_1591,41,Female,Ratnagiri,Food,2/5/2022
+B-3592,D-2249,Person_1592,60,Other,Kolhapur,Medical,2/6/2013
+B-3593,D-1659,Person_1593,97,Other,Thane,Medical,11/28/2016
+B-3594,D-2915,Person_1594,91,Other,Mumbai,Financial Assistance,2/13/2018
+B-3595,D-2877,Person_1595,17,Female,Nashik,Financial Assistance,10/3/2019
+B-3596,D-2888,Person_1596,62,Other,Thane,Shelter,12/17/2017
+B-3597,D-2262,Person_1597,44,Other,Solapur,Food,4/4/2007
+B-3598,D-1499,Person_1598,51,Male,Ratnagiri,Shelter,9/16/2020
+B-3599,D-2740,Person_1599,56,Female,Satara,Shelter,1/12/2020
+B-3600,D-1334,Person_1600,72,Female,Thane,Shelter,7/30/2008
+B-3601,D-1068,Person_1601,35,Male,Nagpur,Shelter,8/20/2019
+B-3602,D-2821,Person_1602,7,Female,Kolhapur,Medical,2/4/2020
+B-3603,D-1907,Person_1603,51,Male,Thane,Food,12/21/2023
+B-3604,D-2065,Person_1604,53,Male,Solapur,Food,9/19/2016
+B-3605,D-1725,Person_1605,64,Female,Thane,Financial Assistance,8/2/2015
+B-3606,D-1932,Person_1606,63,Other,Thane,Financial Assistance,11/10/2004
+B-3607,D-1407,Person_1607,26,Other,Nagpur,Shelter,10/14/2007
+B-3608,D-1189,Person_1608,19,Other,Satara,Food,1/28/2022
+B-3609,D-2800,Person_1609,52,Male,Solapur,Medical,10/19/2015
+B-3610,D-1485,Person_1610,73,Other,Ratnagiri,Food,10/8/2018
+B-3611,D-1445,Person_1611,54,Female,Solapur,Food,1/4/2022
+B-3612,D-2861,Person_1612,35,Male,Aurangabad,Shelter,1/5/2007
+B-3613,D-2265,Person_1613,92,Female,Ratnagiri,Shelter,9/19/2013
+B-3614,D-2598,Person_1614,83,Female,Mumbai,Food,7/21/2015
+B-3615,D-1996,Person_1615,16,Female,Mumbai,Medical,6/8/2014
+B-3616,D-1520,Person_1616,27,Male,Thane,Shelter,9/4/2011
+B-3617,D-1128,Person_1617,75,Other,Pune,Financial Assistance,9/28/2020
+B-3618,D-1055,Person_1618,3,Male,Thane,Financial Assistance,6/21/2015
+B-3619,D-1064,Person_1619,9,Female,Aurangabad,Shelter,12/9/2007
+B-3620,D-1609,Person_1620,12,Male,Pune,Financial Assistance,12/15/2012
+B-3621,D-2305,Person_1621,43,Female,Mumbai,Shelter,4/25/2012
+B-3622,D-2108,Person_1622,21,Female,Nashik,Food,4/28/2018
+B-3623,D-2799,Person_1623,28,Other,Kolhapur,Shelter,10/20/2014
+B-3624,D-2062,Person_1624,3,Other,Nagpur,Food,6/9/2011
+B-3625,D-1989,Person_1625,48,Female,Pune,Medical,2/28/2019
+B-3626,D-2671,Person_1626,36,Male,Nagpur,Medical,8/30/2020
+B-3627,D-2008,Person_1627,7,Female,Pune,Financial Assistance,3/3/2005
+B-3628,D-2441,Person_1628,9,Male,Kolhapur,Financial Assistance,1/8/2021
+B-3629,D-2505,Person_1629,50,Other,Mumbai,Medical,3/13/2009
+B-3630,D-2437,Person_1630,62,Female,Ratnagiri,Financial Assistance,7/18/2019
+B-3631,D-1229,Person_1631,17,Other,Solapur,Shelter,5/5/2012
+B-3632,D-2858,Person_1632,45,Male,Nagpur,Medical,2/18/2013
+B-3633,D-1159,Person_1633,79,Female,Nashik,Financial Assistance,1/31/2005
+B-3634,D-2755,Person_1634,95,Male,Thane,Financial Assistance,1/4/2018
+B-3635,D-1331,Person_1635,45,Other,Solapur,Medical,7/28/2016
+B-3636,D-2516,Person_1636,51,Other,Pune,Medical,11/22/2023
+B-3637,D-2084,Person_1637,100,Male,Ratnagiri,Shelter,6/2/2004
+B-3638,D-2477,Person_1638,72,Female,Nagpur,Shelter,9/11/2010
+B-3639,D-2822,Person_1639,2,Other,Nashik,Food,2/1/2011
+B-3640,D-2868,Person_1640,30,Other,Ratnagiri,Food,12/3/2009
+B-3641,D-1648,Person_1641,91,Female,Ratnagiri,Medical,9/9/2006
+B-3642,D-2079,Person_1642,90,Female,Aurangabad,Medical,6/24/2005
+B-3643,D-1311,Person_1643,21,Other,Solapur,Food,12/10/2019
+B-3644,D-1846,Person_1644,93,Other,Satara,Medical,10/24/2018
+B-3645,D-1290,Person_1645,97,Male,Nashik,Food,11/5/2015
+B-3646,D-1238,Person_1646,67,Male,Solapur,Shelter,9/2/2006
+B-3647,D-1736,Person_1647,25,Female,Satara,Food,3/19/2018
+B-3648,D-2338,Person_1648,20,Male,Satara,Shelter,3/29/2017
+B-3649,D-1447,Person_1649,7,Other,Ratnagiri,Shelter,1/22/2020
+B-3650,D-1168,Person_1650,65,Female,Mumbai,Financial Assistance,8/21/2011
+B-3651,D-1090,Person_1651,84,Other,Aurangabad,Financial Assistance,12/31/2007
+B-3652,D-2561,Person_1652,28,Female,Kolhapur,Food,1/25/2009
+B-3653,D-1268,Person_1653,10,Other,Satara,Food,12/6/2010
+B-3654,D-2350,Person_1654,46,Other,Aurangabad,Financial Assistance,4/23/2018
+B-3655,D-1652,Person_1655,38,Male,Solapur,Financial Assistance,12/30/2008
+B-3656,D-2193,Person_1656,2,Female,Nagpur,Financial Assistance,12/15/2009
+B-3657,D-1886,Person_1657,54,Male,Nagpur,Financial Assistance,10/23/2005
+B-3658,D-1895,Person_1658,89,Other,Thane,Medical,5/10/2009
+B-3659,D-2223,Person_1659,93,Other,Solapur,Food,9/30/2018
+B-3660,D-1102,Person_1660,39,Female,Nashik,Food,11/21/2009
+B-3661,D-2163,Person_1661,97,Other,Solapur,Financial Assistance,12/20/2014
+B-3662,D-1141,Person_1662,96,Female,Mumbai,Medical,8/17/2019
+B-3663,D-1360,Person_1663,46,Male,Nagpur,Medical,3/29/2016
+B-3664,D-1239,Person_1664,70,Female,Solapur,Financial Assistance,8/10/2009
+B-3665,D-1470,Person_1665,13,Male,Nagpur,Financial Assistance,8/6/2007
+B-3666,D-2272,Person_1666,24,Female,Aurangabad,Financial Assistance,1/22/2010
+B-3667,D-2417,Person_1667,24,Female,Ratnagiri,Food,12/18/2008
+B-3668,D-2221,Person_1668,19,Other,Solapur,Shelter,12/5/2012
+B-3669,D-1847,Person_1669,3,Male,Nagpur,Shelter,9/3/2022
+B-3670,D-1639,Person_1670,47,Other,Kolhapur,Medical,6/28/2020
+B-3671,D-1184,Person_1671,39,Male,Ratnagiri,Shelter,7/7/2022
+B-3672,D-1470,Person_1672,54,Male,Thane,Shelter,4/15/2006
+B-3673,D-1588,Person_1673,69,Other,Aurangabad,Financial Assistance,11/22/2014
+B-3674,D-2876,Person_1674,53,Female,Pune,Shelter,9/25/2013
+B-3675,D-2480,Person_1675,2,Female,Nagpur,Shelter,7/10/2005
+B-3676,D-2790,Person_1676,97,Other,Ratnagiri,Financial Assistance,8/13/2006
+B-3677,D-1405,Person_1677,99,Female,Nashik,Shelter,3/31/2013
+B-3678,D-1472,Person_1678,81,Female,Thane,Financial Assistance,5/5/2010
+B-3679,D-2840,Person_1679,22,Female,Kolhapur,Medical,9/17/2005
+B-3680,D-1184,Person_1680,56,Female,Satara,Medical,11/28/2006
+B-3681,D-2084,Person_1681,19,Male,Thane,Shelter,5/14/2008
+B-3682,D-2291,Person_1682,46,Female,Pune,Shelter,1/21/2014
+B-3683,D-1789,Person_1683,68,Female,Kolhapur,Financial Assistance,10/14/2009
+B-3684,D-2150,Person_1684,36,Female,Mumbai,Food,9/13/2014
+B-3685,D-1498,Person_1685,5,Female,Satara,Medical,2/16/2010
+B-3686,D-1722,Person_1686,37,Female,Satara,Medical,10/3/2011
+B-3687,D-2124,Person_1687,23,Other,Mumbai,Financial Assistance,9/26/2021
+B-3688,D-2761,Person_1688,87,Female,Pune,Shelter,10/12/2011
+B-3689,D-1193,Person_1689,72,Female,Pune,Shelter,11/25/2009
+B-3690,D-1843,Person_1690,59,Female,Thane,Medical,1/9/2011
+B-3691,D-2025,Person_1691,6,Female,Satara,Financial Assistance,3/10/2013
+B-3692,D-2813,Person_1692,85,Other,Thane,Food,11/24/2022
+B-3693,D-1028,Person_1693,57,Male,Thane,Shelter,7/6/2018
+B-3694,D-1312,Person_1694,46,Other,Aurangabad,Medical,12/25/2023
+B-3695,D-2439,Person_1695,52,Male,Nashik,Food,7/4/2006
+B-3696,D-2080,Person_1696,53,Other,Pune,Food,7/7/2011
+B-3697,D-2075,Person_1697,75,Other,Mumbai,Shelter,1/31/2007
+B-3698,D-1661,Person_1698,75,Other,Nashik,Shelter,4/8/2015
+B-3699,D-2523,Person_1699,97,Other,Satara,Shelter,8/18/2006
+B-3700,D-2060,Person_1700,80,Female,Pune,Food,11/26/2016
+B-3701,D-2059,Person_1701,49,Male,Ratnagiri,Shelter,10/2/2017
+B-3702,D-2688,Person_1702,11,Other,Mumbai,Financial Assistance,4/25/2009
+B-3703,D-2968,Person_1703,71,Female,Satara,Financial Assistance,10/17/2008
+B-3704,D-1547,Person_1704,3,Female,Nagpur,Medical,5/25/2007
+B-3705,D-2586,Person_1705,21,Other,Mumbai,Shelter,7/9/2005
+B-3706,D-2241,Person_1706,20,Other,Solapur,Shelter,3/29/2022
+B-3707,D-2746,Person_1707,84,Female,Kolhapur,Financial Assistance,1/12/2011
+B-3708,D-1646,Person_1708,48,Other,Thane,Medical,7/10/2015
+B-3709,D-2476,Person_1709,39,Female,Nagpur,Food,4/27/2010
+B-3710,D-1232,Person_1710,87,Female,Aurangabad,Food,6/22/2020
+B-3711,D-1941,Person_1711,75,Male,Pune,Medical,2/11/2014
+B-3712,D-1332,Person_1712,90,Female,Mumbai,Financial Assistance,4/4/2010
+B-3713,D-2836,Person_1713,91,Male,Pune,Financial Assistance,5/30/2007
+B-3714,D-2437,Person_1714,74,Other,Thane,Medical,1/23/2020
+B-3715,D-2808,Person_1715,60,Female,Mumbai,Financial Assistance,3/29/2012
+B-3716,D-1996,Person_1716,7,Male,Nagpur,Financial Assistance,9/14/2016
+B-3717,D-2341,Person_1717,68,Female,Solapur,Shelter,9/11/2008
+B-3718,D-2248,Person_1718,20,Other,Thane,Shelter,8/11/2007
+B-3719,D-2008,Person_1719,3,Male,Satara,Medical,1/12/2016
+B-3720,D-2211,Person_1720,80,Male,Kolhapur,Shelter,1/30/2012
+B-3721,D-2941,Person_1721,23,Male,Ratnagiri,Food,1/24/2010
+B-3722,D-2409,Person_1722,55,Other,Ratnagiri,Medical,7/11/2009
+B-3723,D-2425,Person_1723,74,Other,Thane,Medical,3/5/2020
+B-3724,D-1502,Person_1724,23,Female,Pune,Shelter,5/21/2017
+B-3725,D-1853,Person_1725,93,Female,Pune,Shelter,3/2/2007
+B-3726,D-1385,Person_1726,45,Female,Solapur,Food,1/17/2007
+B-3727,D-1873,Person_1727,92,Male,Solapur,Financial Assistance,9/18/2010
+B-3728,D-1196,Person_1728,61,Male,Ratnagiri,Shelter,3/27/2004
+B-3729,D-1045,Person_1729,91,Other,Nashik,Shelter,1/19/2004
+B-3730,D-2786,Person_1730,15,Male,Solapur,Shelter,1/4/2008
+B-3731,D-1096,Person_1731,38,Other,Pune,Shelter,7/27/2019
+B-3732,D-1723,Person_1732,57,Other,Pune,Food,7/26/2010
+B-3733,D-2208,Person_1733,38,Female,Nashik,Food,8/5/2008
+B-3734,D-1358,Person_1734,14,Female,Thane,Shelter,2/11/2023
+B-3735,D-1365,Person_1735,51,Female,Kolhapur,Medical,4/17/2005
+B-3736,D-1282,Person_1736,16,Male,Aurangabad,Food,1/21/2009
+B-3737,D-2029,Person_1737,33,Other,Solapur,Medical,5/28/2006
+B-3738,D-2177,Person_1738,58,Female,Mumbai,Financial Assistance,9/11/2017
+B-3739,D-2263,Person_1739,81,Male,Pune,Medical,9/13/2013
+B-3740,D-2227,Person_1740,63,Female,Nagpur,Shelter,9/13/2018
+B-3741,D-1597,Person_1741,41,Female,Satara,Medical,11/14/2008
+B-3742,D-2714,Person_1742,51,Male,Satara,Financial Assistance,12/8/2015
+B-3743,D-2412,Person_1743,70,Female,Kolhapur,Medical,1/13/2006
+B-3744,D-2471,Person_1744,5,Other,Pune,Medical,2/28/2004
+B-3745,D-1956,Person_1745,81,Male,Kolhapur,Financial Assistance,12/28/2006
+B-3746,D-2548,Person_1746,5,Other,Pune,Food,3/31/2007
+B-3747,D-2925,Person_1747,29,Male,Satara,Medical,1/15/2017
+B-3748,D-1282,Person_1748,99,Other,Nagpur,Food,3/21/2016
+B-3749,D-1615,Person_1749,21,Male,Mumbai,Financial Assistance,7/17/2007
+B-3750,D-1747,Person_1750,94,Male,Thane,Shelter,1/3/2009
+B-3751,D-2445,Person_1751,11,Male,Ratnagiri,Food,10/8/2004
+B-3752,D-1153,Person_1752,69,Female,Nagpur,Shelter,9/17/2021
+B-3753,D-1366,Person_1753,39,Female,Aurangabad,Food,1/23/2013
+B-3754,D-1716,Person_1754,64,Female,Pune,Food,7/14/2015
+B-3755,D-2158,Person_1755,31,Female,Ratnagiri,Medical,9/13/2023
+B-3756,D-2089,Person_1756,69,Female,Mumbai,Shelter,11/27/2023
+B-3757,D-2071,Person_1757,40,Female,Ratnagiri,Financial Assistance,9/27/2012
+B-3758,D-2296,Person_1758,28,Female,Ratnagiri,Medical,4/1/2023
+B-3759,D-1538,Person_1759,52,Other,Thane,Food,2/13/2013
+B-3760,D-2331,Person_1760,81,Male,Nagpur,Financial Assistance,6/1/2018
+B-3761,D-1977,Person_1761,60,Other,Nashik,Medical,6/12/2010
+B-3762,D-2338,Person_1762,29,Female,Thane,Medical,2/23/2008
+B-3763,D-2355,Person_1763,25,Other,Kolhapur,Medical,9/30/2008
+B-3764,D-1663,Person_1764,5,Female,Thane,Medical,5/9/2020
+B-3765,D-1726,Person_1765,47,Female,Solapur,Shelter,11/7/2015
+B-3766,D-2104,Person_1766,38,Female,Aurangabad,Food,8/2/2010
+B-3767,D-2412,Person_1767,70,Male,Satara,Financial Assistance,9/1/2012
+B-3768,D-2690,Person_1768,31,Female,Aurangabad,Shelter,6/24/2014
+B-3769,D-2133,Person_1769,51,Other,Pune,Financial Assistance,6/23/2007
+B-3770,D-2386,Person_1770,46,Other,Nagpur,Food,9/13/2013
+B-3771,D-1474,Person_1771,82,Female,Thane,Shelter,10/22/2011
+B-3772,D-2858,Person_1772,80,Female,Aurangabad,Medical,6/2/2019
+B-3773,D-1148,Person_1773,51,Female,Ratnagiri,Financial Assistance,6/27/2011
+B-3774,D-1369,Person_1774,45,Male,Kolhapur,Shelter,8/29/2023
+B-3775,D-1361,Person_1775,29,Female,Aurangabad,Medical,1/5/2018
+B-3776,D-2301,Person_1776,96,Female,Ratnagiri,Medical,9/8/2011
+B-3777,D-1063,Person_1777,12,Other,Thane,Shelter,8/31/2016
+B-3778,D-1393,Person_1778,7,Female,Mumbai,Shelter,10/14/2020
+B-3779,D-2222,Person_1779,45,Other,Nagpur,Food,7/5/2004
+B-3780,D-1396,Person_1780,68,Other,Satara,Shelter,12/22/2007
+B-3781,D-2140,Person_1781,34,Female,Nashik,Medical,6/12/2008
+B-3782,D-1472,Person_1782,25,Male,Solapur,Food,4/19/2017
+B-3783,D-1683,Person_1783,93,Male,Nagpur,Shelter,8/18/2018
+B-3784,D-1878,Person_1784,5,Male,Mumbai,Financial Assistance,6/24/2021
+B-3785,D-2773,Person_1785,72,Male,Nagpur,Medical,2/9/2022
+B-3786,D-1484,Person_1786,64,Male,Pune,Medical,1/7/2014
+B-3787,D-1900,Person_1787,98,Other,Kolhapur,Financial Assistance,2/15/2022
+B-3788,D-1273,Person_1788,19,Male,Nashik,Shelter,12/3/2006
+B-3789,D-2129,Person_1789,71,Female,Kolhapur,Medical,10/20/2022
+B-3790,D-1496,Person_1790,14,Female,Pune,Food,9/7/2017
+B-3791,D-1607,Person_1791,44,Male,Ratnagiri,Medical,9/16/2004
+B-3792,D-1870,Person_1792,50,Other,Solapur,Food,3/16/2011
+B-3793,D-2382,Person_1793,56,Female,Mumbai,Food,8/9/2019
+B-3794,D-1432,Person_1794,83,Female,Ratnagiri,Medical,3/31/2006
+B-3795,D-2012,Person_1795,43,Other,Pune,Financial Assistance,2/4/2023
+B-3796,D-2343,Person_1796,16,Female,Nagpur,Financial Assistance,3/15/2018
+B-3797,D-2569,Person_1797,94,Other,Kolhapur,Food,1/14/2023
+B-3798,D-1562,Person_1798,50,Female,Pune,Food,11/13/2014
+B-3799,D-2620,Person_1799,73,Male,Nashik,Food,3/18/2004
+B-3800,D-2961,Person_1800,17,Female,Satara,Food,9/27/2006
+B-3801,D-2828,Person_1801,74,Male,Ratnagiri,Medical,10/12/2007
+B-3802,D-2877,Person_1802,57,Male,Solapur,Food,4/10/2004
+B-3803,D-2916,Person_1803,30,Other,Aurangabad,Financial Assistance,4/1/2021
+B-3804,D-1100,Person_1804,97,Female,Aurangabad,Shelter,3/15/2023
+B-3805,D-2264,Person_1805,10,Other,Ratnagiri,Financial Assistance,9/6/2014
+B-3806,D-2706,Person_1806,38,Other,Satara,Medical,2/16/2017
+B-3807,D-2052,Person_1807,75,Other,Pune,Financial Assistance,6/9/2016
+B-3808,D-1503,Person_1808,87,Other,Kolhapur,Food,5/14/2009
+B-3809,D-1408,Person_1809,12,Male,Satara,Food,5/20/2011
+B-3810,D-1634,Person_1810,88,Other,Mumbai,Food,3/14/2021
+B-3811,D-2329,Person_1811,79,Other,Ratnagiri,Food,4/4/2013
+B-3812,D-2863,Person_1812,52,Other,Aurangabad,Shelter,2/25/2019
+B-3813,D-2269,Person_1813,68,Male,Satara,Medical,8/29/2006
+B-3814,D-2662,Person_1814,59,Female,Aurangabad,Financial Assistance,2/28/2017
+B-3815,D-2906,Person_1815,49,Male,Ratnagiri,Food,11/10/2018
+B-3816,D-2285,Person_1816,36,Female,Aurangabad,Medical,7/10/2018
+B-3817,D-2331,Person_1817,1,Female,Thane,Food,5/24/2016
+B-3818,D-1101,Person_1818,3,Other,Solapur,Food,8/13/2013
+B-3819,D-2213,Person_1819,49,Male,Nashik,Shelter,10/12/2017
+B-3820,D-2842,Person_1820,60,Female,Nashik,Shelter,6/30/2005
+B-3821,D-1976,Person_1821,36,Female,Satara,Shelter,10/6/2013
+B-3822,D-2360,Person_1822,80,Male,Nashik,Shelter,4/16/2021
+B-3823,D-2348,Person_1823,5,Other,Satara,Shelter,1/30/2010
+B-3824,D-1209,Person_1824,12,Other,Pune,Food,12/7/2020
+B-3825,D-2922,Person_1825,69,Female,Mumbai,Medical,1/4/2018
+B-3826,D-2807,Person_1826,98,Male,Mumbai,Medical,10/23/2007
+B-3827,D-1761,Person_1827,69,Male,Solapur,Medical,8/8/2018
+B-3828,D-1242,Person_1828,84,Other,Nashik,Food,1/8/2014
+B-3829,D-1331,Person_1829,34,Other,Satara,Financial Assistance,7/11/2005
+B-3830,D-2870,Person_1830,5,Other,Aurangabad,Financial Assistance,11/16/2011
+B-3831,D-2761,Person_1831,16,Male,Mumbai,Shelter,11/7/2011
+B-3832,D-1816,Person_1832,65,Male,Pune,Financial Assistance,6/18/2004
+B-3833,D-2393,Person_1833,87,Other,Aurangabad,Financial Assistance,9/28/2023
+B-3834,D-2354,Person_1834,19,Other,Nagpur,Shelter,10/2/2010
+B-3835,D-2108,Person_1835,94,Female,Kolhapur,Medical,12/5/2007
+B-3836,D-2340,Person_1836,96,Other,Nashik,Financial Assistance,10/17/2010
+B-3837,D-2802,Person_1837,46,Male,Satara,Shelter,9/21/2019
+B-3838,D-2068,Person_1838,99,Female,Thane,Financial Assistance,12/10/2011
+B-3839,D-1771,Person_1839,55,Female,Nagpur,Medical,4/25/2018
+B-3840,D-2689,Person_1840,77,Other,Nashik,Food,12/30/2008
+B-3841,D-2265,Person_1841,87,Other,Nagpur,Financial Assistance,8/12/2010
+B-3842,D-1156,Person_1842,17,Other,Aurangabad,Shelter,10/31/2022
+B-3843,D-1093,Person_1843,100,Male,Mumbai,Medical,12/3/2018
+B-3844,D-2246,Person_1844,84,Female,Kolhapur,Shelter,7/9/2007
+B-3845,D-1415,Person_1845,98,Other,Ratnagiri,Financial Assistance,2/6/2016
+B-3846,D-2159,Person_1846,78,Male,Ratnagiri,Medical,7/30/2021
+B-3847,D-1112,Person_1847,21,Female,Mumbai,Shelter,5/31/2011
+B-3848,D-1605,Person_1848,72,Other,Pune,Financial Assistance,6/19/2008
+B-3849,D-1369,Person_1849,65,Other,Aurangabad,Medical,4/15/2010
+B-3850,D-2801,Person_1850,78,Male,Pune,Food,12/14/2018
+B-3851,D-1009,Person_1851,13,Male,Mumbai,Medical,4/9/2020
+B-3852,D-1951,Person_1852,88,Female,Ratnagiri,Shelter,4/26/2015
+B-3853,D-2579,Person_1853,9,Other,Kolhapur,Shelter,6/24/2017
+B-3854,D-1399,Person_1854,37,Female,Mumbai,Food,10/26/2009
+B-3855,D-1183,Person_1855,98,Male,Solapur,Food,6/11/2007
+B-3856,D-1001,Person_1856,79,Female,Satara,Food,1/28/2005
+B-3857,D-2587,Person_1857,2,Other,Pune,Shelter,7/21/2007
+B-3858,D-2147,Person_1858,45,Male,Nashik,Financial Assistance,1/9/2006
+B-3859,D-1189,Person_1859,87,Other,Satara,Financial Assistance,11/20/2018
+B-3860,D-1584,Person_1860,1,Male,Solapur,Food,8/7/2017
+B-3861,D-1427,Person_1861,94,Male,Nagpur,Shelter,8/21/2009
+B-3862,D-1264,Person_1862,76,Other,Nashik,Shelter,6/26/2012
+B-3863,D-1401,Person_1863,41,Female,Satara,Shelter,7/31/2013
+B-3864,D-1705,Person_1864,79,Other,Aurangabad,Medical,6/5/2012
+B-3865,D-2299,Person_1865,52,Male,Aurangabad,Shelter,2/28/2004
+B-3866,D-1104,Person_1866,74,Other,Solapur,Food,10/3/2020
+B-3867,D-2682,Person_1867,41,Other,Thane,Medical,10/24/2004
+B-3868,D-1245,Person_1868,76,Other,Mumbai,Medical,3/25/2012
+B-3869,D-1377,Person_1869,97,Male,Satara,Shelter,6/6/2017
+B-3870,D-1258,Person_1870,7,Male,Nashik,Food,9/25/2011
+B-3871,D-1971,Person_1871,52,Other,Nagpur,Financial Assistance,12/29/2012
+B-3872,D-2146,Person_1872,64,Other,Satara,Food,12/2/2018
+B-3873,D-1395,Person_1873,22,Other,Thane,Food,3/30/2009
+B-3874,D-2815,Person_1874,76,Male,Solapur,Financial Assistance,12/27/2010
+B-3875,D-2730,Person_1875,47,Other,Pune,Shelter,8/27/2010
+B-3876,D-2441,Person_1876,44,Other,Ratnagiri,Shelter,10/21/2012
+B-3877,D-1939,Person_1877,72,Female,Aurangabad,Financial Assistance,6/12/2015
+B-3878,D-1487,Person_1878,48,Other,Nashik,Medical,8/27/2015
+B-3879,D-2487,Person_1879,72,Other,Nashik,Medical,6/20/2023
+B-3880,D-2384,Person_1880,74,Female,Nashik,Shelter,10/4/2010
+B-3881,D-2724,Person_1881,61,Female,Ratnagiri,Financial Assistance,6/1/2020
+B-3882,D-2162,Person_1882,54,Male,Thane,Financial Assistance,11/15/2012
+B-3883,D-1774,Person_1883,29,Other,Solapur,Food,9/21/2008
+B-3884,D-1941,Person_1884,57,Other,Kolhapur,Food,9/7/2011
+B-3885,D-2488,Person_1885,99,Male,Aurangabad,Financial Assistance,11/22/2005
+B-3886,D-1749,Person_1886,31,Female,Thane,Food,11/20/2006
+B-3887,D-1050,Person_1887,31,Male,Mumbai,Food,12/20/2016
+B-3888,D-1999,Person_1888,55,Male,Thane,Shelter,9/24/2006
+B-3889,D-1061,Person_1889,33,Other,Pune,Food,11/2/2005
+B-3890,D-2473,Person_1890,33,Male,Nagpur,Food,8/7/2021
+B-3891,D-1045,Person_1891,96,Other,Nashik,Financial Assistance,9/1/2010
+B-3892,D-1455,Person_1892,14,Other,Kolhapur,Financial Assistance,4/13/2019
+B-3893,D-1992,Person_1893,93,Other,Nashik,Medical,4/25/2016
+B-3894,D-2920,Person_1894,94,Other,Ratnagiri,Medical,1/26/2008
+B-3895,D-1359,Person_1895,37,Other,Ratnagiri,Food,1/13/2016
+B-3896,D-2733,Person_1896,45,Female,Aurangabad,Shelter,1/4/2012
+B-3897,D-1817,Person_1897,54,Male,Kolhapur,Financial Assistance,5/6/2015
+B-3898,D-2063,Person_1898,79,Male,Ratnagiri,Shelter,6/12/2010
+B-3899,D-1910,Person_1899,10,Other,Thane,Medical,12/4/2011
+B-3900,D-1833,Person_1900,85,Female,Ratnagiri,Financial Assistance,12/22/2022
+B-3901,D-1171,Person_1901,74,Other,Mumbai,Medical,8/23/2016
+B-3902,D-2448,Person_1902,35,Male,Thane,Medical,12/17/2008
+B-3903,D-2916,Person_1903,49,Other,Nashik,Medical,1/26/2018
+B-3904,D-1415,Person_1904,49,Male,Thane,Food,11/7/2013
+B-3905,D-1257,Person_1905,23,Other,Nashik,Medical,3/12/2006
+B-3906,D-2471,Person_1906,22,Other,Thane,Medical,11/1/2022
+B-3907,D-1581,Person_1907,70,Male,Nagpur,Food,4/26/2011
+B-3908,D-2511,Person_1908,5,Male,Nashik,Food,10/11/2008
+B-3909,D-2727,Person_1909,61,Other,Aurangabad,Shelter,11/21/2023
+B-3910,D-1661,Person_1910,7,Male,Kolhapur,Shelter,5/9/2007
+B-3911,D-2355,Person_1911,2,Male,Aurangabad,Financial Assistance,3/12/2005
+B-3912,D-2495,Person_1912,48,Other,Satara,Shelter,9/8/2007
+B-3913,D-2410,Person_1913,49,Male,Nagpur,Medical,6/26/2022
+B-3914,D-1256,Person_1914,58,Male,Nagpur,Financial Assistance,12/4/2017
+B-3915,D-2760,Person_1915,99,Male,Ratnagiri,Financial Assistance,2/14/2014
+B-3916,D-1295,Person_1916,98,Female,Mumbai,Shelter,2/5/2006
+B-3917,D-1227,Person_1917,12,Other,Pune,Medical,8/4/2019
+B-3918,D-1510,Person_1918,60,Female,Aurangabad,Financial Assistance,2/9/2009
+B-3919,D-2049,Person_1919,8,Other,Solapur,Shelter,9/15/2006
+B-3920,D-2624,Person_1920,17,Other,Aurangabad,Shelter,11/16/2019
+B-3921,D-2226,Person_1921,39,Other,Nagpur,Medical,12/2/2022
+B-3922,D-1376,Person_1922,41,Female,Nashik,Medical,11/24/2021
+B-3923,D-2375,Person_1923,48,Female,Kolhapur,Financial Assistance,3/10/2009
+B-3924,D-2034,Person_1924,68,Other,Solapur,Medical,9/9/2022
+B-3925,D-2816,Person_1925,47,Other,Nagpur,Financial Assistance,4/25/2017
+B-3926,D-2533,Person_1926,9,Male,Mumbai,Food,11/19/2020
+B-3927,D-1557,Person_1927,62,Female,Mumbai,Food,4/19/2006
+B-3928,D-2699,Person_1928,31,Female,Ratnagiri,Medical,10/9/2010
+B-3929,D-2749,Person_1929,57,Male,Ratnagiri,Financial Assistance,9/3/2014
+B-3930,D-1458,Person_1930,45,Female,Kolhapur,Food,9/21/2020
+B-3931,D-2595,Person_1931,99,Female,Kolhapur,Food,2/3/2010
+B-3932,D-1613,Person_1932,3,Female,Ratnagiri,Food,11/22/2013
+B-3933,D-1280,Person_1933,41,Male,Kolhapur,Medical,7/30/2007
+B-3934,D-1394,Person_1934,94,Male,Mumbai,Medical,7/11/2008
+B-3935,D-1814,Person_1935,43,Male,Nagpur,Medical,3/25/2005
+B-3936,D-1823,Person_1936,54,Other,Nagpur,Shelter,3/4/2016
+B-3937,D-2574,Person_1937,84,Other,Mumbai,Financial Assistance,1/1/2014
+B-3938,D-2064,Person_1938,95,Other,Ratnagiri,Medical,6/20/2015
+B-3939,D-1512,Person_1939,71,Male,Thane,Financial Assistance,3/26/2016
+B-3940,D-2982,Person_1940,97,Other,Ratnagiri,Financial Assistance,6/16/2009
+B-3941,D-1415,Person_1941,6,Other,Thane,Financial Assistance,7/25/2013
+B-3942,D-2746,Person_1942,59,Female,Pune,Medical,2/28/2016
+B-3943,D-1350,Person_1943,75,Other,Nashik,Food,8/3/2005
+B-3944,D-1781,Person_1944,43,Other,Satara,Shelter,12/15/2018
+B-3945,D-1366,Person_1945,95,Female,Satara,Medical,1/26/2013
+B-3946,D-1628,Person_1946,93,Male,Aurangabad,Financial Assistance,12/2/2013
+B-3947,D-2431,Person_1947,53,Other,Ratnagiri,Medical,11/15/2011
+B-3948,D-2170,Person_1948,23,Male,Pune,Shelter,6/2/2005
+B-3949,D-1721,Person_1949,66,Female,Aurangabad,Medical,6/18/2020
+B-3950,D-2395,Person_1950,7,Male,Solapur,Food,7/14/2018
+B-3951,D-2561,Person_1951,33,Other,Mumbai,Financial Assistance,12/24/2018
+B-3952,D-2782,Person_1952,88,Other,Nagpur,Food,3/8/2019
+B-3953,D-1750,Person_1953,68,Other,Aurangabad,Food,5/6/2012
+B-3954,D-1251,Person_1954,48,Female,Mumbai,Shelter,4/28/2014
+B-3955,D-1202,Person_1955,60,Female,Pune,Medical,4/17/2006
+B-3956,D-1555,Person_1956,97,Male,Ratnagiri,Medical,6/8/2019
+B-3957,D-2125,Person_1957,48,Female,Thane,Food,5/8/2008
+B-3958,D-1710,Person_1958,40,Male,Kolhapur,Shelter,12/6/2018
+B-3959,D-2553,Person_1959,67,Female,Nashik,Financial Assistance,9/11/2014
+B-3960,D-2195,Person_1960,61,Male,Ratnagiri,Medical,4/15/2020
+B-3961,D-2886,Person_1961,22,Male,Thane,Financial Assistance,6/9/2021
+B-3962,D-2659,Person_1962,55,Female,Mumbai,Medical,7/30/2022
+B-3963,D-1680,Person_1963,19,Female,Nagpur,Medical,1/14/2004
+B-3964,D-1503,Person_1964,44,Female,Mumbai,Medical,2/4/2021
+B-3965,D-1057,Person_1965,99,Female,Kolhapur,Financial Assistance,5/19/2016
+B-3966,D-2803,Person_1966,81,Other,Nagpur,Medical,4/25/2013
+B-3967,D-1696,Person_1967,89,Male,Nashik,Medical,6/26/2020
+B-3968,D-1461,Person_1968,14,Male,Satara,Financial Assistance,11/3/2017
+B-3969,D-2234,Person_1969,99,Other,Thane,Food,8/2/2015
+B-3970,D-2104,Person_1970,19,Female,Thane,Financial Assistance,10/17/2005
+B-3971,D-2558,Person_1971,30,Other,Mumbai,Medical,4/26/2020
+B-3972,D-1724,Person_1972,79,Female,Ratnagiri,Financial Assistance,11/21/2020
+B-3973,D-2126,Person_1973,45,Other,Pune,Shelter,9/26/2007
+B-3974,D-1741,Person_1974,29,Female,Nagpur,Shelter,5/3/2017
+B-3975,D-1034,Person_1975,92,Other,Nashik,Food,8/25/2017
+B-3976,D-2478,Person_1976,75,Other,Nashik,Food,3/28/2019
+B-3977,D-1046,Person_1977,15,Female,Mumbai,Financial Assistance,12/6/2010
+B-3978,D-2337,Person_1978,47,Male,Mumbai,Food,6/2/2012
+B-3979,D-2842,Person_1979,9,Female,Ratnagiri,Food,9/4/2021
+B-3980,D-2973,Person_1980,83,Male,Thane,Food,2/19/2014
+B-3981,D-2676,Person_1981,70,Male,Thane,Shelter,3/24/2022
+B-3982,D-1081,Person_1982,41,Other,Thane,Medical,3/19/2014
+B-3983,D-1059,Person_1983,54,Female,Aurangabad,Medical,5/10/2008
+B-3984,D-2635,Person_1984,57,Female,Kolhapur,Financial Assistance,2/11/2012
+B-3985,D-2224,Person_1985,22,Other,Aurangabad,Financial Assistance,8/11/2006
+B-3986,D-2982,Person_1986,43,Female,Thane,Food,4/9/2011
+B-3987,D-1140,Person_1987,80,Female,Ratnagiri,Financial Assistance,4/11/2009
+B-3988,D-2808,Person_1988,96,Female,Ratnagiri,Medical,12/23/2018
+B-3989,D-2784,Person_1989,87,Other,Solapur,Food,9/18/2014
+B-3990,D-2379,Person_1990,9,Male,Nagpur,Medical,7/22/2016
+B-3991,D-2946,Person_1991,45,Other,Mumbai,Medical,8/30/2022
+B-3992,D-2436,Person_1992,14,Female,Thane,Medical,3/5/2009
+B-3993,D-2544,Person_1993,12,Male,Nashik,Food,9/28/2018
+B-3994,D-2796,Person_1994,82,Male,Solapur,Food,9/10/2017
+B-3995,D-1564,Person_1995,29,Female,Ratnagiri,Food,11/10/2009
+B-3996,D-2129,Person_1996,60,Female,Kolhapur,Food,9/13/2005
+B-3997,D-2340,Person_1997,89,Other,Kolhapur,Financial Assistance,10/3/2012
+B-3998,D-2908,Person_1998,95,Female,Thane,Financial Assistance,7/17/2023
+B-3999,D-2005,Person_1999,93,Female,Nagpur,Financial Assistance,2/19/2005
+B-2000,D-1328,Person_2000,25,Male,Kolhapur,Food,03/09/2019
+B-2001,D-2446,Person_2001,78,Female,Kolhapur,Shelter,09/05/2019
+B-2002,D-1647,Person_2002,30,Female,Kolhapur,Food,07/02/2019
+B-2003,D-1104,Person_2003,96,Male,Mumbai,Shelter,04/26/2021
+B-2004,D-2805,Person_2004,81,Male,Ratnagiri,Medical,04/07/2015
+B-2005,D-1589,Person_2005,73,Other,Ratnagiri,Medical,08/18/2022
+B-2006,D-1635,Person_2006,49,Other,Nanded,Financial Assistance,05/10/2024
+B-2007,D-1202,Person_2007,23,Female,Ratnagiri,Financial Assistance,06/18/2019
+B-2008,D-2795,Person_2008,91,Other,Amravati,Shelter,12/18/2019
+B-2009,D-1766,Person_2009,64,Male,Solapur,Medical,07/25/2016
+B-2010,D-2863,Person_2010,19,Female,Satara,Shelter,04/30/2021
+B-2011,D-2629,Person_2011,52,Female,Thane,Food,03/14/2015
+B-2012,D-1637,Person_2012,3,Other,Satara,Food,11/06/2018
+B-2013,D-1230,Person_2013,69,Male,Ahmednagar,Medical,02/20/2023
+B-2014,D-1302,Person_2014,15,Female,Satara,Financial Assistance,08/16/2021
+B-2015,D-1805,Person_2015,65,Male,Thane,Financial Assistance,12/07/2016
+B-2016,D-2317,Person_2016,85,Male,Pune,Financial Assistance,11/17/2022
+B-2017,D-2000,Person_2017,67,Other,Ratnagiri,Medical,10/20/2017
+B-2018,D-1312,Person_2018,42,Male,Kolhapur,Medical,06/11/2022
+B-2019,D-1735,Person_2019,1,Male,Satara,Medical,04/10/2020
+B-2020,D-2749,Person_2020,17,Other,Pune,Financial Assistance,06/07/2017
+B-2021,D-2125,Person_2021,71,Female,Ahmednagar,Shelter,08/19/2023
+B-2022,D-1470,Person_2022,9,Other,Latur,Medical,03/01/2021
+B-2023,D-1329,Person_2023,24,Other,Mumbai,Food,06/28/2015
+B-2024,D-2575,Person_2024,75,Female,Nashik,Food,06/07/2023
+B-2025,D-2691,Person_2025,89,Male,Nagpur,Food,01/23/2018
+B-2026,D-1558,Person_2026,89,Female,Amravati,Food,08/15/2019
+B-2027,D-2085,Person_2027,27,Male,Nashik,Shelter,07/11/2016
+B-2028,D-2430,Person_2028,27,Male,Mumbai,Shelter,12/25/2018
+B-2029,D-2438,Person_2029,37,Other,Amravati,Financial Assistance,03/03/2022
+B-2030,D-2559,Person_2030,41,Female,Thane,Medical,12/17/2023
+B-2031,D-1213,Person_2031,45,Male,Aurangabad,Medical,02/16/2024
+B-2032,D-2164,Person_2032,30,Other,Nanded,Medical,09/26/2024
+B-2033,D-1544,Person_2033,20,Male,Satara,Shelter,08/10/2023
+B-2034,D-1436,Person_2034,52,Female,Aurangabad,Medical,03/26/2017
+B-2035,D-1574,Person_2035,99,Other,Nagpur,Food,02/23/2019
+B-2036,D-1525,Person_2036,15,Female,Nashik,Financial Assistance,07/27/2019
+B-2037,D-1327,Person_2037,41,Female,Nashik,Food,11/21/2017
+B-2038,D-2079,Person_2038,32,Male,Latur,Medical,05/14/2017
+B-2039,D-2175,Person_2039,39,Male,Mumbai,Medical,04/17/2024
+B-2040,D-1098,Person_2040,46,Female,Solapur,Financial Assistance,07/06/2016
+B-2041,D-2074,Person_2041,21,Female,Amravati,Medical,02/02/2019
+B-2042,D-2544,Person_2042,35,Female,Nashik,Financial Assistance,05/16/2023
+B-2043,D-1852,Person_2043,98,Female,Kolhapur,Medical,11/30/2021
+B-2044,D-1681,Person_2044,20,Female,Amravati,Food,04/29/2017
+B-2045,D-2914,Person_2045,71,Male,Kolhapur,Shelter,11/27/2020
+B-2046,D-2133,Person_2046,15,Female,Nanded,Medical,11/11/2024
+B-2047,D-2559,Person_2047,21,Female,Amravati,Financial Assistance,11/02/2019
+B-2048,D-2631,Person_2048,33,Female,Mumbai,Financial Assistance,06/22/2016
+B-2049,D-2893,Person_2049,85,Female,Nashik,Food,05/26/2015
+B-2050,D-1108,Person_2050,32,Female,Thane,Shelter,11/01/2024
+B-2051,D-1107,Person_2051,64,Female,Kolhapur,Shelter,01/01/2022
+B-2052,D-2751,Person_2052,11,Other,Satara,Shelter,11/11/2017
+B-2053,D-2646,Person_2053,99,Male,Amravati,Medical,09/14/2020
+B-2054,D-2832,Person_2054,60,Male,Aurangabad,Medical,05/13/2015
+B-2055,D-2997,Person_2055,83,Female,Kolhapur,Financial Assistance,11/01/2017
+B-2056,D-1883,Person_2056,17,Female,Pune,Financial Assistance,06/13/2015
+B-2057,D-2019,Person_2057,85,Female,Nagpur,Food,12/27/2021
+B-2058,D-1018,Person_2058,97,Male,Nashik,Food,05/29/2017
+B-2059,D-2145,Person_2059,46,Male,Ratnagiri,Medical,10/25/2017
+B-2060,D-2702,Person_2060,9,Female,Mumbai,Shelter,08/06/2019
+B-2061,D-2993,Person_2061,95,Female,Mumbai,Financial Assistance,12/15/2022
+B-2062,D-1000,Person_2062,52,Female,Pune,Shelter,05/15/2022
+B-2063,D-2077,Person_2063,49,Male,Aurangabad,Financial Assistance,10/29/2015
+B-2064,D-1388,Person_2064,98,Other,Ratnagiri,Shelter,09/08/2021
+B-2065,D-1899,Person_2065,100,Male,Solapur,Food,06/04/2018
+B-2066,D-1712,Person_2066,57,Male,Mumbai,Shelter,09/02/2020
+B-2067,D-1461,Person_2067,94,Other,Ahmednagar,Shelter,05/04/2023
+B-2068,D-2267,Person_2068,33,Male,Amravati,Medical,02/22/2017
+B-2069,D-2124,Person_2069,72,Male,Latur,Medical,05/06/2021
+B-2070,D-2023,Person_2070,97,Male,Aurangabad,Shelter,01/20/2018
+B-2071,D-1565,Person_2071,82,Male,Amravati,Medical,11/13/2019
+B-2072,D-1001,Person_2072,64,Female,Ratnagiri,Shelter,08/16/2021
+B-2073,D-1132,Person_2073,42,Other,Nashik,Financial Assistance,12/18/2021
+B-2074,D-1118,Person_2074,5,Other,Nashik,Shelter,10/23/2023
+B-2075,D-1474,Person_2075,13,Other,Solapur,Food,06/07/2020
+B-2076,D-1863,Person_2076,82,Male,Nashik,Food,11/15/2018
+B-2077,D-1172,Person_2077,59,Male,Pune,Medical,01/02/2024
+B-2078,D-1992,Person_2078,78,Male,Latur,Food,06/14/2021
+B-2079,D-1548,Person_2079,66,Male,Nanded,Shelter,08/14/2016
+B-2080,D-2789,Person_2080,82,Female,Kolhapur,Financial Assistance,11/07/2024
+B-2081,D-1229,Person_2081,15,Other,Satara,Financial Assistance,10/07/2020
+B-2082,D-1160,Person_2082,17,Male,Amravati,Financial Assistance,02/20/2016
+B-2083,D-1248,Person_2083,93,Male,Thane,Financial Assistance,02/08/2022
+B-2084,D-2739,Person_2084,80,Female,Latur,Medical,12/01/2015
+B-2085,D-1387,Person_2085,24,Female,Aurangabad,Financial Assistance,10/01/2019
+B-2086,D-1536,Person_2086,72,Male,Kolhapur,Food,11/18/2017
+B-2087,D-1094,Person_2087,81,Other,Nanded,Shelter,03/18/2020
+B-2088,D-2272,Person_2088,84,Female,Nashik,Food,04/15/2023
+B-2089,D-2996,Person_2089,49,Female,Nashik,Shelter,09/07/2019
+B-2090,D-1371,Person_2090,100,Other,Amravati,Shelter,09/24/2021
+B-2091,D-2565,Person_2091,85,Female,Amravati,Food,04/21/2024
+B-2092,D-2921,Person_2092,37,Female,Nashik,Shelter,02/17/2024
+B-2093,D-2757,Person_2093,10,Female,Aurangabad,Shelter,12/28/2020
+B-2094,D-2235,Person_2094,10,Other,Latur,Medical,01/31/2016
+B-2095,D-2794,Person_2095,75,Female,Nanded,Food,08/05/2017
+B-2096,D-1269,Person_2096,30,Female,Aurangabad,Shelter,04/27/2016
+B-2097,D-2881,Person_2097,37,Female,Latur,Financial Assistance,10/19/2017
+B-2098,D-1339,Person_2098,82,Other,Thane,Financial Assistance,02/23/2016
+B-2099,D-2574,Person_2099,15,Other,Nanded,Financial Assistance,02/03/2024
+B-2100,D-2260,Person_2100,3,Male,Thane,Financial Assistance,03/01/2018
+B-2101,D-1449,Person_2101,29,Female,Thane,Shelter,03/28/2017
+B-2102,D-2198,Person_2102,51,Male,Nanded,Shelter,10/11/2021
+B-2103,D-2803,Person_2103,67,Female,Thane,Shelter,08/20/2017
+B-2104,D-1220,Person_2104,14,Female,Ratnagiri,Shelter,07/08/2021
+B-2105,D-1535,Person_2105,85,Male,Ratnagiri,Shelter,11/26/2017
+B-2106,D-1213,Person_2106,38,Other,Nashik,Shelter,05/30/2019
+B-2107,D-1299,Person_2107,22,Other,Mumbai,Medical,01/13/2025
+B-2108,D-1811,Person_2108,67,Female,Pune,Medical,11/28/2021
+B-2109,D-1699,Person_2109,49,Male,Aurangabad,Medical,05/19/2023
+B-2110,D-1668,Person_2110,35,Male,Nashik,Food,03/28/2023
+B-2111,D-2684,Person_2111,71,Other,Solapur,Shelter,04/24/2015
+B-2112,D-2321,Person_2112,61,Female,Mumbai,Financial Assistance,06/10/2019
+B-2113,D-1031,Person_2113,88,Other,Pune,Food,11/16/2020
+B-2114,D-2472,Person_2114,91,Female,Nanded,Financial Assistance,07/30/2015
+B-2115,D-2049,Person_2115,27,Female,Pune,Medical,10/17/2019
+B-2116,D-2095,Person_2116,3,Other,Satara,Medical,02/09/2020
+B-2117,D-1891,Person_2117,95,Other,Pune,Food,10/08/2015
+B-2118,D-2388,Person_2118,76,Male,Nagpur,Medical,11/11/2020
+B-2119,D-1906,Person_2119,4,Male,Nanded,Medical,01/18/2024
+B-2120,D-2425,Person_2120,96,Male,Nagpur,Medical,11/19/2023
+B-2121,D-1131,Person_2121,24,Female,Ratnagiri,Food,09/27/2019
+B-2122,D-1904,Person_2122,18,Male,Kolhapur,Food,09/16/2022
+B-2123,D-1778,Person_2123,27,Male,Pune,Financial Assistance,06/05/2019
+B-2124,D-2325,Person_2124,45,Other,Ahmednagar,Medical,02/28/2020
+B-2125,D-2309,Person_2125,68,Male,Ahmednagar,Medical,11/08/2015
+B-2126,D-2297,Person_2126,58,Other,Solapur,Financial Assistance,12/23/2015
+B-2127,D-1307,Person_2127,7,Male,Aurangabad,Medical,12/28/2015
+B-2128,D-1174,Person_2128,98,Male,Thane,Financial Assistance,08/01/2018
+B-2129,D-2385,Person_2129,81,Female,Nagpur,Shelter,03/20/2022
+B-2130,D-1202,Person_2130,13,Male,Nanded,Medical,09/11/2017
+B-2131,D-2140,Person_2131,17,Other,Pune,Financial Assistance,11/08/2018
+B-2132,D-1033,Person_2132,10,Female,Thane,Financial Assistance,06/07/2022
+B-2133,D-2204,Person_2133,92,Male,Nagpur,Financial Assistance,09/04/2017
+B-2134,D-1955,Person_2134,7,Other,Ahmednagar,Financial Assistance,10/27/2022
+B-2135,D-2449,Person_2135,54,Other,Nanded,Shelter,06/15/2019
+B-2136,D-2671,Person_2136,94,Male,Aurangabad,Medical,05/03/2018
+B-2137,D-1509,Person_2137,33,Male,Pune,Medical,10/23/2019
+B-2138,D-2236,Person_2138,49,Female,Mumbai,Shelter,06/22/2024
+B-2139,D-2471,Person_2139,36,Other,Thane,Medical,08/09/2017
+B-2140,D-1838,Person_2140,98,Male,Mumbai,Food,05/26/2024
+B-2141,D-1494,Person_2141,18,Male,Nashik,Financial Assistance,09/18/2020
+B-2142,D-1198,Person_2142,32,Male,Kolhapur,Shelter,08/07/2016
+B-2143,D-1944,Person_2143,24,Male,Mumbai,Shelter,09/17/2018
+B-2144,D-2154,Person_2144,98,Other,Nagpur,Shelter,06/17/2017
+B-2145,D-2192,Person_2145,86,Other,Amravati,Financial Assistance,10/01/2020
+B-2146,D-2719,Person_2146,25,Female,Nagpur,Shelter,03/24/2019
+B-2147,D-2333,Person_2147,40,Female,Nagpur,Medical,04/16/2021
+B-2148,D-1001,Person_2148,45,Male,Aurangabad,Financial Assistance,06/24/2020
+B-2149,D-2358,Person_2149,5,Other,Satara,Shelter,05/20/2024
+B-2150,D-2781,Person_2150,90,Other,Thane,Food,09/01/2022
+B-2151,D-2975,Person_2151,42,Female,Aurangabad,Food,02/29/2020
+B-2152,D-2676,Person_2152,10,Female,Amravati,Medical,04/14/2023
+B-2153,D-1854,Person_2153,41,Other,Amravati,Food,01/23/2017
+B-2154,D-2002,Person_2154,64,Female,Ahmednagar,Food,11/16/2017
+B-2155,D-2250,Person_2155,50,Female,Aurangabad,Medical,06/15/2018
+B-2156,D-2221,Person_2156,90,Male,Amravati,Medical,12/15/2017
+B-2157,D-2373,Person_2157,19,Female,Aurangabad,Medical,12/21/2020
+B-2158,D-2933,Person_2158,36,Female,Ahmednagar,Shelter,07/06/2016
+B-2159,D-2085,Person_2159,49,Male,Aurangabad,Food,07/30/2015
+B-2160,D-2483,Person_2160,49,Male,Solapur,Medical,02/21/2020
+B-2161,D-2924,Person_2161,50,Female,Nashik,Food,12/07/2016
+B-2162,D-1641,Person_2162,8,Other,Kolhapur,Financial Assistance,10/26/2015
+B-2163,D-2366,Person_2163,61,Other,Solapur,Shelter,10/07/2019
+B-2164,D-2079,Person_2164,63,Other,Nashik,Financial Assistance,09/26/2019
+B-2165,D-2454,Person_2165,13,Female,Mumbai,Financial Assistance,05/08/2024
+B-2166,D-2152,Person_2166,35,Male,Nanded,Medical,11/10/2021
+B-2167,D-2005,Person_2167,30,Male,Satara,Food,11/25/2024
+B-2168,D-1671,Person_2168,16,Other,Latur,Financial Assistance,04/15/2017
+B-2169,D-2978,Person_2169,52,Other,Satara,Financial Assistance,09/02/2017
+B-2170,D-1153,Person_2170,5,Other,Nashik,Medical,12/03/2021
+B-2171,D-1452,Person_2171,60,Male,Ahmednagar,Financial Assistance,01/14/2019
+B-2172,D-1851,Person_2172,23,Other,Nagpur,Food,02/16/2016
+B-2173,D-2590,Person_2173,34,Female,Ahmednagar,Shelter,12/10/2023
+B-2174,D-1633,Person_2174,34,Male,Ratnagiri,Medical,11/17/2015
+B-2175,D-2452,Person_2175,16,Female,Satara,Food,07/29/2016
+B-2176,D-1524,Person_2176,28,Male,Thane,Shelter,05/09/2016
+B-2177,D-2714,Person_2177,59,Other,Amravati,Medical,12/05/2021
+B-2178,D-1283,Person_2178,88,Female,Nashik,Food,11/26/2019
+B-2179,D-1156,Person_2179,86,Other,Thane,Medical,04/17/2018
+B-2180,D-1434,Person_2180,62,Other,Ratnagiri,Food,01/28/2019
+B-2181,D-1479,Person_2181,74,Male,Ahmednagar,Shelter,05/17/2023
+B-2182,D-1485,Person_2182,6,Female,Mumbai,Financial Assistance,04/03/2021
+B-2183,D-1765,Person_2183,83,Male,Kolhapur,Food,03/13/2019
+B-2184,D-2844,Person_2184,93,Female,Nanded,Shelter,04/18/2018
+B-2185,D-1066,Person_2185,82,Male,Kolhapur,Financial Assistance,08/05/2023
+B-2186,D-2233,Person_2186,23,Male,Pune,Financial Assistance,10/24/2022
+B-2187,D-1829,Person_2187,64,Female,Latur,Medical,08/19/2024
+B-2188,D-1766,Person_2188,42,Female,Mumbai,Food,11/12/2015
+B-2189,D-1304,Person_2189,88,Other,Satara,Financial Assistance,09/10/2016
+B-2190,D-2204,Person_2190,60,Female,Nanded,Financial Assistance,09/10/2019
+B-2191,D-1110,Person_2191,58,Female,Mumbai,Medical,05/20/2017
+B-2192,D-2918,Person_2192,64,Female,Latur,Medical,03/16/2015
+B-2193,D-1445,Person_2193,83,Other,Satara,Food,12/29/2021
+B-2194,D-2011,Person_2194,90,Female,Mumbai,Food,02/10/2019
+B-2195,D-1878,Person_2195,56,Male,Nanded,Food,03/28/2019
+B-2196,D-1699,Person_2196,88,Male,Nanded,Food,11/07/2020
+B-2197,D-2888,Person_2197,94,Other,Nanded,Food,04/22/2022
+B-2198,D-2047,Person_2198,84,Female,Pune,Food,12/30/2021
+B-2199,D-1210,Person_2199,62,Other,Ratnagiri,Medical,01/23/2023
+B-2200,D-1439,Person_2200,82,Other,Nanded,Food,02/25/2021
+B-2201,D-1727,Person_2201,91,Other,Amravati,Financial Assistance,12/07/2015
+B-2202,D-2855,Person_2202,97,Other,Latur,Medical,12/13/2020
+B-2203,D-2956,Person_2203,44,Female,Nagpur,Food,10/05/2023
+B-2204,D-2093,Person_2204,60,Male,Kolhapur,Food,07/28/2015
+B-2205,D-1030,Person_2205,95,Other,Solapur,Medical,05/21/2015
+B-2206,D-2873,Person_2206,6,Other,Kolhapur,Financial Assistance,05/19/2020
+B-2207,D-1553,Person_2207,30,Male,Thane,Food,10/29/2015
+B-2208,D-2085,Person_2208,74,Other,Solapur,Shelter,07/25/2021
+B-2209,D-2395,Person_2209,11,Male,Mumbai,Financial Assistance,08/05/2024
+B-2210,D-1476,Person_2210,54,Male,Nanded,Medical,12/15/2019
+B-2211,D-1587,Person_2211,26,Female,Amravati,Shelter,07/19/2017
+B-2212,D-1930,Person_2212,85,Male,Ahmednagar,Medical,08/03/2021
+B-2213,D-1904,Person_2213,93,Male,Ahmednagar,Shelter,02/04/2016
+B-2214,D-2967,Person_2214,93,Male,Nagpur,Shelter,06/27/2024
+B-2215,D-1571,Person_2215,64,Male,Amravati,Medical,05/13/2017
+B-2216,D-1925,Person_2216,97,Other,Solapur,Medical,08/23/2024
+B-2217,D-1358,Person_2217,21,Male,Mumbai,Medical,03/21/2019
+B-2218,D-2194,Person_2218,25,Female,Nashik,Shelter,09/30/2016
+B-2219,D-2072,Person_2219,42,Female,Kolhapur,Food,08/12/2015
+B-2220,D-2832,Person_2220,13,Male,Ratnagiri,Food,03/21/2023
+B-2221,D-1119,Person_2221,63,Female,Pune,Financial Assistance,10/22/2020
+B-2222,D-1095,Person_2222,72,Other,Nagpur,Financial Assistance,02/11/2018
+B-2223,D-2434,Person_2223,78,Other,Latur,Medical,09/17/2015
+B-2224,D-2006,Person_2224,71,Female,Amravati,Food,02/17/2017
+B-2225,D-1083,Person_2225,94,Male,Latur,Food,09/03/2022
+B-2226,D-2588,Person_2226,55,Male,Thane,Food,10/08/2015
+B-2227,D-1042,Person_2227,82,Female,Pune,Food,12/17/2024
+B-2228,D-1760,Person_2228,43,Male,Pune,Medical,06/17/2020
+B-2229,D-2599,Person_2229,89,Male,Amravati,Financial Assistance,07/04/2020
+B-2230,D-1425,Person_2230,59,Other,Ratnagiri,Food,01/27/2020
+B-2231,D-2903,Person_2231,79,Female,Thane,Shelter,03/13/2017
+B-2232,D-1607,Person_2232,5,Other,Solapur,Food,12/25/2019
+B-2233,D-2550,Person_2233,30,Other,Ahmednagar,Shelter,03/22/2022
+B-2234,D-2137,Person_2234,2,Other,Latur,Financial Assistance,02/28/2022
+B-2235,D-2111,Person_2235,73,Male,Aurangabad,Food,07/21/2022
+B-2236,D-1911,Person_2236,92,Female,Thane,Financial Assistance,11/04/2020
+B-2237,D-2827,Person_2237,82,Male,Nanded,Medical,01/17/2025
+B-2238,D-2394,Person_2238,84,Female,Satara,Medical,06/07/2024
+B-2239,D-1217,Person_2239,41,Female,Kolhapur,Financial Assistance,05/01/2018
+B-2240,D-1421,Person_2240,98,Female,Nagpur,Food,07/27/2020
+B-2241,D-2694,Person_2241,89,Female,Thane,Shelter,09/12/2018
+B-2242,D-1144,Person_2242,95,Other,Ratnagiri,Food,02/28/2018
+B-2243,D-1115,Person_2243,24,Female,Kolhapur,Financial Assistance,09/21/2021
+B-2244,D-2543,Person_2244,7,Female,Latur,Financial Assistance,08/05/2020
+B-2245,D-2575,Person_2245,82,Male,Nashik,Financial Assistance,12/29/2021
+B-2246,D-1124,Person_2246,10,Male,Nanded,Medical,03/31/2015
+B-2247,D-2418,Person_2247,3,Other,Nanded,Medical,09/28/2018
+B-2248,D-1986,Person_2248,74,Other,Aurangabad,Food,09/24/2020
+B-2249,D-1406,Person_2249,60,Male,Pune,Food,05/13/2020
+B-2250,D-1412,Person_2250,42,Other,Ahmednagar,Financial Assistance,01/08/2023
+B-2251,D-1400,Person_2251,26,Other,Aurangabad,Food,06/29/2022
+B-2252,D-1388,Person_2252,44,Other,Latur,Financial Assistance,05/05/2022
+B-2253,D-2993,Person_2253,78,Other,Thane,Food,02/25/2022
+B-2254,D-1131,Person_2254,2,Other,Kolhapur,Financial Assistance,11/08/2017
+B-2255,D-2247,Person_2255,1,Male,Amravati,Food,09/08/2023
+B-2256,D-1136,Person_2256,92,Male,Kolhapur,Financial Assistance,12/13/2022
+B-2257,D-1025,Person_2257,46,Male,Satara,Shelter,12/04/2022
+B-2258,D-1840,Person_2258,22,Female,Solapur,Shelter,03/18/2017
+B-2259,D-1222,Person_2259,7,Female,Nashik,Financial Assistance,08/17/2024
+B-2260,D-1406,Person_2260,61,Male,Mumbai,Financial Assistance,03/12/2024
+B-2261,D-2889,Person_2261,91,Male,Aurangabad,Financial Assistance,05/07/2020
+B-2262,D-2005,Person_2262,36,Other,Aurangabad,Shelter,04/08/2022
+B-2263,D-2204,Person_2263,1,Male,Nanded,Shelter,01/06/2025
+B-2264,D-2837,Person_2264,45,Male,Ratnagiri,Financial Assistance,01/19/2019
+B-2265,D-2441,Person_2265,46,Male,Nashik,Financial Assistance,08/24/2022
+B-2266,D-2843,Person_2266,89,Other,Ratnagiri,Medical,03/14/2015
+B-2267,D-2435,Person_2267,92,Male,Ahmednagar,Shelter,10/10/2019
+B-2268,D-1961,Person_2268,23,Female,Ratnagiri,Food,05/09/2020
+B-2269,D-1978,Person_2269,35,Other,Satara,Financial Assistance,11/13/2017
+B-2270,D-2859,Person_2270,21,Other,Pune,Shelter,10/10/2017
+B-2271,D-1668,Person_2271,78,Other,Nagpur,Shelter,06/04/2022
+B-2272,D-1898,Person_2272,1,Other,Ratnagiri,Financial Assistance,06/01/2020
+B-2273,D-1221,Person_2273,49,Male,Thane,Food,01/03/2021
+B-2274,D-1041,Person_2274,50,Other,Solapur,Financial Assistance,04/29/2019
+B-2275,D-2090,Person_2275,66,Male,Solapur,Financial Assistance,12/23/2022
+B-2276,D-1699,Person_2276,89,Female,Aurangabad,Medical,02/15/2018
+B-2277,D-2995,Person_2277,3,Female,Nanded,Food,03/31/2021
+B-2278,D-1033,Person_2278,92,Other,Solapur,Financial Assistance,09/02/2021
+B-2279,D-1577,Person_2279,8,Female,Kolhapur,Medical,05/21/2022
+B-2280,D-1476,Person_2280,11,Other,Kolhapur,Financial Assistance,10/04/2024
+B-2281,D-1745,Person_2281,99,Other,Latur,Medical,08/29/2016
+B-2282,D-2015,Person_2282,40,Female,Nagpur,Medical,03/17/2017
+B-2283,D-1205,Person_2283,18,Other,Satara,Medical,02/21/2019
+B-2284,D-2876,Person_2284,91,Other,Ratnagiri,Medical,05/17/2017
+B-2285,D-2100,Person_2285,75,Female,Ratnagiri,Financial Assistance,02/25/2020
+B-2286,D-1831,Person_2286,30,Other,Pune,Shelter,10/19/2017
+B-2287,D-1863,Person_2287,26,Female,Kolhapur,Shelter,01/25/2017
+B-2288,D-1573,Person_2288,30,Female,Solapur,Medical,09/19/2024
+B-2289,D-2790,Person_2289,35,Female,Ahmednagar,Shelter,01/11/2018
+B-2290,D-2224,Person_2290,40,Other,Mumbai,Medical,07/10/2022
+B-2291,D-2746,Person_2291,38,Male,Aurangabad,Financial Assistance,06/15/2015
+B-2292,D-2885,Person_2292,72,Male,Ratnagiri,Medical,07/12/2016
+B-2293,D-2279,Person_2293,28,Female,Amravati,Medical,12/21/2019
+B-2294,D-2346,Person_2294,84,Male,Nagpur,Medical,11/11/2017
+B-2295,D-2137,Person_2295,31,Other,Amravati,Medical,09/17/2023
+B-2296,D-1440,Person_2296,88,Male,Nashik,Food,11/02/2024
+B-2297,D-1011,Person_2297,77,Male,Mumbai,Medical,01/25/2024
+B-2298,D-1543,Person_2298,52,Male,Ahmednagar,Financial Assistance,12/08/2019
+B-2299,D-1700,Person_2299,19,Other,Nagpur,Food,01/04/2018
+B-2300,D-1937,Person_2300,74,Female,Pune,Financial Assistance,08/16/2020
+B-2301,D-2220,Person_2301,55,Other,Ratnagiri,Financial Assistance,01/14/2018
+B-2302,D-2248,Person_2302,26,Male,Nanded,Food,06/19/2021
+B-2303,D-2999,Person_2303,40,Male,Nagpur,Medical,11/11/2016
+B-2304,D-2323,Person_2304,48,Male,Thane,Financial Assistance,03/17/2020
+B-2305,D-2820,Person_2305,85,Other,Aurangabad,Financial Assistance,11/03/2016
+B-2306,D-2518,Person_2306,77,Female,Ratnagiri,Food,07/15/2022
+B-2307,D-1069,Person_2307,17,Male,Thane,Medical,03/22/2017
+B-2308,D-2119,Person_2308,2,Male,Pune,Shelter,10/27/2018
+B-2309,D-1527,Person_2309,14,Other,Thane,Shelter,04/29/2019
+B-2310,D-2749,Person_2310,81,Female,Solapur,Financial Assistance,10/30/2022
+B-2311,D-1246,Person_2311,12,Male,Ahmednagar,Financial Assistance,07/05/2021
+B-2312,D-2086,Person_2312,90,Other,Solapur,Financial Assistance,08/05/2017
+B-2313,D-1003,Person_2313,48,Female,Nagpur,Food,12/04/2024
+B-2314,D-2592,Person_2314,46,Male,Amravati,Food,01/10/2017
+B-2315,D-2877,Person_2315,58,Female,Aurangabad,Medical,06/26/2024
+B-2316,D-2091,Person_2316,97,Male,Pune,Medical,02/14/2022
+B-2317,D-2864,Person_2317,79,Other,Nagpur,Food,08/11/2015
+B-2318,D-1112,Person_2318,94,Male,Amravati,Shelter,07/23/2021
+B-2319,D-1553,Person_2319,79,Female,Ratnagiri,Medical,08/08/2020
+B-2320,D-2979,Person_2320,43,Other,Solapur,Shelter,07/26/2022
+B-2321,D-1797,Person_2321,42,Other,Kolhapur,Medical,10/09/2015
+B-2322,D-1855,Person_2322,100,Other,Thane,Food,01/03/2018
+B-2323,D-2328,Person_2323,20,Female,Nagpur,Shelter,12/17/2016
+B-2324,D-1040,Person_2324,15,Female,Satara,Financial Assistance,10/13/2019
+B-2325,D-2036,Person_2325,61,Male,Pune,Financial Assistance,04/30/2015
+B-2326,D-1706,Person_2326,39,Male,Nagpur,Food,03/22/2020
+B-2327,D-2598,Person_2327,33,Male,Aurangabad,Financial Assistance,10/01/2015
+B-2328,D-1123,Person_2328,97,Male,Satara,Medical,12/11/2024
+B-2329,D-1476,Person_2329,40,Male,Aurangabad,Shelter,12/05/2023
+B-2330,D-1299,Person_2330,98,Other,Pune,Financial Assistance,10/13/2017
+B-2331,D-2326,Person_2331,52,Male,Thane,Financial Assistance,05/21/2023
+B-2332,D-1317,Person_2332,34,Male,Mumbai,Financial Assistance,02/03/2022
+B-2333,D-2551,Person_2333,52,Female,Nashik,Financial Assistance,05/30/2021
+B-2334,D-1284,Person_2334,70,Female,Solapur,Shelter,05/12/2017
+B-2335,D-2839,Person_2335,58,Male,Mumbai,Shelter,01/20/2019
+B-2336,D-1859,Person_2336,74,Male,Nanded,Food,01/11/2023
+B-2337,D-2906,Person_2337,77,Male,Ratnagiri,Medical,05/25/2023
+B-2338,D-2219,Person_2338,42,Other,Kolhapur,Medical,09/14/2016
+B-2339,D-2814,Person_2339,39,Other,Ahmednagar,Food,03/18/2022
+B-2340,D-1556,Person_2340,26,Female,Solapur,Food,06/24/2016
+B-2341,D-2607,Person_2341,21,Male,Latur,Food,10/06/2015
+B-2342,D-2507,Person_2342,2,Male,Aurangabad,Medical,03/24/2024
+B-2343,D-1103,Person_2343,99,Other,Ratnagiri,Food,07/04/2016
+B-2344,D-2920,Person_2344,29,Other,Latur,Food,08/03/2017
+B-2345,D-2585,Person_2345,36,Female,Satara,Medical,06/05/2024
+B-2346,D-2625,Person_2346,11,Female,Ahmednagar,Financial Assistance,12/03/2016
+B-2347,D-2818,Person_2347,43,Female,Nashik,Food,01/07/2016
+B-2348,D-1179,Person_2348,29,Other,Latur,Medical,05/26/2021
+B-2349,D-2674,Person_2349,52,Male,Pune,Shelter,04/01/2019
+B-2350,D-1500,Person_2350,44,Female,Nanded,Medical,10/03/2017
+B-2351,D-2113,Person_2351,26,Female,Thane,Shelter,06/10/2015
+B-2352,D-2075,Person_2352,51,Male,Ratnagiri,Medical,12/17/2016
+B-2353,D-1412,Person_2353,57,Male,Satara,Shelter,02/02/2017
+B-2354,D-2952,Person_2354,65,Male,Nanded,Food,01/25/2024
+B-2355,D-1742,Person_2355,62,Male,Aurangabad,Shelter,07/28/2019
+B-2356,D-1665,Person_2356,21,Other,Satara,Food,08/08/2023
+B-2357,D-2027,Person_2357,18,Other,Nanded,Financial Assistance,04/16/2018
+B-2358,D-1886,Person_2358,74,Female,Aurangabad,Financial Assistance,08/20/2022
+B-2359,D-2083,Person_2359,25,Female,Latur,Medical,07/10/2020
+B-2360,D-1548,Person_2360,72,Male,Nanded,Financial Assistance,04/28/2019
+B-2361,D-2977,Person_2361,4,Male,Aurangabad,Food,06/02/2024
+B-2362,D-2162,Person_2362,8,Male,Thane,Shelter,01/19/2019
+B-2363,D-2402,Person_2363,32,Other,Amravati,Food,11/07/2022
+B-2364,D-2057,Person_2364,74,Other,Pune,Shelter,10/22/2018
+B-2365,D-2605,Person_2365,35,Male,Ahmednagar,Medical,11/16/2018
+B-2366,D-2113,Person_2366,40,Female,Nashik,Food,02/09/2020
+B-2367,D-1902,Person_2367,82,Other,Ratnagiri,Food,01/28/2022
+B-2368,D-1221,Person_2368,24,Male,Solapur,Shelter,01/02/2020
+B-2369,D-1393,Person_2369,39,Other,Satara,Shelter,07/11/2015
+B-2370,D-1090,Person_2370,33,Other,Ahmednagar,Shelter,10/24/2023
+B-2371,D-1398,Person_2371,68,Male,Nashik,Food,02/03/2018
+B-2372,D-2747,Person_2372,57,Female,Nashik,Medical,06/16/2023
+B-2373,D-1102,Person_2373,74,Other,Ahmednagar,Shelter,10/18/2015
+B-2374,D-2816,Person_2374,73,Male,Mumbai,Food,06/29/2021
+B-2375,D-2752,Person_2375,50,Male,Aurangabad,Food,10/29/2023
+B-2376,D-2618,Person_2376,60,Female,Ratnagiri,Shelter,10/02/2018
+B-2377,D-1892,Person_2377,71,Other,Solapur,Food,10/30/2021
+B-2378,D-2603,Person_2378,52,Female,Ahmednagar,Food,12/19/2020
+B-2379,D-1391,Person_2379,54,Other,Thane,Shelter,07/29/2016
+B-2380,D-2245,Person_2380,26,Other,Pune,Food,07/27/2020
+B-2381,D-2203,Person_2381,51,Other,Nagpur,Food,05/21/2024
+B-2382,D-2516,Person_2382,38,Other,Amravati,Medical,02/28/2021
+B-2383,D-2523,Person_2383,69,Female,Ratnagiri,Financial Assistance,01/12/2024
+B-2384,D-2982,Person_2384,80,Other,Pune,Financial Assistance,12/10/2019
+B-2385,D-1439,Person_2385,6,Other,Pune,Financial Assistance,04/23/2020
+B-2386,D-1656,Person_2386,30,Male,Mumbai,Shelter,02/07/2017
+B-2387,D-2351,Person_2387,22,Female,Pune,Medical,03/27/2018
+B-2388,D-1967,Person_2388,77,Other,Solapur,Food,11/12/2022
+B-2389,D-1197,Person_2389,38,Male,Aurangabad,Shelter,06/03/2024
+B-2390,D-1496,Person_2390,20,Male,Kolhapur,Shelter,07/22/2018
+B-2391,D-1832,Person_2391,20,Other,Satara,Food,08/17/2024
+B-2392,D-2074,Person_2392,9,Other,Kolhapur,Medical,05/08/2018
+B-2393,D-1731,Person_2393,4,Male,Mumbai,Food,06/05/2016
+B-2394,D-1317,Person_2394,17,Female,Ratnagiri,Financial Assistance,05/22/2016
+B-2395,D-2604,Person_2395,83,Female,Amravati,Financial Assistance,07/16/2015
+B-2396,D-2236,Person_2396,76,Female,Amravati,Food,12/16/2019
+B-2397,D-2437,Person_2397,28,Male,Nashik,Medical,02/02/2021
+B-2398,D-1970,Person_2398,16,Male,Thane,Financial Assistance,01/10/2019
+B-2399,D-1169,Person_2399,43,Female,Ratnagiri,Medical,06/26/2019
+B-2400,D-2521,Person_2400,59,Other,Nagpur,Medical,07/10/2023
+B-2401,D-2944,Person_2401,74,Other,Solapur,Financial Assistance,04/17/2017
+B-2402,D-1032,Person_2402,39,Male,Aurangabad,Medical,11/04/2017
+B-2403,D-1497,Person_2403,59,Female,Solapur,Financial Assistance,06/14/2016
+B-2404,D-1957,Person_2404,84,Male,Nashik,Medical,10/14/2016
+B-2405,D-2277,Person_2405,52,Female,Amravati,Financial Assistance,04/23/2019
+B-2406,D-2047,Person_2406,18,Male,Kolhapur,Shelter,06/25/2020
+B-2407,D-1241,Person_2407,22,Female,Ahmednagar,Food,04/09/2020
+B-2408,D-1088,Person_2408,84,Male,Pune,Shelter,05/10/2017
+B-2409,D-1379,Person_2409,75,Male,Ahmednagar,Food,03/20/2023
+B-2410,D-2160,Person_2410,15,Other,Kolhapur,Shelter,10/20/2019
+B-2411,D-1292,Person_2411,31,Male,Pune,Medical,03/21/2022
+B-2412,D-1537,Person_2412,15,Other,Nashik,Financial Assistance,06/28/2019
+B-2413,D-1765,Person_2413,65,Male,Nanded,Shelter,08/06/2016
+B-2414,D-2029,Person_2414,27,Female,Nanded,Financial Assistance,05/31/2020
+B-2415,D-1885,Person_2415,15,Male,Solapur,Medical,04/25/2020
+B-2416,D-1371,Person_2416,19,Male,Nanded,Financial Assistance,03/21/2018
+B-2417,D-2441,Person_2417,78,Male,Ahmednagar,Medical,09/25/2020
+B-2418,D-1733,Person_2418,68,Other,Nanded,Shelter,01/31/2017
+B-2419,D-2899,Person_2419,78,Female,Ratnagiri,Medical,04/25/2015
+B-2420,D-2270,Person_2420,64,Other,Nagpur,Medical,12/28/2024
+B-2421,D-2311,Person_2421,69,Other,Thane,Medical,04/21/2015
+B-2422,D-2534,Person_2422,24,Other,Ratnagiri,Financial Assistance,04/26/2022
+B-2423,D-1518,Person_2423,71,Female,Mumbai,Financial Assistance,08/04/2017
+B-2424,D-2432,Person_2424,25,Male,Amravati,Financial Assistance,08/09/2015
+B-2425,D-2300,Person_2425,9,Male,Thane,Financial Assistance,01/04/2022
+B-2426,D-2155,Person_2426,65,Female,Amravati,Medical,09/26/2017
+B-2427,D-2845,Person_2427,1,Male,Nanded,Financial Assistance,09/03/2018
+B-2428,D-2595,Person_2428,90,Female,Pune,Medical,06/12/2016
+B-2429,D-1538,Person_2429,46,Other,Mumbai,Medical,06/10/2019
+B-2430,D-1601,Person_2430,20,Female,Solapur,Food,09/09/2023
+B-2431,D-2179,Person_2431,36,Other,Kolhapur,Food,05/30/2024
+B-2432,D-1705,Person_2432,4,Female,Pune,Financial Assistance,08/21/2024
+B-2433,D-1165,Person_2433,69,Female,Amravati,Financial Assistance,09/03/2024
+B-2434,D-2666,Person_2434,43,Male,Nashik,Medical,09/03/2018
+B-2435,D-1276,Person_2435,92,Other,Amravati,Shelter,02/11/2016
+B-2436,D-2264,Person_2436,91,Female,Nanded,Medical,03/07/2015
+B-2437,D-1810,Person_2437,90,Female,Solapur,Shelter,06/29/2016
+B-2438,D-2615,Person_2438,12,Male,Kolhapur,Food,10/07/2016
+B-2439,D-1189,Person_2439,21,Other,Nagpur,Shelter,04/29/2022
+B-2440,D-2275,Person_2440,59,Male,Kolhapur,Food,10/12/2018
+B-2441,D-2181,Person_2441,8,Male,Satara,Medical,08/22/2018
+B-2442,D-1405,Person_2442,77,Female,Ahmednagar,Medical,04/29/2019
+B-2443,D-2118,Person_2443,83,Male,Thane,Shelter,08/02/2024
+B-2444,D-2119,Person_2444,85,Other,Ahmednagar,Medical,07/24/2021
+B-2445,D-2551,Person_2445,32,Male,Mumbai,Food,08/27/2019
+B-2446,D-1099,Person_2446,18,Female,Nagpur,Food,07/10/2016
+B-2447,D-1941,Person_2447,34,Female,Nashik,Food,10/27/2019
+B-2448,D-1948,Person_2448,48,Female,Thane,Medical,10/18/2022
+B-2449,D-2273,Person_2449,99,Other,Mumbai,Food,11/22/2016
+B-2450,D-2544,Person_2450,53,Female,Aurangabad,Medical,11/10/2023
+B-2451,D-2912,Person_2451,74,Male,Aurangabad,Medical,04/19/2020
+B-2452,D-2818,Person_2452,50,Male,Aurangabad,Medical,06/19/2019
+B-2453,D-2271,Person_2453,80,Female,Satara,Medical,10/01/2024
+B-2454,D-2593,Person_2454,92,Male,Pune,Food,05/25/2015
+B-2455,D-2388,Person_2455,10,Female,Nagpur,Shelter,04/05/2023
+B-2456,D-1934,Person_2456,65,Other,Pune,Shelter,12/08/2016
+B-2457,D-1400,Person_2457,23,Female,Solapur,Medical,02/13/2017
+B-2458,D-2554,Person_2458,76,Male,Solapur,Medical,06/26/2016
+B-2459,D-2495,Person_2459,10,Other,Mumbai,Shelter,02/08/2016
+B-2460,D-2661,Person_2460,84,Other,Pune,Financial Assistance,05/12/2021
+B-2461,D-1587,Person_2461,8,Female,Solapur,Shelter,01/08/2018
+B-2462,D-1394,Person_2462,42,Other,Nagpur,Medical,04/09/2022
+B-2463,D-2547,Person_2463,31,Male,Ratnagiri,Medical,05/08/2019
+B-2464,D-1727,Person_2464,68,Female,Satara,Medical,04/27/2023
+B-2465,D-1249,Person_2465,47,Other,Ahmednagar,Financial Assistance,12/06/2018
+B-2466,D-2645,Person_2466,19,Other,Satara,Financial Assistance,09/26/2023
+B-2467,D-2176,Person_2467,33,Female,Thane,Shelter,11/22/2019
+B-2468,D-1878,Person_2468,4,Female,Ratnagiri,Shelter,01/22/2021
+B-2469,D-2883,Person_2469,11,Male,Latur,Medical,09/24/2020
+B-2470,D-1168,Person_2470,75,Female,Nanded,Medical,07/08/2019
+B-2471,D-2842,Person_2471,66,Male,Ahmednagar,Financial Assistance,04/18/2023
+B-2472,D-2715,Person_2472,39,Male,Ahmednagar,Medical,01/04/2023
+B-2473,D-1744,Person_2473,86,Other,Kolhapur,Medical,01/15/2025
+B-2474,D-2736,Person_2474,29,Male,Ratnagiri,Medical,02/12/2017
+B-2475,D-1396,Person_2475,5,Other,Nashik,Medical,02/13/2018
+B-2476,D-1384,Person_2476,23,Male,Pune,Food,11/27/2021
+B-2477,D-1516,Person_2477,100,Female,Satara,Shelter,08/06/2020
+B-2478,D-2517,Person_2478,85,Female,Amravati,Financial Assistance,04/15/2024
+B-2479,D-1219,Person_2479,10,Other,Ahmednagar,Financial Assistance,11/15/2016
+B-2480,D-2713,Person_2480,52,Other,Latur,Financial Assistance,06/19/2015
+B-2481,D-2792,Person_2481,48,Other,Nagpur,Shelter,08/20/2021
+B-2482,D-2717,Person_2482,45,Other,Satara,Food,09/20/2019
+B-2483,D-2317,Person_2483,14,Female,Nanded,Medical,03/29/2019
+B-2484,D-2292,Person_2484,67,Female,Mumbai,Shelter,02/11/2018
+B-2485,D-2669,Person_2485,89,Male,Ahmednagar,Food,08/21/2024
+B-2486,D-1988,Person_2486,16,Other,Latur,Financial Assistance,03/28/2024
+B-2487,D-1375,Person_2487,56,Female,Amravati,Medical,12/24/2024
+B-2488,D-1531,Person_2488,22,Female,Latur,Food,06/16/2019
+B-2489,D-2076,Person_2489,11,Female,Kolhapur,Financial Assistance,05/01/2016
+B-2490,D-1206,Person_2490,56,Other,Mumbai,Shelter,08/01/2019
+B-2491,D-1143,Person_2491,23,Female,Kolhapur,Medical,10/28/2024
+B-2492,D-2579,Person_2492,54,Female,Solapur,Financial Assistance,12/20/2023
+B-2493,D-2099,Person_2493,35,Male,Satara,Shelter,07/24/2017
+B-2494,D-1881,Person_2494,34,Male,Aurangabad,Financial Assistance,12/11/2017
+B-2495,D-2854,Person_2495,15,Other,Pune,Food,01/18/2020
+B-2496,D-2861,Person_2496,67,Female,Kolhapur,Medical,05/24/2023
+B-2497,D-1800,Person_2497,68,Female,Solapur,Food,10/28/2021
+B-2498,D-1536,Person_2498,60,Female,Aurangabad,Shelter,06/19/2015
+B-2499,D-2159,Person_2499,91,Female,Satara,Food,09/03/2022

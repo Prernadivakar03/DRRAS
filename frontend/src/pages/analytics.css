@@ -1,0 +1,135 @@
+
+#map {
+  height: 80vh;
+  width: 100%;
+  border-radius: 12px;
+  border: 2px solid #e2e8f0;
+  transition: box-shadow 0.3s ease;
+}
+
+#map:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 24px;
+}
+
+.card {
+  background: linear-gradient(145deg, #ffffff, #ededed);
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #4f46e5;
+  margin-bottom: 12px;
+}
+
+.table-responsive {
+  max-height: 320px;
+  overflow-y: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background-color: #fafafa;
+}
+
+.table th, .table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.table th {
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+
+.table-striped tbody tr:hover {
+  background-color: #f1f5f9;
+}
+
+.inline-flex {
+  display: flex;
+  gap: 24px;
+  overflow-x: auto;
+  padding-bottom: 8px;
+}
+
+h2, h3 {
+  color: #1e293b;
+  font-weight: 600;
+}
+
+.chart-container {
+  display: flex;
+  gap: 80px;
+  width: 100%;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+  border-radius: 16px;
+}
+
+.chart {
+  flex: 1;
+  height: 100%; /* Match container height */
+  background: #ffffff;
+  padding: 16px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+ .url-link {
+  display: block;
+  color: #2563eb;
+  background-color: #f8fafc;
+  padding: 12px 24px;
+  margin: 6px 16px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e2e8f0;
+}
+
+.url-link:hover {
+  color: #010000;
+  background-color: whitesmoke;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(5, 129, 118, 0.3);
+}
+
+.url-link:before {
+  content: "🔗";
+  margin-right: 8px;
+}
+
+.url-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  background-color: #f1f5f9;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,2501 @@
+Resource ID,Disaster ID,Resource Type,Quantity,Cost (USD),Deployment Date,Location,Status
+R-5000,D-1126,Food,686,19067.34,12/19/2012,Nashik,Used
+R-5001,D-1646,Food,335,17478.29,1/5/2015,Pune,Used
+R-5002,D-2532,Rescue Equipment,600,12636.07,6/16/2007,Ratnagiri,Used
+R-5003,D-1623,Shelter,270,27798.86,5/14/2005,Mumbai,Pending
+R-5004,D-2009,Food,535,28398.71,3/14/2014,Pune,Allocated
+R-5005,D-2010,Shelter,751,11671.61,5/22/2008,Kolhapur,Pending
+R-5006,D-1375,Rescue Equipment,85,40686.88,8/28/2016,Aurangabad,Allocated
+R-5007,D-1823,Rescue Equipment,963,19905.13,9/19/2007,Thane,Pending
+R-5008,D-1010,Clothing,606,30006.04,10/4/2023,Nagpur,Pending
+R-5009,D-2584,Medical Kits,103,7202.96,7/31/2009,Solapur,Allocated
+R-5010,D-1635,Clothing,110,46225.7,2/17/2016,Satara,Used
+R-5011,D-1366,Water,754,25284.38,2/13/2015,Nashik,Allocated
+R-5012,D-1218,Rescue Equipment,532,10330.23,10/4/2011,Thane,Used
+R-5013,D-1268,Shelter,613,37521.72,11/25/2012,Aurangabad,Used
+R-5014,D-2029,Rescue Equipment,304,47007.91,1/28/2005,Mumbai,Pending
+R-5015,D-2686,Rescue Equipment,375,18740.61,8/25/2011,Mumbai,Pending
+R-5016,D-1750,Shelter,53,35796.23,10/22/2006,Aurangabad,Allocated
+R-5017,D-2969,Shelter,842,39791.3,1/14/2017,Nashik,Pending
+R-5018,D-2216,Medical Kits,495,3540.03,10/6/2005,Aurangabad,Allocated
+R-5019,D-1173,Clothing,397,20438.41,11/6/2016,Pune,Pending
+R-5020,D-1427,Water,267,5912.94,3/12/2006,Solapur,Used
+R-5021,D-2654,Food,475,44062.91,4/5/2008,Kolhapur,Allocated
+R-5022,D-2143,Medical Kits,279,18565.74,10/6/2019,Satara,Allocated
+R-5023,D-1123,Water,89,40616.2,7/8/2018,Aurangabad,Pending
+R-5024,D-1159,Shelter,806,15585.15,10/13/2008,Thane,Used
+R-5025,D-2280,Water,792,48787.85,12/12/2008,Thane,Pending
+R-5026,D-2146,Medical Kits,965,27692.74,1/23/2022,Kolhapur,Pending
+R-5027,D-1544,Clothing,336,37630.79,11/26/2020,Aurangabad,Pending
+R-5028,D-1053,Medical Kits,483,19850.49,7/13/2010,Aurangabad,Allocated
+R-5029,D-1888,Rescue Equipment,873,17478.5,10/1/2021,Mumbai,Pending
+R-5030,D-2187,Clothing,773,2868.03,11/8/2006,Mumbai,Used
+R-5031,D-1926,Clothing,936,48845.12,4/11/2009,Mumbai,Allocated
+R-5032,D-1798,Medical Kits,86,21057.66,12/21/2010,Aurangabad,Used
+R-5033,D-2889,Medical Kits,524,6834.53,4/24/2014,Pune,Used
+R-5034,D-1369,Medical Kits,513,22668.94,1/5/2019,Satara,Allocated
+R-5035,D-2925,Medical Kits,376,33299.01,2/11/2022,Satara,Allocated
+R-5036,D-1328,Shelter,610,24967.65,1/6/2022,Aurangabad,Pending
+R-5037,D-1083,Water,641,36778.45,4/24/2008,Nashik,Allocated
+R-5038,D-2523,Shelter,757,39071.17,7/11/2018,Thane,Pending
+R-5039,D-2719,Rescue Equipment,522,9423.45,4/5/2006,Nashik,Allocated
+R-5040,D-1079,Food,800,45281.77,9/16/2016,Aurangabad,Used
+R-5041,D-1689,Water,679,23904.04,4/24/2023,Satara,Pending
+R-5042,D-1877,Rescue Equipment,298,40535.98,8/18/2023,Thane,Allocated
+R-5043,D-1582,Medical Kits,18,10178.98,5/13/2022,Ratnagiri,Allocated
+R-5044,D-1046,Rescue Equipment,741,41352.0,4/25/2009,Ratnagiri,Allocated
+R-5045,D-2654,Clothing,787,2623.61,9/26/2017,Solapur,Allocated
+R-5046,D-2433,Water,218,20784.63,9/7/2018,Satara,Used
+R-5047,D-2406,Rescue Equipment,823,7574.69,11/16/2023,Nagpur,Pending
+R-5048,D-1671,Food,362,13794.6,2/9/2017,Satara,Used
+R-5049,D-1039,Medical Kits,306,36670.4,12/15/2016,Mumbai,Used
+R-5050,D-2414,Rescue Equipment,558,22579.69,7/26/2013,Ratnagiri,Allocated
+R-5051,D-1996,Medical Kits,703,13736.69,2/16/2014,Nagpur,Used
+R-5052,D-2324,Clothing,513,21283.61,7/19/2009,Kolhapur,Allocated
+R-5053,D-1348,Medical Kits,304,19232.47,5/22/2019,Nashik,Allocated
+R-5054,D-2717,Clothing,437,37513.18,12/28/2008,Kolhapur,Used
+R-5055,D-1839,Shelter,347,13444.77,5/7/2013,Satara,Allocated
+R-5056,D-2932,Food,457,45444.27,1/20/2023,Thane,Allocated
+R-5057,D-2088,Water,596,8659.03,10/29/2022,Kolhapur,Used
+R-5058,D-1756,Shelter,74,13611.6,11/1/2004,Ratnagiri,Used
+R-5059,D-1958,Clothing,107,22132.04,2/29/2012,Ratnagiri,Allocated
+R-5060,D-1292,Shelter,579,27468.48,11/14/2004,Pune,Allocated
+R-5061,D-2850,Food,68,40152.33,3/7/2020,Ratnagiri,Allocated
+R-5062,D-1276,Shelter,704,1512.99,7/22/2006,Pune,Pending
+R-5063,D-1248,Food,614,26494.42,4/22/2013,Solapur,Used
+R-5064,D-2007,Food,130,19284.99,9/8/2017,Aurangabad,Allocated
+R-5065,D-1789,Food,887,38027.16,6/7/2005,Ratnagiri,Pending
+R-5066,D-2506,Clothing,640,6895.86,3/8/2005,Kolhapur,Allocated
+R-5067,D-2565,Medical Kits,732,34124.11,10/24/2022,Kolhapur,Used
+R-5068,D-1914,Rescue Equipment,72,9888.35,11/10/2014,Pune,Pending
+R-5069,D-1738,Food,378,19440.62,2/16/2016,Solapur,Pending
+R-5070,D-2683,Clothing,487,24104.93,9/12/2018,Kolhapur,Allocated
+R-5071,D-2889,Water,916,4433.93,1/22/2019,Thane,Used
+R-5072,D-1986,Rescue Equipment,728,14753.06,4/27/2017,Aurangabad,Used
+R-5073,D-1854,Clothing,658,7576.3,1/13/2023,Kolhapur,Pending
+R-5074,D-2751,Medical Kits,249,11113.63,9/12/2019,Kolhapur,Used
+R-5075,D-2995,Medical Kits,54,5972.7,5/8/2022,Kolhapur,Allocated
+R-5076,D-2981,Shelter,321,6003.35,6/21/2021,Mumbai,Allocated
+R-5077,D-2089,Clothing,379,11641.32,7/20/2022,Mumbai,Pending
+R-5078,D-2587,Food,264,49500.66,6/16/2013,Solapur,Used
+R-5079,D-1006,Medical Kits,916,44173.72,4/4/2010,Aurangabad,Pending
+R-5080,D-1579,Shelter,488,41798.54,4/4/2005,Ratnagiri,Pending
+R-5081,D-2214,Medical Kits,531,32580.19,10/21/2013,Kolhapur,Used
+R-5082,D-2210,Shelter,252,12347.63,7/28/2014,Solapur,Allocated
+R-5083,D-2228,Clothing,307,14174.27,8/6/2013,Kolhapur,Pending
+R-5084,D-2356,Clothing,813,2494.45,11/14/2005,Aurangabad,Used
+R-5085,D-2653,Food,588,37064.32,11/4/2020,Ratnagiri,Pending
+R-5086,D-2609,Clothing,110,2742.69,11/21/2021,Nagpur,Used
+R-5087,D-2983,Water,280,23907.55,11/19/2016,Mumbai,Allocated
+R-5088,D-2704,Water,379,42674.35,4/6/2023,Ratnagiri,Used
+R-5089,D-1809,Clothing,586,41555.89,9/20/2007,Aurangabad,Used
+R-5090,D-1820,Clothing,205,24769.58,8/4/2011,Nagpur,Allocated
+R-5091,D-2898,Medical Kits,325,41591.62,1/14/2010,Nashik,Allocated
+R-5092,D-1203,Clothing,696,1754.32,7/29/2011,Mumbai,Used
+R-5093,D-1559,Food,277,32382.24,4/23/2022,Nashik,Used
+R-5094,D-2259,Shelter,942,33511.89,10/8/2008,Nagpur,Pending
+R-5095,D-2812,Medical Kits,747,34552.91,8/21/2015,Thane,Used
+R-5096,D-1544,Shelter,792,32334.21,5/23/2014,Pune,Used
+R-5097,D-2703,Rescue Equipment,391,48069.97,7/29/2004,Thane,Allocated
+R-5098,D-1910,Water,241,3277.16,5/25/2010,Pune,Used
+R-5099,D-1797,Clothing,589,38564.07,7/6/2020,Thane,Allocated
+R-5100,D-2140,Food,303,10677.07,11/12/2021,Ratnagiri,Allocated
+R-5101,D-2858,Clothing,564,2442.45,12/31/2020,Mumbai,Used
+R-5102,D-1119,Shelter,48,45398.65,12/3/2017,Ratnagiri,Pending
+R-5103,D-1635,Shelter,771,12785.09,7/1/2012,Ratnagiri,Pending
+R-5104,D-2007,Clothing,630,44886.35,1/26/2013,Pune,Used
+R-5105,D-1807,Clothing,434,15620.54,11/8/2010,Thane,Allocated
+R-5106,D-1438,Medical Kits,776,20210.42,9/13/2016,Kolhapur,Allocated
+R-5107,D-1837,Food,616,37187.66,3/21/2007,Nashik,Used
+R-5108,D-2425,Food,485,13757.28,12/19/2021,Nashik,Pending
+R-5109,D-2725,Clothing,189,41021.16,2/24/2022,Solapur,Allocated
+R-5110,D-2095,Clothing,751,31096.92,3/3/2014,Solapur,Allocated
+R-5111,D-1313,Medical Kits,503,32079.03,4/15/2021,Satara,Used
+R-5112,D-2626,Food,659,45818.84,5/11/2016,Aurangabad,Used
+R-5113,D-1683,Rescue Equipment,841,9413.49,7/17/2005,Aurangabad,Used
+R-5114,D-2845,Food,677,48842.02,10/8/2007,Mumbai,Used
+R-5115,D-1176,Food,907,26722.89,3/7/2011,Aurangabad,Pending
+R-5116,D-2466,Water,641,7089.3,5/2/2019,Satara,Allocated
+R-5117,D-1639,Water,570,36239.16,1/13/2020,Thane,Pending
+R-5118,D-2614,Rescue Equipment,276,3462.12,3/9/2009,Solapur,Pending
+R-5119,D-1395,Food,661,38255.68,3/13/2017,Aurangabad,Pending
+R-5120,D-2810,Medical Kits,436,47216.53,4/28/2014,Ratnagiri,Allocated
+R-5121,D-2239,Food,700,46346.01,5/29/2008,Satara,Pending
+R-5122,D-1863,Water,331,40262.81,9/13/2014,Mumbai,Used
+R-5123,D-1323,Water,766,11306.53,11/29/2006,Satara,Pending
+R-5124,D-2450,Medical Kits,208,23986.34,12/1/2018,Aurangabad,Used
+R-5125,D-1685,Food,271,49377.56,5/17/2021,Nagpur,Pending
+R-5126,D-2589,Shelter,931,20382.92,5/25/2016,Kolhapur,Used
+R-5127,D-1483,Food,170,26955.31,10/1/2007,Pune,Used
+R-5128,D-1691,Water,375,48096.8,3/24/2021,Solapur,Used
+R-5129,D-2655,Food,831,28706.24,1/11/2014,Aurangabad,Pending
+R-5130,D-2760,Shelter,361,43816.11,3/30/2013,Kolhapur,Allocated
+R-5131,D-2281,Medical Kits,193,18986.91,9/23/2004,Ratnagiri,Used
+R-5132,D-2354,Food,479,36607.6,11/22/2019,Mumbai,Pending
+R-5133,D-1537,Clothing,860,2493.1,3/8/2013,Nagpur,Allocated
+R-5134,D-1506,Food,304,16297.16,8/24/2021,Nagpur,Pending
+R-5135,D-2812,Rescue Equipment,607,27632.4,10/20/2011,Nashik,Allocated
+R-5136,D-2135,Clothing,894,45336.58,6/5/2013,Nagpur,Allocated
+R-5137,D-1896,Shelter,372,30403.31,9/14/2012,Nashik,Allocated
+R-5138,D-2188,Shelter,263,20891.42,12/22/2022,Pune,Used
+R-5139,D-2391,Water,732,3497.17,6/27/2004,Pune,Used
+R-5140,D-2212,Food,860,9771.94,7/22/2016,Nagpur,Pending
+R-5141,D-1202,Clothing,728,42323.18,8/30/2005,Solapur,Allocated
+R-5142,D-2440,Water,841,7258.96,10/2/2017,Nagpur,Pending
+R-5143,D-2529,Rescue Equipment,390,24178.59,9/20/2016,Satara,Pending
+R-5144,D-2594,Water,290,11558.63,11/7/2023,Mumbai,Used
+R-5145,D-2247,Medical Kits,114,36543.93,1/22/2008,Pune,Pending
+R-5146,D-1132,Food,67,42304.56,6/7/2009,Satara,Allocated
+R-5147,D-1823,Shelter,577,17814.87,10/12/2006,Nagpur,Pending
+R-5148,D-2114,Medical Kits,487,40038.91,9/22/2021,Aurangabad,Allocated
+R-5149,D-1423,Shelter,709,1679.39,2/26/2004,Nashik,Used
+R-5150,D-1486,Rescue Equipment,141,25192.27,4/25/2015,Ratnagiri,Used
+R-5151,D-1271,Food,55,29008.25,5/25/2011,Ratnagiri,Allocated
+R-5152,D-2861,Shelter,440,13922.72,4/5/2011,Kolhapur,Used
+R-5153,D-2905,Medical Kits,930,38375.33,12/3/2005,Satara,Used
+R-5154,D-1841,Rescue Equipment,771,38834.68,4/1/2011,Aurangabad,Allocated
+R-5155,D-2058,Clothing,849,13765.48,8/3/2007,Thane,Pending
+R-5156,D-1566,Food,88,808.88,12/25/2006,Thane,Allocated
+R-5157,D-1703,Shelter,448,3691.2,3/19/2012,Nagpur,Used
+R-5158,D-2335,Clothing,385,9465.85,8/24/2014,Kolhapur,Allocated
+R-5159,D-1608,Rescue Equipment,538,109.91,6/15/2008,Kolhapur,Pending
+R-5160,D-1647,Rescue Equipment,183,27097.74,12/21/2018,Nashik,Used
+R-5161,D-1283,Medical Kits,400,47723.5,12/29/2006,Ratnagiri,Allocated
+R-5162,D-1144,Water,198,9588.9,3/18/2009,Solapur,Allocated
+R-5163,D-2621,Rescue Equipment,44,46962.95,11/22/2009,Ratnagiri,Pending
+R-5164,D-1281,Water,782,36742.26,6/10/2019,Kolhapur,Pending
+R-5165,D-2984,Rescue Equipment,970,42574.97,11/16/2022,Satara,Pending
+R-5166,D-1062,Food,210,3484.59,1/11/2016,Kolhapur,Allocated
+R-5167,D-1460,Medical Kits,270,7912.35,9/18/2008,Nashik,Used
+R-5168,D-1180,Rescue Equipment,538,21074.42,6/4/2012,Nashik,Used
+R-5169,D-2900,Water,121,39712.02,8/19/2017,Mumbai,Used
+R-5170,D-2426,Shelter,116,18527.02,12/16/2006,Ratnagiri,Used
+R-5171,D-1114,Clothing,991,30276.64,5/27/2006,Nagpur,Pending
+R-5172,D-1467,Water,797,34623.06,3/2/2010,Solapur,Allocated
+R-5173,D-1603,Water,640,34531.5,4/27/2013,Solapur,Pending
+R-5174,D-2695,Shelter,410,43282.73,8/25/2015,Pune,Pending
+R-5175,D-1864,Shelter,449,34978.49,10/12/2022,Solapur,Used
+R-5176,D-2580,Water,405,41164.08,5/11/2006,Thane,Allocated
+R-5177,D-1430,Water,469,49034.89,9/26/2011,Nashik,Used
+R-5178,D-1774,Medical Kits,615,45000.45,1/24/2018,Thane,Allocated
+R-5179,D-1861,Rescue Equipment,599,32288.41,6/28/2021,Pune,Used
+R-5180,D-2451,Shelter,634,6826.15,7/31/2021,Nashik,Used
+R-5181,D-2506,Rescue Equipment,797,20560.44,3/6/2005,Kolhapur,Allocated
+R-5182,D-1900,Medical Kits,21,5589.39,12/7/2021,Kolhapur,Pending
+R-5183,D-2478,Rescue Equipment,225,1520.32,4/25/2005,Thane,Allocated
+R-5184,D-2485,Water,427,10039.5,11/18/2007,Aurangabad,Allocated
+R-5185,D-2757,Shelter,243,42206.53,11/29/2005,Thane,Allocated
+R-5186,D-2550,Food,622,41594.65,9/26/2021,Pune,Used
+R-5187,D-2131,Rescue Equipment,436,7783.54,3/3/2013,Satara,Allocated
+R-5188,D-1093,Water,298,5600.09,2/7/2023,Aurangabad,Allocated
+R-5189,D-1031,Medical Kits,108,34746.0,3/6/2017,Aurangabad,Used
+R-5190,D-2426,Clothing,681,45561.13,6/25/2006,Nashik,Allocated
+R-5191,D-2584,Clothing,643,30806.95,6/2/2021,Aurangabad,Pending
+R-5192,D-1902,Medical Kits,172,47109.41,9/12/2014,Ratnagiri,Pending
+R-5193,D-2694,Rescue Equipment,99,28165.44,8/29/2004,Aurangabad,Allocated
+R-5194,D-2485,Rescue Equipment,492,47633.0,5/17/2017,Ratnagiri,Pending
+R-5195,D-2747,Water,186,32376.95,1/9/2005,Mumbai,Allocated
+R-5196,D-1060,Clothing,885,1409.39,5/13/2006,Pune,Allocated
+R-5197,D-1451,Clothing,428,19094.24,8/1/2020,Nagpur,Used
+R-5198,D-2201,Water,124,775.89,1/14/2015,Ratnagiri,Used
+R-5199,D-2538,Clothing,730,44865.08,10/4/2015,Ratnagiri,Pending
+R-5200,D-1595,Food,804,8060.56,4/12/2012,Kolhapur,Pending
+R-5201,D-2300,Food,622,34841.94,6/2/2018,Nagpur,Pending
+R-5202,D-1495,Clothing,983,8897.29,9/4/2016,Solapur,Pending
+R-5203,D-2552,Medical Kits,737,8383.48,7/15/2023,Solapur,Used
+R-5204,D-1101,Clothing,931,26732.84,6/1/2012,Nashik,Pending
+R-5205,D-1385,Water,288,8639.97,7/17/2008,Thane,Allocated
+R-5206,D-1513,Rescue Equipment,937,38830.91,6/29/2016,Mumbai,Used
+R-5207,D-2555,Medical Kits,337,25917.43,11/19/2013,Nagpur,Allocated
+R-5208,D-2831,Medical Kits,566,15957.99,10/12/2018,Ratnagiri,Allocated
+R-5209,D-2723,Rescue Equipment,844,18419.74,10/10/2018,Pune,Used
+R-5210,D-2320,Rescue Equipment,637,45828.44,2/17/2021,Pune,Pending
+R-5211,D-1747,Rescue Equipment,212,20350.66,1/23/2012,Nashik,Pending
+R-5212,D-1210,Shelter,352,14694.49,11/14/2010,Nagpur,Used
+R-5213,D-2982,Food,943,9681.93,8/25/2018,Nashik,Allocated
+R-5214,D-1518,Water,126,15137.85,1/12/2011,Pune,Pending
+R-5215,D-1138,Clothing,862,22633.71,7/5/2007,Mumbai,Allocated
+R-5216,D-1188,Medical Kits,973,33724.83,9/1/2022,Kolhapur,Pending
+R-5217,D-2195,Shelter,406,10336.09,2/5/2019,Ratnagiri,Allocated
+R-5218,D-1732,Food,259,7601.5,9/6/2021,Pune,Allocated
+R-5219,D-2341,Food,445,44697.49,4/14/2008,Pune,Allocated
+R-5220,D-2807,Shelter,726,17229.62,6/27/2004,Aurangabad,Allocated
+R-5221,D-1129,Shelter,825,16643.24,10/31/2023,Mumbai,Allocated
+R-5222,D-2974,Food,62,34976.26,12/28/2016,Nagpur,Allocated
+R-5223,D-1000,Medical Kits,614,13545.45,4/30/2007,Ratnagiri,Pending
+R-5224,D-2459,Clothing,353,32084.57,3/11/2009,Nashik,Used
+R-5225,D-1457,Shelter,743,13347.7,6/10/2006,Mumbai,Pending
+R-5226,D-2299,Water,304,17469.39,11/2/2009,Satara,Pending
+R-5227,D-1391,Food,965,12295.58,12/22/2010,Nashik,Pending
+R-5228,D-1529,Rescue Equipment,600,9198.85,6/18/2017,Thane,Used
+R-5229,D-2164,Shelter,947,42923.44,9/7/2012,Ratnagiri,Allocated
+R-5230,D-1431,Shelter,162,39229.21,6/3/2021,Nagpur,Pending
+R-5231,D-1215,Clothing,667,528.1,6/1/2012,Aurangabad,Used
+R-5232,D-2524,Water,615,45055.16,2/27/2011,Mumbai,Used
+R-5233,D-1110,Clothing,511,27498.21,8/28/2015,Pune,Allocated
+R-5234,D-1254,Food,316,47556.67,6/6/2009,Solapur,Pending
+R-5235,D-1637,Rescue Equipment,467,31743.34,11/14/2020,Ratnagiri,Allocated
+R-5236,D-1875,Clothing,376,37963.66,1/2/2007,Satara,Used
+R-5237,D-1825,Clothing,529,30573.91,8/11/2015,Satara,Allocated
+R-5238,D-1022,Shelter,412,11226.8,1/8/2005,Nagpur,Allocated
+R-5239,D-1618,Medical Kits,410,14715.3,12/25/2014,Nashik,Pending
+R-5240,D-1337,Rescue Equipment,201,44267.73,11/8/2009,Kolhapur,Used
+R-5241,D-2937,Food,360,35538.05,2/14/2010,Satara,Used
+R-5242,D-2699,Water,259,343.11,3/6/2017,Pune,Pending
+R-5243,D-2055,Rescue Equipment,229,29715.66,4/20/2015,Pune,Used
+R-5244,D-1621,Rescue Equipment,296,20936.5,12/6/2012,Nagpur,Used
+R-5245,D-2048,Food,174,7564.41,2/3/2018,Pune,Used
+R-5246,D-1280,Water,680,16760.26,10/20/2010,Thane,Allocated
+R-5247,D-2523,Shelter,589,7904.82,8/13/2011,Solapur,Allocated
+R-5248,D-1551,Water,721,20300.11,2/20/2017,Pune,Allocated
+R-5249,D-2967,Clothing,85,43580.99,9/29/2020,Ratnagiri,Used
+R-5250,D-2606,Water,494,31468.72,6/27/2017,Nagpur,Pending
+R-5251,D-2967,Medical Kits,287,22131.48,1/29/2014,Pune,Pending
+R-5252,D-2660,Food,438,23326.1,5/8/2023,Satara,Used
+R-5253,D-1905,Food,538,2193.48,6/9/2017,Pune,Used
+R-5254,D-1925,Medical Kits,923,46362.78,5/7/2020,Pune,Allocated
+R-5255,D-1634,Medical Kits,171,2952.33,10/24/2012,Pune,Pending
+R-5256,D-2479,Clothing,212,10023.89,9/4/2016,Pune,Allocated
+R-5257,D-1472,Food,367,27983.75,8/6/2008,Ratnagiri,Pending
+R-5258,D-2459,Water,541,18115.18,5/19/2017,Satara,Used
+R-5259,D-1910,Food,484,17436.36,1/6/2004,Ratnagiri,Used
+R-5260,D-2092,Water,604,25803.13,5/9/2021,Solapur,Used
+R-5261,D-2806,Water,851,3379.37,11/19/2020,Solapur,Used
+R-5262,D-2668,Shelter,342,5218.82,1/21/2009,Satara,Allocated
+R-5263,D-2897,Water,731,43137.83,5/31/2010,Solapur,Allocated
+R-5264,D-2394,Clothing,539,30798.99,5/3/2022,Thane,Used
+R-5265,D-1748,Shelter,203,13046.9,5/3/2020,Thane,Pending
+R-5266,D-2588,Rescue Equipment,655,31471.44,12/27/2004,Solapur,Allocated
+R-5267,D-2346,Shelter,562,6008.57,4/20/2011,Satara,Pending
+R-5268,D-2331,Shelter,994,41109.41,8/9/2009,Solapur,Pending
+R-5269,D-1969,Food,929,4727.1,11/11/2018,Nashik,Pending
+R-5270,D-2454,Rescue Equipment,817,15296.44,10/9/2007,Aurangabad,Pending
+R-5271,D-1606,Food,693,3870.4,3/16/2004,Kolhapur,Used
+R-5272,D-2456,Rescue Equipment,417,29036.65,3/23/2011,Satara,Pending
+R-5273,D-1513,Water,370,46081.53,2/13/2012,Ratnagiri,Allocated
+R-5274,D-1702,Medical Kits,752,42958.32,11/2/2006,Nashik,Allocated
+R-5275,D-1178,Medical Kits,715,7695.41,6/12/2021,Ratnagiri,Allocated
+R-5276,D-2219,Shelter,526,34380.75,6/26/2016,Nashik,Used
+R-5277,D-1176,Shelter,818,36007.03,1/26/2023,Solapur,Pending
+R-5278,D-1093,Food,862,4980.38,12/5/2004,Solapur,Pending
+R-5279,D-1155,Food,75,24111.0,10/5/2022,Nashik,Allocated
+R-5280,D-1613,Rescue Equipment,91,22252.02,1/10/2004,Ratnagiri,Allocated
+R-5281,D-1121,Food,981,12597.66,9/20/2007,Satara,Pending
+R-5282,D-1239,Rescue Equipment,297,2920.34,4/27/2017,Pune,Pending
+R-5283,D-2202,Water,725,20943.92,11/13/2005,Satara,Used
+R-5284,D-1131,Shelter,959,32455.37,1/7/2010,Pune,Allocated
+R-5285,D-1119,Medical Kits,53,34972.06,5/1/2012,Aurangabad,Pending
+R-5286,D-2167,Food,285,22939.32,8/8/2020,Nagpur,Pending
+R-5287,D-1494,Water,254,29426.36,3/5/2022,Thane,Used
+R-5288,D-1231,Medical Kits,163,28824.8,5/10/2017,Pune,Allocated
+R-5289,D-2604,Rescue Equipment,128,11966.8,2/14/2015,Solapur,Pending
+R-5290,D-2515,Shelter,424,37652.41,2/11/2010,Nagpur,Allocated
+R-5291,D-2838,Medical Kits,877,41570.52,8/25/2011,Pune,Allocated
+R-5292,D-1465,Medical Kits,897,13444.0,8/1/2014,Nagpur,Allocated
+R-5293,D-2320,Medical Kits,477,16379.98,7/28/2014,Mumbai,Pending
+R-5294,D-1292,Water,794,25559.68,12/6/2014,Nagpur,Allocated
+R-5295,D-2729,Medical Kits,940,44882.46,4/30/2018,Mumbai,Used
+R-5296,D-1328,Shelter,676,22700.73,6/10/2016,Thane,Pending
+R-5297,D-1344,Rescue Equipment,349,42417.44,10/12/2016,Nashik,Allocated
+R-5298,D-2402,Medical Kits,458,42568.54,7/20/2015,Pune,Allocated
+R-5299,D-2294,Clothing,259,3526.63,7/10/2013,Aurangabad,Pending
+R-5300,D-2558,Shelter,220,39049.64,4/24/2020,Nashik,Pending
+R-5301,D-1081,Food,181,25716.74,11/29/2021,Ratnagiri,Allocated
+R-5302,D-2455,Shelter,951,3820.55,8/27/2017,Aurangabad,Allocated
+R-5303,D-1124,Water,469,45085.96,5/6/2005,Satara,Used
+R-5304,D-1544,Clothing,425,14222.05,5/2/2012,Nashik,Allocated
+R-5305,D-1967,Rescue Equipment,928,31327.39,7/28/2014,Thane,Used
+R-5306,D-2241,Shelter,859,623.39,9/1/2019,Ratnagiri,Used
+R-5307,D-2240,Clothing,89,43484.74,10/27/2008,Satara,Used
+R-5308,D-1389,Food,779,34165.47,3/26/2018,Nagpur,Used
+R-5309,D-1275,Clothing,727,6301.84,12/8/2011,Nashik,Allocated
+R-5310,D-1942,Rescue Equipment,388,9835.92,6/4/2009,Ratnagiri,Pending
+R-5311,D-1646,Water,757,31968.0,11/27/2004,Satara,Pending
+R-5312,D-2323,Clothing,178,38137.08,6/12/2006,Kolhapur,Used
+R-5313,D-1526,Shelter,161,5546.87,2/8/2018,Ratnagiri,Allocated
+R-5314,D-1901,Rescue Equipment,594,38324.31,6/8/2019,Pune,Used
+R-5315,D-2031,Clothing,419,2862.95,5/24/2011,Satara,Pending
+R-5316,D-1898,Rescue Equipment,851,14276.49,11/28/2005,Kolhapur,Pending
+R-5317,D-2373,Food,484,16470.21,3/25/2023,Pune,Used
+R-5318,D-1494,Medical Kits,253,16594.3,7/20/2004,Solapur,Allocated
+R-5319,D-2435,Food,936,20864.04,3/11/2017,Satara,Allocated
+R-5320,D-2253,Rescue Equipment,872,31876.49,4/9/2006,Mumbai,Allocated
+R-5321,D-2983,Medical Kits,937,42656.48,2/4/2021,Thane,Allocated
+R-5322,D-2890,Rescue Equipment,712,36827.98,11/8/2017,Pune,Used
+R-5323,D-2646,Food,863,8270.82,5/16/2011,Aurangabad,Pending
+R-5324,D-2140,Medical Kits,878,28224.95,1/27/2014,Satara,Used
+R-5325,D-2564,Food,727,19489.82,3/21/2004,Pune,Allocated
+R-5326,D-1925,Clothing,966,15458.48,3/27/2010,Nagpur,Pending
+R-5327,D-1418,Rescue Equipment,567,17111.58,7/19/2022,Nagpur,Allocated
+R-5328,D-1709,Shelter,745,43693.8,6/24/2006,Mumbai,Used
+R-5329,D-2114,Clothing,163,33220.36,3/31/2020,Ratnagiri,Pending
+R-5330,D-1756,Shelter,504,12732.66,11/11/2019,Solapur,Pending
+R-5331,D-1391,Clothing,930,19740.21,3/8/2009,Pune,Pending
+R-5332,D-2340,Rescue Equipment,18,6094.63,12/1/2023,Aurangabad,Used
+R-5333,D-2938,Medical Kits,722,36812.78,2/17/2020,Mumbai,Used
+R-5334,D-2032,Rescue Equipment,880,31419.51,11/10/2016,Nashik,Allocated
+R-5335,D-2665,Food,313,43654.6,1/15/2015,Kolhapur,Pending
+R-5336,D-1970,Water,201,25470.95,7/1/2012,Pune,Used
+R-5337,D-1078,Water,543,42593.44,4/2/2012,Kolhapur,Used
+R-5338,D-1759,Medical Kits,151,28885.45,4/25/2005,Satara,Used
+R-5339,D-2420,Food,879,35253.23,8/9/2013,Mumbai,Allocated
+R-5340,D-2136,Water,139,22205.73,10/19/2018,Kolhapur,Used
+R-5341,D-2957,Food,614,28559.27,7/21/2005,Pune,Used
+R-5342,D-1939,Medical Kits,19,27407.13,6/14/2012,Satara,Pending
+R-5343,D-1650,Shelter,865,35301.74,3/23/2023,Nagpur,Pending
+R-5344,D-1590,Water,988,4025.22,2/17/2022,Nashik,Pending
+R-5345,D-1986,Clothing,224,17958.68,7/5/2010,Thane,Used
+R-5346,D-2728,Shelter,369,26753.66,7/20/2011,Aurangabad,Pending
+R-5347,D-2272,Rescue Equipment,223,43702.93,7/25/2022,Nagpur,Pending
+R-5348,D-2447,Water,462,32533.06,3/23/2023,Mumbai,Pending
+R-5349,D-2694,Medical Kits,205,2058.07,3/24/2004,Ratnagiri,Pending
+R-5350,D-1039,Food,944,846.48,7/11/2009,Kolhapur,Used
+R-5351,D-1854,Shelter,386,24860.43,2/18/2017,Mumbai,Used
+R-5352,D-2406,Water,922,245.44,2/8/2010,Thane,Allocated
+R-5353,D-1337,Rescue Equipment,228,24116.63,2/26/2011,Nashik,Used
+R-5354,D-1830,Medical Kits,695,12160.75,6/8/2010,Solapur,Pending
+R-5355,D-2718,Water,82,36825.93,3/2/2014,Aurangabad,Allocated
+R-5356,D-2969,Food,159,11124.94,11/26/2017,Pune,Pending
+R-5357,D-2781,Medical Kits,190,43477.18,9/7/2013,Satara,Allocated
+R-5358,D-1478,Shelter,961,10884.73,5/20/2018,Aurangabad,Pending
+R-5359,D-1885,Medical Kits,36,12585.7,7/15/2023,Pune,Allocated
+R-5360,D-2395,Clothing,836,18926.8,9/30/2021,Nagpur,Pending
+R-5361,D-1358,Clothing,513,10297.32,8/4/2020,Ratnagiri,Used
+R-5362,D-2255,Clothing,785,39428.98,8/5/2019,Pune,Pending
+R-5363,D-2470,Water,177,19139.64,6/24/2018,Thane,Pending
+R-5364,D-1763,Water,707,41218.2,3/22/2008,Mumbai,Allocated
+R-5365,D-2802,Rescue Equipment,93,12472.75,7/13/2016,Ratnagiri,Pending
+R-5366,D-2525,Food,456,30847.82,1/4/2021,Mumbai,Pending
+R-5367,D-1256,Medical Kits,720,27548.31,4/23/2004,Thane,Pending
+R-5368,D-2664,Medical Kits,772,2273.54,5/16/2005,Nagpur,Used
+R-5369,D-2719,Clothing,693,42886.79,12/13/2017,Pune,Allocated
+R-5370,D-1961,Medical Kits,873,38781.27,5/23/2017,Mumbai,Pending
+R-5371,D-1195,Shelter,722,15066.55,2/26/2005,Mumbai,Allocated
+R-5372,D-1058,Water,571,46785.5,6/15/2019,Nashik,Pending
+R-5373,D-2689,Food,294,34085.82,7/19/2007,Mumbai,Pending
+R-5374,D-2944,Clothing,873,34183.53,6/2/2010,Mumbai,Pending
+R-5375,D-1871,Medical Kits,427,19190.75,5/30/2017,Satara,Allocated
+R-5376,D-2589,Clothing,925,20812.84,6/8/2010,Nashik,Pending
+R-5377,D-2563,Water,719,36233.74,5/2/2021,Satara,Pending
+R-5378,D-1766,Medical Kits,254,38896.61,3/9/2011,Solapur,Used
+R-5379,D-1408,Medical Kits,137,32866.0,6/18/2020,Ratnagiri,Pending
+R-5380,D-2072,Food,548,5361.94,5/29/2017,Nashik,Allocated
+R-5381,D-1719,Food,645,40053.2,10/21/2009,Nagpur,Used
+R-5382,D-1953,Medical Kits,666,35183.58,6/24/2004,Kolhapur,Allocated
+R-5383,D-1171,Clothing,443,45706.67,11/18/2006,Solapur,Allocated
+R-5384,D-1437,Shelter,938,30578.69,11/19/2008,Aurangabad,Used
+R-5385,D-2946,Rescue Equipment,787,36224.62,5/17/2023,Aurangabad,Used
+R-5386,D-2933,Shelter,361,29902.52,5/23/2005,Nashik,Allocated
+R-5387,D-2521,Clothing,787,1391.46,6/10/2009,Aurangabad,Pending
+R-5388,D-1087,Shelter,838,15583.3,1/17/2015,Aurangabad,Used
+R-5389,D-2824,Food,760,13384.32,5/26/2022,Solapur,Pending
+R-5390,D-1433,Clothing,372,41266.62,11/3/2012,Satara,Pending
+R-5391,D-2224,Rescue Equipment,54,12410.24,4/22/2004,Ratnagiri,Used
+R-5392,D-2414,Clothing,757,26831.8,11/18/2009,Ratnagiri,Pending
+R-5393,D-2335,Water,252,43178.1,1/11/2007,Satara,Allocated
+R-5394,D-2536,Clothing,977,29580.7,2/12/2019,Nagpur,Allocated
+R-5395,D-1333,Medical Kits,238,35172.81,1/9/2012,Aurangabad,Pending
+R-5396,D-2122,Shelter,112,4606.65,6/7/2008,Thane,Pending
+R-5397,D-2633,Medical Kits,809,11627.5,8/10/2023,Pune,Pending
+R-5398,D-1710,Shelter,308,31363.86,11/25/2022,Thane,Used
+R-5399,D-2928,Medical Kits,293,35163.95,8/11/2021,Kolhapur,Used
+R-5400,D-2865,Shelter,504,20313.91,12/16/2018,Solapur,Used
+R-5401,D-2905,Rescue Equipment,538,20365.32,1/20/2012,Mumbai,Used
+R-5402,D-1401,Medical Kits,835,12533.07,6/25/2023,Nagpur,Pending
+R-5403,D-1117,Medical Kits,459,39581.51,7/23/2004,Aurangabad,Used
+R-5404,D-2246,Medical Kits,159,28854.29,8/4/2010,Satara,Used
+R-5405,D-2964,Shelter,628,5001.92,5/30/2009,Ratnagiri,Allocated
+R-5406,D-2118,Medical Kits,711,48258.45,1/29/2008,Kolhapur,Allocated
+R-5407,D-1310,Medical Kits,674,20844.07,9/6/2017,Pune,Allocated
+R-5408,D-1245,Water,460,900.61,3/12/2021,Kolhapur,Used
+R-5409,D-1183,Food,546,43202.41,6/25/2010,Pune,Used
+R-5410,D-1170,Food,479,13629.33,4/20/2020,Nagpur,Pending
+R-5411,D-2794,Clothing,928,17435.98,4/3/2022,Ratnagiri,Pending
+R-5412,D-1121,Water,984,29592.88,3/6/2006,Satara,Allocated
+R-5413,D-1764,Rescue Equipment,110,27711.51,12/16/2019,Thane,Allocated
+R-5414,D-1599,Shelter,844,49904.74,5/30/2021,Thane,Allocated
+R-5415,D-1284,Medical Kits,201,15513.15,2/20/2006,Solapur,Allocated
+R-5416,D-2296,Clothing,265,34089.02,5/31/2022,Mumbai,Used
+R-5417,D-2110,Medical Kits,943,1051.87,1/7/2012,Solapur,Allocated
+R-5418,D-2276,Shelter,568,13688.4,11/25/2004,Pune,Pending
+R-5419,D-2274,Rescue Equipment,434,14759.33,9/28/2012,Ratnagiri,Used
+R-5420,D-2319,Food,221,16312.12,3/2/2005,Thane,Used
+R-5421,D-1159,Food,598,48720.83,8/17/2018,Pune,Used
+R-5422,D-2168,Food,755,17751.13,12/25/2004,Mumbai,Allocated
+R-5423,D-1618,Medical Kits,387,35508.17,2/14/2008,Ratnagiri,Used
+R-5424,D-1392,Food,12,29144.2,4/2/2020,Nagpur,Allocated
+R-5425,D-2681,Rescue Equipment,27,25785.01,7/19/2018,Satara,Used
+R-5426,D-2465,Clothing,509,17391.3,12/5/2016,Thane,Pending
+R-5427,D-2919,Rescue Equipment,774,6128.19,3/7/2009,Solapur,Allocated
+R-5428,D-2788,Rescue Equipment,225,15324.82,9/17/2009,Kolhapur,Allocated
+R-5429,D-1067,Water,123,10046.32,1/4/2016,Ratnagiri,Pending
+R-5430,D-1212,Shelter,374,36941.47,1/25/2014,Pune,Allocated
+R-5431,D-1397,Medical Kits,396,42579.82,1/19/2013,Kolhapur,Allocated
+R-5432,D-1053,Food,843,29149.61,7/7/2022,Thane,Allocated
+R-5433,D-2234,Shelter,249,5674.19,9/15/2019,Aurangabad,Used
+R-5434,D-2304,Rescue Equipment,86,22796.7,3/29/2012,Mumbai,Allocated
+R-5435,D-1992,Shelter,190,33553.98,11/22/2017,Satara,Allocated
+R-5436,D-2875,Food,808,13663.12,5/19/2008,Ratnagiri,Used
+R-5437,D-1981,Shelter,660,271.13,8/18/2021,Mumbai,Pending
+R-5438,D-1424,Food,866,19825.55,4/29/2009,Satara,Pending
+R-5439,D-2674,Water,855,34401.7,2/23/2009,Satara,Pending
+R-5440,D-1539,Rescue Equipment,306,5418.38,3/16/2014,Thane,Allocated
+R-5441,D-1567,Food,834,40419.27,5/4/2010,Aurangabad,Pending
+R-5442,D-2607,Rescue Equipment,719,23231.57,12/28/2018,Kolhapur,Allocated
+R-5443,D-2636,Water,925,21072.21,7/21/2005,Ratnagiri,Allocated
+R-5444,D-2128,Shelter,91,12523.8,4/3/2018,Satara,Used
+R-5445,D-2187,Water,48,12345.72,3/27/2020,Solapur,Used
+R-5446,D-1480,Clothing,875,9959.02,10/1/2021,Satara,Pending
+R-5447,D-1335,Medical Kits,730,31662.82,8/22/2011,Ratnagiri,Allocated
+R-5448,D-1506,Clothing,227,48592.3,7/26/2018,Nashik,Allocated
+R-5449,D-1823,Clothing,375,23128.21,9/21/2019,Kolhapur,Allocated
+R-5450,D-2756,Water,206,6535.99,5/21/2017,Pune,Used
+R-5451,D-2511,Water,700,23691.65,7/12/2006,Satara,Used
+R-5452,D-1403,Food,572,18963.41,6/9/2009,Pune,Allocated
+R-5453,D-1803,Food,449,22220.82,9/9/2020,Solapur,Pending
+R-5454,D-2432,Medical Kits,270,41294.17,9/22/2007,Kolhapur,Pending
+R-5455,D-2422,Rescue Equipment,791,30342.29,8/25/2008,Ratnagiri,Allocated
+R-5456,D-1457,Clothing,686,40188.28,8/29/2007,Thane,Used
+R-5457,D-2227,Shelter,865,49614.16,4/9/2007,Solapur,Allocated
+R-5458,D-1136,Water,60,1604.11,12/14/2016,Nashik,Pending
+R-5459,D-2882,Food,597,7058.86,11/16/2017,Thane,Used
+R-5460,D-2726,Shelter,997,30529.68,8/25/2022,Mumbai,Pending
+R-5461,D-1243,Clothing,527,7288.33,4/17/2013,Aurangabad,Allocated
+R-5462,D-1277,Water,341,10939.26,1/9/2006,Solapur,Allocated
+R-5463,D-1614,Rescue Equipment,444,27724.05,3/15/2005,Solapur,Used
+R-5464,D-2568,Water,539,46113.48,10/9/2009,Pune,Allocated
+R-5465,D-2219,Water,909,42133.2,7/9/2010,Mumbai,Allocated
+R-5466,D-2158,Shelter,295,3373.38,9/6/2006,Nagpur,Used
+R-5467,D-1349,Food,400,707.78,12/20/2019,Ratnagiri,Allocated
+R-5468,D-2800,Rescue Equipment,760,41941.65,5/24/2019,Aurangabad,Pending
+R-5469,D-1385,Food,327,9184.68,11/4/2013,Nagpur,Used
+R-5470,D-2088,Clothing,582,28147.26,10/12/2007,Pune,Used
+R-5471,D-2919,Water,251,12935.02,9/23/2006,Thane,Used
+R-5472,D-1243,Clothing,925,17085.43,3/24/2007,Thane,Used
+R-5473,D-1450,Medical Kits,340,30916.81,12/22/2008,Aurangabad,Used
+R-5474,D-2332,Water,672,43178.89,10/15/2008,Pune,Used
+R-5475,D-1709,Clothing,607,8917.2,11/20/2020,Solapur,Pending
+R-5476,D-2181,Clothing,233,11622.49,3/3/2022,Aurangabad,Allocated
+R-5477,D-1418,Food,351,13333.17,3/26/2021,Nagpur,Pending
+R-5478,D-1776,Clothing,40,15949.72,1/1/2014,Solapur,Pending
+R-5479,D-1645,Shelter,657,10964.47,5/26/2008,Ratnagiri,Pending
+R-5480,D-1570,Shelter,168,13164.78,10/1/2004,Aurangabad,Used
+R-5481,D-2774,Food,519,30170.07,11/25/2019,Aurangabad,Allocated
+R-5482,D-2014,Food,467,15317.74,8/22/2013,Nashik,Used
+R-5483,D-2406,Medical Kits,446,25323.49,4/4/2008,Aurangabad,Allocated
+R-5484,D-1703,Clothing,12,27683.86,5/6/2007,Nagpur,Pending
+R-5485,D-2645,Medical Kits,453,49105.44,11/9/2004,Nashik,Used
+R-5486,D-2016,Medical Kits,234,40771.8,4/16/2023,Pune,Allocated
+R-5487,D-2254,Medical Kits,777,124.33,11/28/2017,Nagpur,Used
+R-5488,D-2218,Medical Kits,129,30534.22,4/15/2008,Kolhapur,Pending
+R-5489,D-1048,Rescue Equipment,232,19858.24,6/7/2005,Ratnagiri,Pending
+R-5490,D-1022,Shelter,515,3141.32,2/29/2016,Aurangabad,Used
+R-5491,D-2091,Food,480,33810.01,3/25/2017,Nashik,Pending
+R-5492,D-2101,Water,203,40601.78,5/27/2018,Nagpur,Pending
+R-5493,D-1143,Shelter,468,43516.23,7/21/2006,Thane,Used
+R-5494,D-2809,Water,31,41516.91,4/7/2013,Kolhapur,Allocated
+R-5495,D-1466,Clothing,416,40101.81,7/11/2016,Kolhapur,Allocated
+R-5496,D-2509,Food,893,22170.21,8/26/2016,Nashik,Pending
+R-5497,D-2804,Shelter,549,22393.67,2/2/2013,Solapur,Allocated
+R-5498,D-2552,Clothing,433,12843.44,12/13/2010,Nagpur,Used
+R-5499,D-2004,Rescue Equipment,827,31414.64,7/23/2008,Kolhapur,Pending
+R-5500,D-2848,Medical Kits,701,17730.88,6/29/2009,Aurangabad,Used
+R-5501,D-2386,Shelter,158,8486.89,3/18/2015,Kolhapur,Pending
+R-5502,D-2456,Food,530,29921.56,11/8/2011,Thane,Used
+R-5503,D-2419,Clothing,227,42967.4,10/14/2021,Nashik,Used
+R-5504,D-1423,Rescue Equipment,148,34413.89,5/16/2020,Aurangabad,Pending
+R-5505,D-1396,Clothing,245,26631.81,1/27/2021,Ratnagiri,Used
+R-5506,D-2701,Clothing,708,33277.51,6/12/2016,Mumbai,Pending
+R-5507,D-2790,Shelter,914,33774.89,3/31/2020,Pune,Used
+R-5508,D-1343,Shelter,726,12622.26,1/13/2017,Aurangabad,Used
+R-5509,D-2738,Food,283,32670.52,2/21/2014,Mumbai,Used
+R-5510,D-1252,Shelter,259,26394.03,12/20/2022,Satara,Used
+R-5511,D-2021,Food,324,49435.7,11/1/2021,Satara,Used
+R-5512,D-2178,Shelter,320,5181.14,4/13/2005,Nashik,Pending
+R-5513,D-2076,Water,407,34151.31,3/30/2014,Thane,Pending
+R-5514,D-1649,Medical Kits,219,25151.82,2/5/2005,Kolhapur,Used
+R-5515,D-2526,Clothing,165,9601.65,4/7/2005,Solapur,Pending
+R-5516,D-1904,Clothing,150,20699.17,6/21/2018,Mumbai,Allocated
+R-5517,D-2319,Medical Kits,902,27919.55,4/5/2005,Mumbai,Pending
+R-5518,D-2635,Food,281,36179.32,3/18/2020,Ratnagiri,Pending
+R-5519,D-1866,Shelter,126,24928.12,6/4/2018,Satara,Allocated
+R-5520,D-2614,Medical Kits,633,15476.74,7/10/2022,Mumbai,Allocated
+R-5521,D-2947,Shelter,954,29825.25,10/19/2004,Nashik,Allocated
+R-5522,D-1311,Rescue Equipment,611,17160.73,7/8/2016,Nagpur,Used
+R-5523,D-2184,Shelter,701,37587.61,5/21/2015,Nashik,Allocated
+R-5524,D-2313,Food,531,1616.39,7/15/2009,Nashik,Used
+R-5525,D-2211,Food,319,29570.94,2/16/2004,Nagpur,Used
+R-5526,D-1903,Medical Kits,752,39490.44,3/3/2010,Thane,Pending
+R-5527,D-2647,Rescue Equipment,338,8172.19,9/16/2016,Nagpur,Used
+R-5528,D-2002,Shelter,217,43686.74,4/22/2012,Solapur,Pending
+R-5529,D-2022,Food,715,47728.41,6/21/2020,Solapur,Pending
+R-5530,D-1379,Shelter,943,1840.79,12/5/2017,Kolhapur,Pending
+R-5531,D-1919,Rescue Equipment,981,13476.68,4/17/2010,Solapur,Allocated
+R-5532,D-1393,Medical Kits,738,5144.02,11/6/2007,Kolhapur,Pending
+R-5533,D-1616,Rescue Equipment,157,33115.95,2/11/2015,Solapur,Pending
+R-5534,D-1790,Clothing,439,39240.28,5/25/2008,Thane,Allocated
+R-5535,D-2863,Clothing,312,36208.69,3/19/2005,Satara,Used
+R-5536,D-2256,Shelter,930,11127.64,12/23/2022,Kolhapur,Used
+R-5537,D-2610,Clothing,878,42565.6,4/13/2020,Pune,Pending
+R-5538,D-1216,Clothing,805,38336.8,4/15/2018,Aurangabad,Used
+R-5539,D-2610,Rescue Equipment,117,42630.73,8/28/2023,Ratnagiri,Pending
+R-5540,D-1270,Rescue Equipment,328,25948.25,12/27/2013,Ratnagiri,Used
+R-5541,D-1546,Rescue Equipment,571,8720.72,6/23/2017,Kolhapur,Allocated
+R-5542,D-1123,Medical Kits,767,13862.86,10/8/2018,Nashik,Used
+R-5543,D-1146,Shelter,931,24889.87,7/9/2005,Aurangabad,Allocated
+R-5544,D-2570,Medical Kits,127,8129.4,12/3/2004,Aurangabad,Pending
+R-5545,D-1025,Medical Kits,964,46599.37,4/12/2010,Mumbai,Allocated
+R-5546,D-1506,Clothing,752,31314.98,2/20/2009,Thane,Allocated
+R-5547,D-1666,Clothing,265,10756.25,3/7/2020,Pune,Used
+R-5548,D-1275,Food,978,13283.95,3/3/2014,Pune,Pending
+R-5549,D-2357,Water,520,21843.03,11/17/2016,Solapur,Used
+R-5550,D-2464,Shelter,38,491.71,1/27/2015,Satara,Pending
+R-5551,D-2199,Food,618,27618.6,12/3/2006,Pune,Pending
+R-5552,D-2931,Water,77,20600.42,2/12/2021,Nashik,Used
+R-5553,D-1671,Clothing,593,13193.73,5/11/2008,Aurangabad,Used
+R-5554,D-2904,Medical Kits,919,48241.25,9/13/2010,Kolhapur,Allocated
+R-5555,D-2688,Medical Kits,524,27360.33,4/24/2018,Thane,Used
+R-5556,D-2699,Food,887,8671.61,7/6/2019,Thane,Allocated
+R-5557,D-1832,Rescue Equipment,626,28364.01,5/25/2023,Nagpur,Allocated
+R-5558,D-1873,Medical Kits,389,38164.11,5/28/2017,Aurangabad,Pending
+R-5559,D-1225,Medical Kits,789,30875.59,4/2/2018,Solapur,Pending
+R-5560,D-2281,Rescue Equipment,632,21997.44,4/18/2009,Satara,Allocated
+R-5561,D-2557,Water,728,40413.2,6/4/2010,Ratnagiri,Used
+R-5562,D-1060,Rescue Equipment,216,10266.55,6/12/2020,Nashik,Pending
+R-5563,D-1254,Shelter,540,4896.23,3/18/2006,Ratnagiri,Pending
+R-5564,D-2167,Water,719,38928.78,1/31/2017,Satara,Used
+R-5565,D-2625,Shelter,106,46530.63,8/8/2009,Kolhapur,Used
+R-5566,D-2683,Clothing,112,16707.47,5/17/2014,Thane,Used
+R-5567,D-2923,Shelter,283,30072.67,10/19/2009,Satara,Pending
+R-5568,D-1832,Clothing,421,41131.16,10/4/2010,Nagpur,Pending
+R-5569,D-2885,Shelter,404,36088.22,11/16/2005,Mumbai,Allocated
+R-5570,D-1206,Shelter,361,39662.22,8/13/2011,Satara,Used
+R-5571,D-1666,Clothing,250,26247.0,1/4/2009,Solapur,Allocated
+R-5572,D-2987,Food,553,43733.19,2/27/2007,Mumbai,Allocated
+R-5573,D-2394,Water,919,36437.82,2/19/2021,Solapur,Used
+R-5574,D-1986,Rescue Equipment,871,49584.64,7/27/2020,Ratnagiri,Pending
+R-5575,D-1757,Shelter,415,42532.09,11/27/2009,Thane,Used
+R-5576,D-2128,Medical Kits,215,45224.96,1/2/2004,Ratnagiri,Allocated
+R-5577,D-1465,Medical Kits,150,47522.78,9/13/2013,Aurangabad,Allocated
+R-5578,D-1220,Water,441,34395.32,4/27/2011,Mumbai,Allocated
+R-5579,D-2727,Clothing,850,38507.35,8/28/2013,Mumbai,Allocated
+R-5580,D-2708,Food,25,32212.76,6/8/2018,Aurangabad,Used
+R-5581,D-1965,Clothing,365,19627.85,12/17/2006,Solapur,Used
+R-5582,D-1096,Shelter,433,7499.86,8/4/2017,Pune,Used
+R-5583,D-1377,Medical Kits,301,19776.9,9/19/2018,Aurangabad,Used
+R-5584,D-2021,Food,318,32659.24,9/7/2007,Ratnagiri,Used
+R-5585,D-2152,Medical Kits,965,47198.51,6/14/2020,Aurangabad,Used
+R-5586,D-2157,Rescue Equipment,851,19434.82,9/16/2010,Kolhapur,Allocated
+R-5587,D-1397,Medical Kits,662,4143.67,4/2/2007,Nagpur,Pending
+R-5588,D-1414,Rescue Equipment,739,30232.36,7/20/2005,Satara,Pending
+R-5589,D-2544,Rescue Equipment,188,34352.0,5/25/2017,Solapur,Pending
+R-5590,D-1660,Food,797,6966.91,5/5/2011,Pune,Pending
+R-5591,D-1673,Food,901,49400.7,8/24/2014,Solapur,Pending
+R-5592,D-2016,Food,357,5904.99,2/12/2005,Satara,Allocated
+R-5593,D-2021,Rescue Equipment,509,47195.06,9/6/2012,Kolhapur,Allocated
+R-5594,D-2829,Water,952,34121.37,3/4/2009,Satara,Used
+R-5595,D-2645,Rescue Equipment,419,24342.31,6/23/2022,Kolhapur,Pending
+R-5596,D-2127,Food,612,25610.24,5/7/2007,Nagpur,Pending
+R-5597,D-2258,Shelter,536,20477.16,6/6/2013,Satara,Used
+R-5598,D-2595,Clothing,712,1746.22,6/28/2022,Nashik,Used
+R-5599,D-1795,Shelter,125,7762.44,7/18/2016,Mumbai,Pending
+R-5600,D-2165,Clothing,19,20051.38,1/25/2019,Satara,Allocated
+R-5601,D-1873,Shelter,472,42809.31,12/5/2010,Ratnagiri,Pending
+R-5602,D-2444,Water,926,32796.45,6/17/2012,Ratnagiri,Allocated
+R-5603,D-1391,Medical Kits,644,15552.22,1/8/2006,Pune,Pending
+R-5604,D-1354,Medical Kits,161,39534.09,7/18/2011,Ratnagiri,Pending
+R-5605,D-2188,Shelter,487,3954.78,12/21/2008,Thane,Allocated
+R-5606,D-2686,Shelter,523,38820.42,3/28/2022,Solapur,Used
+R-5607,D-2264,Water,989,27017.86,2/24/2016,Kolhapur,Used
+R-5608,D-1108,Rescue Equipment,899,16379.97,11/13/2019,Solapur,Pending
+R-5609,D-1757,Medical Kits,63,1726.68,2/17/2015,Nagpur,Pending
+R-5610,D-1790,Clothing,784,18459.72,11/19/2020,Mumbai,Allocated
+R-5611,D-2462,Food,815,39241.0,6/28/2006,Kolhapur,Allocated
+R-5612,D-1399,Shelter,344,15192.91,11/6/2015,Thane,Used
+R-5613,D-1800,Rescue Equipment,60,36492.26,10/25/2020,Pune,Used
+R-5614,D-1359,Food,561,9163.74,2/15/2021,Ratnagiri,Allocated
+R-5615,D-2926,Shelter,392,45711.89,10/17/2006,Ratnagiri,Used
+R-5616,D-1448,Medical Kits,785,9366.75,9/11/2022,Mumbai,Used
+R-5617,D-1029,Food,484,16089.82,12/19/2023,Aurangabad,Used
+R-5618,D-1673,Shelter,367,24876.37,3/9/2010,Nagpur,Allocated
+R-5619,D-1350,Medical Kits,591,4898.61,10/5/2015,Aurangabad,Pending
+R-5620,D-1902,Clothing,420,17226.02,9/17/2012,Nashik,Allocated
+R-5621,D-1625,Food,571,14974.36,12/29/2021,Satara,Allocated
+R-5622,D-1287,Clothing,429,29358.2,12/1/2021,Ratnagiri,Pending
+R-5623,D-2639,Rescue Equipment,133,8639.06,3/5/2020,Kolhapur,Allocated
+R-5624,D-1694,Clothing,942,10322.77,8/11/2021,Nashik,Allocated
+R-5625,D-1442,Rescue Equipment,907,44242.51,8/27/2017,Ratnagiri,Used
+R-5626,D-2743,Rescue Equipment,904,48335.84,11/13/2015,Mumbai,Used
+R-5627,D-1810,Water,182,44277.75,7/19/2008,Nagpur,Allocated
+R-5628,D-1492,Shelter,791,43782.09,7/3/2021,Thane,Allocated
+R-5629,D-1450,Rescue Equipment,847,4529.95,10/18/2019,Mumbai,Used
+R-5630,D-1080,Food,266,22747.62,2/9/2005,Ratnagiri,Allocated
+R-5631,D-1957,Medical Kits,313,38754.62,2/9/2023,Aurangabad,Allocated
+R-5632,D-1187,Water,565,39751.03,6/24/2017,Aurangabad,Used
+R-5633,D-1253,Food,727,19844.06,1/10/2007,Nagpur,Allocated
+R-5634,D-1018,Rescue Equipment,939,5730.98,3/11/2018,Nashik,Allocated
+R-5635,D-1257,Food,108,31427.37,7/15/2022,Nashik,Used
+R-5636,D-2241,Shelter,313,14929.37,7/29/2016,Pune,Used
+R-5637,D-1856,Shelter,501,36390.68,11/7/2008,Pune,Used
+R-5638,D-2810,Rescue Equipment,491,32086.74,8/25/2014,Solapur,Used
+R-5639,D-2311,Clothing,570,33268.69,5/5/2008,Pune,Allocated
+R-5640,D-1122,Food,621,37808.97,3/13/2013,Kolhapur,Pending
+R-5641,D-1958,Rescue Equipment,148,10312.95,11/25/2013,Nagpur,Pending
+R-5642,D-1093,Food,631,17015.24,12/30/2015,Nagpur,Used
+R-5643,D-1479,Water,589,44617.45,4/29/2023,Pune,Allocated
+R-5644,D-2752,Food,943,1035.09,4/9/2014,Mumbai,Pending
+R-5645,D-2745,Food,905,25444.4,4/4/2010,Thane,Allocated
+R-5646,D-1122,Water,112,43620.72,11/5/2023,Pune,Used
+R-5647,D-1146,Shelter,890,20879.4,11/22/2013,Ratnagiri,Used
+R-5648,D-1048,Food,554,47130.3,6/4/2013,Aurangabad,Pending
+R-5649,D-2321,Medical Kits,145,38351.37,8/28/2021,Solapur,Allocated
+R-5650,D-1082,Food,520,48352.56,5/9/2014,Mumbai,Used
+R-5651,D-1346,Water,384,1082.43,9/6/2012,Aurangabad,Used
+R-5652,D-1495,Medical Kits,591,9087.25,1/29/2014,Aurangabad,Allocated
+R-5653,D-1941,Medical Kits,104,29891.98,8/15/2011,Kolhapur,Pending
+R-5654,D-1874,Rescue Equipment,384,6140.22,8/14/2013,Nashik,Allocated
+R-5655,D-1995,Water,642,7964.51,6/29/2005,Thane,Pending
+R-5656,D-1386,Rescue Equipment,270,25460.26,3/12/2012,Thane,Used
+R-5657,D-1308,Water,64,22092.06,6/30/2017,Satara,Allocated
+R-5658,D-1965,Rescue Equipment,989,33799.82,10/9/2007,Satara,Allocated
+R-5659,D-1078,Shelter,733,6559.05,7/29/2017,Ratnagiri,Pending
+R-5660,D-1397,Medical Kits,719,44817.44,10/8/2016,Aurangabad,Allocated
+R-5661,D-2738,Water,562,10636.35,4/29/2020,Nashik,Used
+R-5662,D-2717,Clothing,483,21873.58,12/18/2014,Nashik,Allocated
+R-5663,D-1300,Shelter,11,1238.81,7/4/2023,Solapur,Allocated
+R-5664,D-1247,Clothing,210,17089.97,10/16/2023,Aurangabad,Allocated
+R-5665,D-2533,Medical Kits,651,17707.81,8/24/2011,Nagpur,Allocated
+R-5666,D-2969,Clothing,839,36164.21,9/7/2016,Nagpur,Pending
+R-5667,D-2416,Food,772,8480.85,8/15/2014,Satara,Pending
+R-5668,D-2136,Medical Kits,647,29201.15,7/5/2018,Aurangabad,Pending
+R-5669,D-2902,Clothing,919,42268.29,2/13/2020,Mumbai,Allocated
+R-5670,D-1563,Water,904,24520.93,7/9/2014,Ratnagiri,Used
+R-5671,D-2346,Medical Kits,127,49100.11,11/5/2011,Solapur,Pending
+R-5672,D-1119,Food,537,7210.57,9/13/2008,Kolhapur,Used
+R-5673,D-2813,Rescue Equipment,21,44711.76,3/3/2015,Aurangabad,Used
+R-5674,D-1992,Medical Kits,551,45536.69,12/3/2022,Solapur,Pending
+R-5675,D-1813,Food,826,24697.79,2/9/2006,Solapur,Pending
+R-5676,D-2525,Rescue Equipment,750,30044.17,10/21/2010,Thane,Pending
+R-5677,D-1812,Food,802,44682.02,5/25/2010,Kolhapur,Used
+R-5678,D-2589,Medical Kits,247,5476.45,1/30/2023,Pune,Used
+R-5679,D-2407,Shelter,771,4544.25,6/14/2007,Pune,Pending
+R-5680,D-2538,Water,429,29355.3,3/20/2019,Nashik,Used
+R-5681,D-2649,Water,815,47867.8,2/28/2020,Satara,Used
+R-5682,D-1566,Rescue Equipment,39,40248.59,5/21/2005,Ratnagiri,Allocated
+R-5683,D-1758,Rescue Equipment,499,29686.56,4/18/2022,Pune,Pending
+R-5684,D-1348,Clothing,272,9047.8,4/9/2017,Kolhapur,Pending
+R-5685,D-2729,Shelter,457,1727.85,12/13/2010,Ratnagiri,Pending
+R-5686,D-1424,Shelter,458,36877.53,1/14/2014,Solapur,Allocated
+R-5687,D-2334,Shelter,258,3573.74,9/25/2004,Kolhapur,Used
+R-5688,D-2219,Clothing,128,22030.6,1/13/2019,Kolhapur,Pending
+R-5689,D-2861,Food,883,8033.84,9/17/2018,Mumbai,Allocated
+R-5690,D-1258,Water,512,19077.95,9/6/2013,Thane,Pending
+R-5691,D-1423,Water,242,2150.65,9/9/2014,Aurangabad,Used
+R-5692,D-1513,Shelter,758,47877.18,7/8/2007,Nashik,Used
+R-5693,D-2477,Food,194,48730.84,2/23/2015,Solapur,Used
+R-5694,D-1991,Shelter,835,28409.1,4/28/2006,Thane,Allocated
+R-5695,D-1413,Clothing,619,16634.81,12/15/2021,Satara,Used
+R-5696,D-1199,Water,253,712.49,11/8/2010,Aurangabad,Pending
+R-5697,D-1337,Rescue Equipment,818,49579.67,4/15/2008,Ratnagiri,Used
+R-5698,D-2629,Clothing,412,48856.36,7/5/2006,Mumbai,Allocated
+R-5699,D-1859,Clothing,190,6238.72,6/30/2006,Thane,Pending
+R-5700,D-1763,Clothing,876,17242.45,9/4/2009,Kolhapur,Pending
+R-5701,D-2630,Rescue Equipment,185,20683.23,12/16/2013,Satara,Allocated
+R-5702,D-1781,Clothing,221,47158.94,12/17/2008,Thane,Pending
+R-5703,D-1207,Shelter,938,38149.75,1/20/2015,Kolhapur,Used
+R-5704,D-2256,Water,48,20161.55,10/4/2016,Aurangabad,Used
+R-5705,D-2477,Shelter,981,10470.06,9/18/2004,Pune,Allocated
+R-5706,D-1555,Medical Kits,534,44635.74,10/22/2005,Kolhapur,Used
+R-5707,D-1003,Food,318,1202.18,5/25/2010,Solapur,Used
+R-5708,D-2649,Shelter,52,38756.14,1/7/2019,Pune,Pending
+R-5709,D-2372,Clothing,531,14061.92,1/15/2014,Mumbai,Pending
+R-5710,D-2980,Clothing,996,34860.88,5/2/2008,Solapur,Used
+R-5711,D-2008,Water,364,14316.84,5/22/2019,Thane,Pending
+R-5712,D-2881,Shelter,566,8803.03,1/30/2009,Mumbai,Used
+R-5713,D-2306,Shelter,279,7445.25,1/11/2016,Solapur,Pending
+R-5714,D-2774,Food,514,17390.79,2/27/2019,Thane,Allocated
+R-5715,D-1427,Medical Kits,726,22434.05,6/17/2015,Satara,Pending
+R-5716,D-1290,Water,435,12727.16,7/8/2014,Thane,Pending
+R-5717,D-1770,Shelter,998,23186.14,3/4/2012,Solapur,Allocated
+R-5718,D-2843,Clothing,736,43306.7,6/15/2020,Pune,Allocated
+R-5719,D-2446,Food,748,24820.43,7/18/2011,Nashik,Used
+R-5720,D-1753,Rescue Equipment,174,13340.07,11/2/2005,Satara,Pending
+R-5721,D-1221,Water,563,32667.78,10/5/2005,Nagpur,Used
+R-5722,D-2964,Rescue Equipment,768,33073.73,4/11/2013,Kolhapur,Allocated
+R-5723,D-1243,Shelter,221,13432.61,7/13/2020,Kolhapur,Used
+R-5724,D-1527,Medical Kits,389,2872.78,3/16/2004,Mumbai,Allocated
+R-5725,D-2310,Food,34,22016.94,9/26/2017,Pune,Used
+R-5726,D-1710,Water,546,18303.48,5/10/2019,Nagpur,Pending
+R-5727,D-1789,Water,57,39218.62,9/17/2012,Satara,Allocated
+R-5728,D-1613,Clothing,855,28489.56,12/29/2010,Pune,Allocated
+R-5729,D-2012,Food,267,39451.4,4/12/2010,Ratnagiri,Allocated
+R-5730,D-1747,Clothing,329,13734.16,11/10/2009,Satara,Used
+R-5731,D-1222,Rescue Equipment,178,27798.42,9/26/2012,Nashik,Pending
+R-5732,D-2972,Food,957,47549.59,3/10/2020,Aurangabad,Allocated
+R-5733,D-1588,Rescue Equipment,419,29282.25,12/25/2005,Thane,Allocated
+R-5734,D-1347,Food,567,40872.32,12/18/2009,Nagpur,Pending
+R-5735,D-1509,Shelter,624,5813.3,10/3/2011,Thane,Used
+R-5736,D-2648,Rescue Equipment,130,11181.55,6/4/2018,Aurangabad,Allocated
+R-5737,D-2709,Shelter,363,40995.56,12/7/2016,Thane,Used
+R-5738,D-2015,Water,58,45639.86,10/18/2010,Nagpur,Allocated
+R-5739,D-1544,Water,34,11575.94,4/25/2016,Solapur,Pending
+R-5740,D-1337,Shelter,715,37627.41,1/23/2016,Satara,Pending
+R-5741,D-1945,Water,536,25644.03,1/11/2015,Satara,Pending
+R-5742,D-2950,Shelter,394,46931.09,11/21/2005,Kolhapur,Allocated
+R-5743,D-1014,Rescue Equipment,750,4242.09,9/13/2018,Aurangabad,Pending
+R-5744,D-2914,Food,620,18709.07,12/8/2009,Pune,Used
+R-5745,D-1301,Water,157,5942.48,11/27/2021,Nagpur,Pending
+R-5746,D-2653,Rescue Equipment,123,23752.34,3/2/2020,Ratnagiri,Pending
+R-5747,D-1436,Water,788,24349.07,2/16/2012,Solapur,Allocated
+R-5748,D-1571,Shelter,177,21804.47,12/12/2021,Pune,Allocated
+R-5749,D-1901,Shelter,108,2594.56,3/27/2010,Solapur,Allocated
+R-5750,D-1743,Rescue Equipment,476,24402.91,4/24/2018,Ratnagiri,Allocated
+R-5751,D-1979,Medical Kits,851,8112.76,10/13/2009,Nashik,Allocated
+R-5752,D-1486,Water,585,2751.55,10/4/2018,Kolhapur,Allocated
+R-5753,D-1017,Food,455,6480.26,2/24/2013,Kolhapur,Used
+R-5754,D-2463,Shelter,839,13769.83,8/9/2013,Kolhapur,Allocated
+R-5755,D-2787,Medical Kits,795,34157.61,4/28/2017,Mumbai,Used
+R-5756,D-2126,Clothing,140,13806.8,11/25/2011,Solapur,Pending
+R-5757,D-2784,Shelter,590,32277.09,12/11/2004,Pune,Used
+R-5758,D-2588,Water,643,45602.75,5/19/2007,Nagpur,Pending
+R-5759,D-1573,Rescue Equipment,589,43337.07,10/25/2018,Nagpur,Pending
+R-5760,D-1848,Medical Kits,917,5572.25,7/21/2013,Solapur,Allocated
+R-5761,D-1865,Food,327,30913.33,6/21/2007,Solapur,Pending
+R-5762,D-1402,Rescue Equipment,66,31696.39,10/23/2009,Thane,Allocated
+R-5763,D-1277,Medical Kits,404,44724.42,2/22/2004,Pune,Used
+R-5764,D-2200,Water,211,15164.93,4/2/2010,Nagpur,Allocated
+R-5765,D-1563,Water,656,47893.94,11/20/2019,Solapur,Used
+R-5766,D-2239,Shelter,447,12507.38,9/10/2006,Nagpur,Used
+R-5767,D-1643,Food,208,33828.95,5/7/2011,Solapur,Allocated
+R-5768,D-2556,Shelter,103,36057.59,11/4/2014,Mumbai,Allocated
+R-5769,D-2138,Rescue Equipment,655,44187.92,1/8/2009,Mumbai,Pending
+R-5770,D-2713,Shelter,905,32539.52,4/4/2014,Nashik,Allocated
+R-5771,D-1134,Food,720,15342.36,11/23/2005,Aurangabad,Allocated
+R-5772,D-1963,Shelter,115,30887.83,4/9/2018,Ratnagiri,Allocated
+R-5773,D-1799,Shelter,451,7066.28,7/2/2015,Pune,Used
+R-5774,D-2622,Medical Kits,527,6445.13,9/1/2017,Pune,Used
+R-5775,D-1475,Shelter,168,41316.64,2/9/2006,Aurangabad,Pending
+R-5776,D-2215,Shelter,83,38173.45,12/5/2021,Nashik,Used
+R-5777,D-2253,Rescue Equipment,925,16064.87,6/3/2022,Pune,Allocated
+R-5778,D-1141,Rescue Equipment,173,36967.24,6/8/2004,Nagpur,Allocated
+R-5779,D-2853,Medical Kits,99,8288.22,11/8/2020,Thane,Allocated
+R-5780,D-1648,Clothing,926,17004.65,6/19/2023,Pune,Allocated
+R-5781,D-2738,Water,421,41047.78,4/30/2019,Aurangabad,Used
+R-5782,D-1198,Water,257,21938.94,5/5/2018,Kolhapur,Pending
+R-5783,D-1023,Water,176,48214.02,2/23/2019,Solapur,Allocated
+R-5784,D-2097,Shelter,790,46635.24,2/20/2021,Aurangabad,Pending
+R-5785,D-2959,Shelter,354,6094.21,12/27/2020,Mumbai,Allocated
+R-5786,D-1483,Medical Kits,19,26796.15,11/24/2018,Aurangabad,Pending
+R-5787,D-2170,Food,413,28341.42,1/15/2014,Ratnagiri,Pending
+R-5788,D-2102,Water,951,30979.68,6/13/2016,Aurangabad,Used
+R-5789,D-1030,Food,897,13106.97,11/16/2022,Mumbai,Pending
+R-5790,D-1854,Medical Kits,672,46425.01,5/14/2016,Thane,Pending
+R-5791,D-1296,Water,651,43107.02,5/10/2018,Aurangabad,Pending
+R-5792,D-2154,Food,370,3502.69,3/9/2012,Aurangabad,Allocated
+R-5793,D-1224,Shelter,408,676.15,11/20/2005,Pune,Pending
+R-5794,D-2218,Medical Kits,911,21382.71,12/1/2023,Ratnagiri,Used
+R-5795,D-1783,Clothing,737,47431.92,1/28/2011,Pune,Pending
+R-5796,D-1541,Clothing,269,24591.04,9/22/2011,Satara,Allocated
+R-5797,D-2152,Shelter,950,14313.67,2/27/2023,Satara,Used
+R-5798,D-1226,Food,617,3009.8,5/17/2022,Satara,Allocated
+R-5799,D-1991,Water,353,23574.92,4/22/2018,Solapur,Used
+R-5800,D-2201,Clothing,960,48881.82,10/19/2022,Solapur,Used
+R-5801,D-2155,Clothing,606,2885.03,5/3/2019,Pune,Used
+R-5802,D-1228,Rescue Equipment,492,42057.35,9/14/2010,Ratnagiri,Pending
+R-5803,D-2014,Rescue Equipment,133,15555.01,12/11/2008,Nagpur,Allocated
+R-5804,D-1245,Clothing,887,12097.16,4/24/2007,Satara,Allocated
+R-5805,D-2253,Shelter,378,23811.74,2/24/2019,Nagpur,Used
+R-5806,D-1634,Medical Kits,728,28984.57,6/28/2005,Kolhapur,Used
+R-5807,D-2109,Food,764,20334.18,1/30/2006,Nagpur,Used
+R-5808,D-1692,Water,704,32877.27,5/27/2013,Aurangabad,Allocated
+R-5809,D-1793,Medical Kits,880,37297.28,7/23/2017,Pune,Used
+R-5810,D-2240,Rescue Equipment,202,36719.06,12/22/2021,Pune,Allocated
+R-5811,D-1353,Medical Kits,231,49252.69,4/10/2014,Mumbai,Pending
+R-5812,D-2691,Shelter,698,37016.43,10/31/2016,Solapur,Pending
+R-5813,D-1671,Water,871,41602.68,12/14/2012,Thane,Pending
+R-5814,D-1111,Clothing,785,38723.1,4/2/2021,Aurangabad,Allocated
+R-5815,D-1956,Water,997,17641.96,11/3/2013,Aurangabad,Allocated
+R-5816,D-1498,Medical Kits,519,36512.38,12/22/2017,Satara,Pending
+R-5817,D-1512,Food,516,30711.99,8/25/2010,Kolhapur,Pending
+R-5818,D-2529,Water,465,4383.68,11/2/2017,Kolhapur,Used
+R-5819,D-1594,Rescue Equipment,27,21156.27,4/23/2022,Aurangabad,Allocated
+R-5820,D-2985,Water,28,45118.82,1/28/2018,Mumbai,Used
+R-5821,D-2806,Rescue Equipment,240,36138.59,6/28/2015,Ratnagiri,Used
+R-5822,D-2090,Rescue Equipment,349,25553.17,6/18/2006,Nagpur,Pending
+R-5823,D-2328,Food,146,38700.05,3/20/2019,Kolhapur,Allocated
+R-5824,D-1195,Water,571,36387.52,8/8/2023,Kolhapur,Allocated
+R-5825,D-2460,Clothing,837,39284.68,11/8/2015,Ratnagiri,Used
+R-5826,D-2720,Shelter,499,24316.51,5/9/2010,Thane,Allocated
+R-5827,D-1105,Clothing,491,36892.71,10/17/2021,Ratnagiri,Allocated
+R-5828,D-1664,Rescue Equipment,984,26264.36,5/7/2018,Solapur,Pending
+R-5829,D-2187,Shelter,259,30499.06,9/18/2017,Kolhapur,Pending
+R-5830,D-2648,Shelter,286,2506.47,12/7/2022,Mumbai,Allocated
+R-5831,D-1591,Shelter,962,45041.4,4/25/2009,Thane,Used
+R-5832,D-1985,Water,321,41198.16,5/10/2023,Thane,Used
+R-5833,D-2948,Clothing,564,24386.37,9/14/2009,Thane,Used
+R-5834,D-1236,Clothing,221,6839.5,2/2/2008,Thane,Pending
+R-5835,D-2198,Clothing,148,42158.06,7/28/2008,Mumbai,Pending
+R-5836,D-2023,Shelter,108,41125.83,7/18/2020,Nashik,Pending
+R-5837,D-2025,Water,134,31604.95,10/23/2005,Aurangabad,Used
+R-5838,D-1435,Water,876,40787.99,8/13/2004,Mumbai,Pending
+R-5839,D-2099,Medical Kits,74,15865.36,5/8/2022,Kolhapur,Used
+R-5840,D-2771,Water,524,28439.35,9/27/2015,Solapur,Allocated
+R-5841,D-2714,Clothing,406,5069.17,2/16/2023,Solapur,Used
+R-5842,D-2902,Rescue Equipment,580,46913.28,4/24/2004,Nagpur,Used
+R-5843,D-1924,Water,355,25092.4,5/29/2021,Mumbai,Used
+R-5844,D-2172,Shelter,563,5988.01,6/10/2013,Solapur,Allocated
+R-5845,D-1017,Shelter,890,13870.01,7/24/2020,Pune,Used
+R-5846,D-1447,Rescue Equipment,793,14073.32,8/27/2022,Solapur,Allocated
+R-5847,D-2738,Rescue Equipment,536,7809.9,10/1/2006,Aurangabad,Allocated
+R-5848,D-2076,Clothing,264,48144.82,8/25/2013,Ratnagiri,Pending
+R-5849,D-2601,Clothing,465,6953.28,5/15/2009,Nashik,Used
+R-5850,D-1918,Clothing,562,26581.63,4/15/2009,Ratnagiri,Pending
+R-5851,D-2018,Clothing,890,22527.23,9/26/2005,Mumbai,Used
+R-5852,D-1512,Water,965,41863.54,6/25/2004,Thane,Pending
+R-5853,D-2242,Water,21,24797.82,11/26/2019,Kolhapur,Used
+R-5854,D-1501,Rescue Equipment,848,18309.52,8/3/2023,Kolhapur,Used
+R-5855,D-1355,Food,450,1681.31,6/7/2020,Nashik,Used
+R-5856,D-1844,Clothing,563,14265.21,5/11/2023,Nashik,Used
+R-5857,D-1398,Medical Kits,652,16429.4,5/26/2020,Thane,Allocated
+R-5858,D-1001,Shelter,559,30574.04,11/10/2007,Solapur,Pending
+R-5859,D-1570,Water,141,47716.53,7/24/2011,Mumbai,Pending
+R-5860,D-1855,Rescue Equipment,405,2170.29,8/8/2016,Solapur,Used
+R-5861,D-2829,Medical Kits,689,36757.56,2/24/2007,Aurangabad,Allocated
+R-5862,D-2909,Shelter,56,10275.02,7/29/2006,Ratnagiri,Used
+R-5863,D-1170,Water,125,13507.46,5/13/2018,Solapur,Used
+R-5864,D-2519,Clothing,744,43441.77,1/9/2009,Thane,Used
+R-5865,D-1572,Water,610,25232.68,12/19/2019,Aurangabad,Allocated
+R-5866,D-2993,Water,175,41229.86,6/7/2015,Thane,Allocated
+R-5867,D-2492,Clothing,997,16682.78,7/13/2016,Solapur,Pending
+R-5868,D-2963,Food,591,42124.14,4/6/2017,Nagpur,Pending
+R-5869,D-1477,Medical Kits,329,12876.5,3/14/2015,Solapur,Used
+R-5870,D-2644,Clothing,17,24122.0,3/2/2014,Aurangabad,Pending
+R-5871,D-1677,Clothing,312,47465.63,5/17/2020,Ratnagiri,Allocated
+R-5872,D-1851,Clothing,22,154.44,12/31/2005,Thane,Used
+R-5873,D-1880,Food,508,21585.24,9/2/2016,Solapur,Used
+R-5874,D-1542,Clothing,472,2898.63,10/2/2015,Ratnagiri,Used
+R-5875,D-1534,Rescue Equipment,665,45214.22,12/14/2018,Nashik,Allocated
+R-5876,D-2740,Clothing,848,27224.33,6/10/2017,Pune,Pending
+R-5877,D-1740,Shelter,333,21005.28,10/12/2019,Thane,Pending
+R-5878,D-2425,Food,289,31664.82,11/21/2008,Thane,Pending
+R-5879,D-1689,Food,611,30803.97,3/14/2005,Satara,Allocated
+R-5880,D-2045,Water,733,16366.11,5/21/2010,Pune,Used
+R-5881,D-2352,Rescue Equipment,704,41268.3,11/11/2011,Pune,Pending
+R-5882,D-2466,Clothing,885,17514.9,6/19/2020,Satara,Pending
+R-5883,D-2820,Water,198,32146.2,9/13/2006,Aurangabad,Used
+R-5884,D-1624,Rescue Equipment,737,39367.26,1/6/2013,Aurangabad,Used
+R-5885,D-1160,Medical Kits,77,22884.6,8/24/2012,Thane,Allocated
+R-5886,D-2550,Water,757,20206.52,9/1/2018,Satara,Used
+R-5887,D-1647,Water,695,21452.77,10/24/2014,Thane,Used
+R-5888,D-2558,Shelter,112,3579.66,9/10/2010,Thane,Used
+R-5889,D-2241,Shelter,883,49855.26,10/18/2022,Solapur,Allocated
+R-5890,D-2340,Clothing,907,21786.71,9/14/2015,Ratnagiri,Pending
+R-5891,D-1771,Clothing,595,33257.8,11/30/2020,Ratnagiri,Pending
+R-5892,D-2351,Shelter,220,13250.87,7/13/2022,Pune,Used
+R-5893,D-2116,Clothing,527,44207.98,4/20/2006,Ratnagiri,Used
+R-5894,D-1268,Clothing,335,39636.94,7/27/2009,Pune,Used
+R-5895,D-2898,Food,423,24670.15,4/19/2010,Solapur,Allocated
+R-5896,D-2431,Clothing,780,13363.33,6/18/2007,Ratnagiri,Allocated
+R-5897,D-2700,Clothing,897,40585.38,1/1/2008,Mumbai,Allocated
+R-5898,D-1071,Food,195,32496.09,5/7/2010,Nashik,Allocated
+R-5899,D-1581,Water,733,41565.65,12/22/2009,Thane,Allocated
+R-5900,D-2856,Rescue Equipment,13,9464.06,6/25/2020,Solapur,Allocated
+R-5901,D-1056,Shelter,938,49997.57,6/18/2004,Ratnagiri,Used
+R-5902,D-1752,Rescue Equipment,538,17341.75,12/27/2017,Pune,Used
+R-5903,D-2240,Food,270,17351.1,11/1/2012,Mumbai,Used
+R-5904,D-1999,Rescue Equipment,557,11183.46,6/17/2008,Kolhapur,Used
+R-5905,D-2962,Medical Kits,908,46410.99,3/20/2008,Pune,Used
+R-5906,D-1949,Medical Kits,534,21648.18,12/31/2020,Ratnagiri,Allocated
+R-5907,D-2918,Food,298,4693.6,4/3/2015,Thane,Pending
+R-5908,D-2278,Food,920,3835.38,8/9/2018,Aurangabad,Allocated
+R-5909,D-1529,Clothing,209,31777.09,1/13/2019,Mumbai,Used
+R-5910,D-2230,Shelter,624,12264.64,2/9/2005,Aurangabad,Allocated
+R-5911,D-2306,Medical Kits,374,30844.6,1/24/2013,Aurangabad,Pending
+R-5912,D-1440,Food,34,29327.33,9/13/2023,Solapur,Used
+R-5913,D-1630,Food,265,24991.92,3/20/2016,Thane,Pending
+R-5914,D-1922,Rescue Equipment,193,12434.56,10/20/2007,Aurangabad,Used
+R-5915,D-1911,Food,31,24855.03,2/13/2018,Mumbai,Used
+R-5916,D-2723,Water,530,1579.26,11/14/2005,Satara,Allocated
+R-5917,D-1052,Food,637,27755.53,1/8/2021,Nashik,Allocated
+R-5918,D-1926,Water,913,13257.8,5/15/2009,Thane,Used
+R-5919,D-2801,Rescue Equipment,613,47068.5,2/10/2013,Nashik,Allocated
+R-5920,D-2666,Clothing,386,19616.62,7/18/2019,Nashik,Allocated
+R-5921,D-1562,Medical Kits,95,5261.15,5/31/2022,Solapur,Pending
+R-5922,D-2322,Water,174,28860.06,9/16/2011,Solapur,Pending
+R-5923,D-1908,Rescue Equipment,730,4566.66,12/8/2013,Nashik,Used
+R-5924,D-1360,Rescue Equipment,103,25742.81,9/21/2006,Thane,Allocated
+R-5925,D-2167,Food,226,35631.4,3/22/2016,Mumbai,Used
+R-5926,D-2811,Medical Kits,332,37591.44,11/14/2017,Nagpur,Used
+R-5927,D-2429,Food,337,1267.76,5/5/2021,Aurangabad,Allocated
+R-5928,D-2314,Water,178,41379.88,9/8/2005,Ratnagiri,Used
+R-5929,D-1962,Food,660,28702.65,5/24/2023,Kolhapur,Used
+R-5930,D-1353,Clothing,901,27695.14,2/7/2018,Nagpur,Allocated
+R-5931,D-2306,Medical Kits,808,49560.03,8/1/2010,Nagpur,Pending
+R-5932,D-2822,Food,410,20044.05,5/30/2006,Nagpur,Allocated
+R-5933,D-1344,Rescue Equipment,418,29814.12,9/29/2006,Solapur,Allocated
+R-5934,D-1794,Medical Kits,800,27970.05,11/7/2013,Solapur,Used
+R-5935,D-2428,Medical Kits,45,47315.6,5/10/2017,Satara,Allocated
+R-5936,D-2647,Clothing,85,7624.12,1/30/2020,Nagpur,Allocated
+R-5937,D-1755,Medical Kits,56,23672.13,11/25/2019,Kolhapur,Pending
+R-5938,D-1204,Clothing,333,16632.93,1/28/2016,Ratnagiri,Used
+R-5939,D-2638,Shelter,34,11125.88,5/8/2007,Nashik,Used
+R-5940,D-1048,Clothing,31,46081.77,6/5/2020,Satara,Allocated
+R-5941,D-1916,Food,62,30952.45,7/21/2009,Mumbai,Allocated
+R-5942,D-1646,Clothing,931,8135.35,1/14/2007,Nashik,Used
+R-5943,D-1520,Medical Kits,683,38671.33,5/27/2017,Satara,Used
+R-5944,D-1261,Clothing,443,7664.92,4/13/2020,Pune,Used
+R-5945,D-1780,Food,78,37230.35,1/1/2006,Nagpur,Used
+R-5946,D-2391,Shelter,360,25359.45,8/31/2015,Nashik,Used
+R-5947,D-2540,Water,705,12381.93,4/5/2006,Solapur,Used
+R-5948,D-1207,Water,248,7611.02,12/17/2004,Satara,Pending
+R-5949,D-2944,Medical Kits,715,19469.61,1/16/2006,Thane,Pending
+R-5950,D-1424,Food,384,27801.73,8/28/2011,Pune,Pending
+R-5951,D-1854,Shelter,178,45949.14,9/11/2020,Mumbai,Used
+R-5952,D-1052,Food,544,6297.16,12/12/2022,Nashik,Used
+R-5953,D-1356,Shelter,963,41861.57,5/17/2004,Mumbai,Allocated
+R-5954,D-1539,Food,221,9013.27,12/13/2013,Nashik,Pending
+R-5955,D-1539,Water,426,2961.54,12/27/2019,Satara,Allocated
+R-5956,D-2959,Rescue Equipment,820,20843.31,9/18/2007,Satara,Allocated
+R-5957,D-1117,Water,794,35861.14,3/23/2005,Nashik,Used
+R-5958,D-2294,Water,669,6978.72,3/24/2016,Nagpur,Pending
+R-5959,D-2693,Clothing,20,32430.83,8/3/2011,Aurangabad,Allocated
+R-5960,D-1185,Shelter,184,14252.58,3/30/2019,Aurangabad,Allocated
+R-5961,D-2412,Food,179,32040.5,6/10/2005,Nagpur,Allocated
+R-5962,D-1749,Clothing,958,7084.07,11/28/2020,Kolhapur,Allocated
+R-5963,D-1321,Food,999,15839.46,10/8/2022,Solapur,Pending
+R-5964,D-2994,Rescue Equipment,541,196.39,8/3/2010,Mumbai,Used
+R-5965,D-1932,Clothing,979,2929.02,8/16/2017,Thane,Pending
+R-5966,D-2719,Shelter,997,20912.23,5/29/2013,Solapur,Allocated
+R-5967,D-1307,Rescue Equipment,261,32262.23,4/15/2010,Pune,Pending
+R-5968,D-1633,Shelter,273,41114.37,7/8/2023,Ratnagiri,Used
+R-5969,D-1562,Food,95,16916.25,8/19/2021,Solapur,Allocated
+R-5970,D-2670,Shelter,877,35062.0,12/30/2019,Nashik,Used
+R-5971,D-1019,Shelter,592,29506.6,5/15/2018,Nagpur,Used
+R-5972,D-1662,Shelter,880,12246.4,2/5/2020,Pune,Allocated
+R-5973,D-2506,Shelter,276,32569.02,9/8/2014,Solapur,Pending
+R-5974,D-2714,Medical Kits,651,3370.02,2/23/2023,Nagpur,Allocated
+R-5975,D-2118,Rescue Equipment,168,29147.29,7/7/2009,Kolhapur,Pending
+R-5976,D-2434,Rescue Equipment,248,12568.54,9/25/2016,Aurangabad,Pending
+R-5977,D-1355,Medical Kits,419,10265.82,8/24/2023,Thane,Used
+R-5978,D-1763,Food,742,48857.64,3/21/2016,Pune,Pending
+R-5979,D-2366,Food,271,27617.08,11/17/2012,Nagpur,Used
+R-5980,D-2229,Food,841,42702.54,10/10/2020,Aurangabad,Allocated
+R-5981,D-1393,Shelter,60,15041.04,2/13/2009,Aurangabad,Allocated
+R-5982,D-2403,Rescue Equipment,136,18441.87,6/17/2010,Nagpur,Pending
+R-5983,D-2906,Food,371,36491.86,2/21/2013,Ratnagiri,Allocated
+R-5984,D-1280,Clothing,279,48535.98,4/30/2018,Aurangabad,Allocated
+R-5985,D-1904,Water,332,2213.49,4/27/2008,Mumbai,Pending
+R-5986,D-1609,Food,219,9174.93,9/15/2021,Solapur,Allocated
+R-5987,D-1620,Medical Kits,700,17160.28,10/24/2009,Nashik,Used
+R-5988,D-1306,Food,788,20861.19,10/25/2009,Aurangabad,Allocated
+R-5989,D-2670,Shelter,154,33533.57,8/29/2020,Satara,Used
+R-5990,D-2361,Medical Kits,239,26717.06,9/28/2015,Pune,Allocated
+R-5991,D-2171,Clothing,261,44509.83,11/21/2006,Pune,Used
+R-5992,D-2933,Food,135,24218.36,4/29/2019,Thane,Used
+R-5993,D-1127,Shelter,366,49031.18,6/26/2005,Satara,Allocated
+R-5994,D-1419,Food,986,16276.97,4/2/2016,Solapur,Allocated
+R-5995,D-2000,Rescue Equipment,568,9551.48,12/31/2005,Solapur,Used
+R-5996,D-2379,Shelter,203,12197.89,7/17/2010,Thane,Pending
+R-5997,D-2573,Rescue Equipment,689,4555.15,1/5/2008,Nagpur,Pending
+R-5998,D-1361,Rescue Equipment,959,9865.16,3/10/2006,Satara,Pending
+R-5999,D-1110,Shelter,269,29140.96,12/2/2021,Solapur,Used
+R-6000,D-2128,Clothing,149,40102.42,8/30/2023,Mumbai,Pending
+R-6001,D-2088,Food,323,15322.6,5/2/2019,Aurangabad,Pending
+R-6002,D-2558,Medical Kits,920,3604.69,11/29/2005,Kolhapur,Pending
+R-6003,D-1328,Clothing,506,38493.62,7/16/2018,Pune,Pending
+R-6004,D-2872,Food,204,46693.01,11/12/2012,Pune,Allocated
+R-6005,D-1805,Medical Kits,97,42005.36,12/19/2021,Kolhapur,Used
+R-6006,D-2134,Water,796,7225.72,4/4/2015,Solapur,Used
+R-6007,D-1265,Water,539,28701.41,4/26/2015,Nagpur,Allocated
+R-6008,D-1591,Shelter,374,20539.06,12/13/2012,Thane,Pending
+R-6009,D-2085,Medical Kits,612,22941.06,1/23/2023,Kolhapur,Allocated
+R-6010,D-1304,Rescue Equipment,554,39956.3,11/18/2019,Aurangabad,Pending
+R-6011,D-1602,Shelter,664,15717.5,6/15/2012,Pune,Pending
+R-6012,D-2956,Clothing,39,47170.23,6/14/2015,Aurangabad,Allocated
+R-6013,D-2939,Medical Kits,251,9785.09,9/30/2017,Nashik,Used
+R-6014,D-1489,Medical Kits,285,28566.67,8/5/2018,Kolhapur,Allocated
+R-6015,D-2807,Food,688,46312.92,1/22/2011,Nashik,Allocated
+R-6016,D-2637,Rescue Equipment,838,22053.01,2/18/2015,Nagpur,Used
+R-6017,D-2648,Water,556,30711.66,12/23/2009,Pune,Used
+R-6018,D-1337,Shelter,648,14554.06,6/25/2006,Satara,Pending
+R-6019,D-2110,Food,397,37593.53,4/29/2013,Kolhapur,Used
+R-6020,D-2168,Clothing,582,33203.8,11/9/2019,Nashik,Allocated
+R-6021,D-1489,Rescue Equipment,217,38699.65,3/19/2005,Nashik,Used
+R-6022,D-2616,Water,898,26067.97,8/17/2005,Satara,Used
+R-6023,D-1750,Medical Kits,346,21234.34,12/13/2011,Solapur,Pending
+R-6024,D-1364,Rescue Equipment,383,48175.61,10/8/2020,Nagpur,Allocated
+R-6025,D-2305,Rescue Equipment,704,5662.59,8/18/2017,Nashik,Allocated
+R-6026,D-1403,Clothing,989,49733.57,2/19/2012,Aurangabad,Allocated
+R-6027,D-1432,Food,714,30088.85,11/18/2004,Nashik,Allocated
+R-6028,D-1793,Water,783,10109.52,10/27/2009,Nagpur,Pending
+R-6029,D-2772,Medical Kits,488,46029.96,3/27/2020,Ratnagiri,Allocated
+R-6030,D-2870,Shelter,819,816.21,10/7/2004,Mumbai,Used
+R-6031,D-2590,Food,136,45495.47,5/25/2007,Nagpur,Used
+R-6032,D-2849,Water,249,32357.38,2/9/2009,Ratnagiri,Pending
+R-6033,D-2253,Medical Kits,245,468.32,5/25/2004,Nashik,Pending
+R-6034,D-2472,Water,361,1138.22,7/27/2010,Kolhapur,Pending
+R-6035,D-2715,Water,402,46162.22,9/23/2004,Nagpur,Allocated
+R-6036,D-1879,Water,596,30691.42,1/4/2020,Aurangabad,Allocated
+R-6037,D-2363,Clothing,286,41964.05,11/11/2007,Nagpur,Used
+R-6038,D-2613,Water,312,3722.32,9/22/2021,Solapur,Allocated
+R-6039,D-1692,Medical Kits,150,23727.97,9/24/2009,Ratnagiri,Allocated
+R-6040,D-2918,Water,748,20344.29,6/26/2019,Ratnagiri,Allocated
+R-6041,D-2515,Clothing,598,40022.07,2/27/2005,Pune,Allocated
+R-6042,D-2472,Food,713,31786.19,7/16/2013,Satara,Allocated
+R-6043,D-1528,Food,67,17608.44,9/18/2004,Ratnagiri,Allocated
+R-6044,D-1734,Food,208,19416.59,6/10/2017,Pune,Allocated
+R-6045,D-2970,Food,854,43195.71,11/29/2019,Thane,Used
+R-6046,D-2324,Medical Kits,527,40322.32,5/27/2008,Mumbai,Pending
+R-6047,D-1963,Water,641,6553.67,11/22/2019,Satara,Used
+R-6048,D-2086,Rescue Equipment,612,10475.92,5/19/2006,Mumbai,Allocated
+R-6049,D-1695,Rescue Equipment,575,19643.76,4/12/2007,Pune,Pending
+R-6050,D-2919,Rescue Equipment,808,22223.47,4/18/2019,Nagpur,Used
+R-6051,D-1613,Food,395,6411.4,6/19/2021,Kolhapur,Pending
+R-6052,D-2044,Water,122,36261.85,1/29/2006,Kolhapur,Pending
+R-6053,D-2810,Medical Kits,989,10599.32,4/8/2023,Kolhapur,Pending
+R-6054,D-2525,Medical Kits,460,48242.26,2/19/2013,Kolhapur,Pending
+R-6055,D-2992,Shelter,858,31193.72,12/18/2018,Aurangabad,Used
+R-6056,D-2804,Shelter,310,47631.19,7/3/2020,Aurangabad,Used
+R-6057,D-2497,Clothing,328,41024.41,3/10/2021,Nashik,Pending
+R-6058,D-2280,Medical Kits,669,47183.93,3/18/2013,Satara,Used
+R-6059,D-1464,Clothing,345,11605.34,11/18/2020,Satara,Used
+R-6060,D-1442,Clothing,84,22937.69,5/21/2010,Aurangabad,Used
+R-6061,D-1875,Water,757,27027.02,10/27/2023,Kolhapur,Used
+R-6062,D-2932,Shelter,599,39730.21,9/21/2012,Ratnagiri,Pending
+R-6063,D-2077,Food,946,10259.93,11/1/2018,Satara,Allocated
+R-6064,D-2734,Food,251,9614.75,11/23/2017,Kolhapur,Pending
+R-6065,D-2670,Water,926,3090.35,10/19/2020,Kolhapur,Pending
+R-6066,D-2597,Rescue Equipment,690,26398.81,8/25/2008,Mumbai,Allocated
+R-6067,D-1532,Food,331,48996.86,12/25/2018,Solapur,Pending
+R-6068,D-2531,Medical Kits,824,2186.88,11/13/2021,Thane,Used
+R-6069,D-1856,Water,589,1912.15,9/1/2018,Kolhapur,Pending
+R-6070,D-1718,Shelter,938,12990.42,6/23/2018,Nagpur,Pending
+R-6071,D-1505,Shelter,549,44494.42,2/15/2008,Pune,Pending
+R-6072,D-2583,Rescue Equipment,200,17249.69,12/24/2006,Kolhapur,Allocated
+R-6073,D-2075,Medical Kits,823,7065.41,8/18/2004,Satara,Used
+R-6074,D-1501,Food,20,36490.21,11/8/2006,Mumbai,Used
+R-6075,D-2255,Shelter,196,30992.82,11/4/2009,Thane,Pending
+R-6076,D-2767,Shelter,355,36973.6,5/24/2005,Aurangabad,Used
+R-6077,D-1272,Clothing,971,24183.21,9/14/2019,Mumbai,Used
+R-6078,D-1741,Food,303,30717.65,12/18/2021,Mumbai,Used
+R-6079,D-2592,Clothing,488,37581.77,3/21/2017,Solapur,Used
+R-6080,D-1964,Medical Kits,165,39700.65,7/15/2013,Kolhapur,Pending
+R-6081,D-1119,Medical Kits,501,38546.28,3/10/2010,Thane,Used
+R-6082,D-1495,Clothing,848,45143.93,4/2/2012,Ratnagiri,Used
+R-6083,D-1569,Shelter,901,21477.9,10/20/2022,Nashik,Pending
+R-6084,D-2855,Food,190,36821.4,8/2/2011,Pune,Used
+R-6085,D-1797,Clothing,424,18457.98,6/20/2007,Nagpur,Allocated
+R-6086,D-1443,Food,17,12414.68,2/17/2023,Solapur,Used
+R-6087,D-2008,Rescue Equipment,634,44223.04,2/26/2016,Ratnagiri,Pending
+R-6088,D-1714,Shelter,769,924.36,7/27/2008,Ratnagiri,Pending
+R-6089,D-2932,Water,181,22013.7,5/24/2008,Pune,Pending
+R-6090,D-1317,Medical Kits,149,48438.95,2/25/2008,Mumbai,Allocated
+R-6091,D-1955,Medical Kits,558,14006.55,5/1/2008,Pune,Pending
+R-6092,D-1912,Medical Kits,769,11316.65,1/14/2020,Satara,Pending
+R-6093,D-2729,Rescue Equipment,749,39958.54,9/1/2016,Nagpur,Allocated
+R-6094,D-1983,Food,250,43272.72,9/26/2022,Mumbai,Pending
+R-6095,D-1526,Shelter,124,41268.93,8/20/2007,Mumbai,Allocated
+R-6096,D-2039,Medical Kits,239,11568.8,2/15/2021,Kolhapur,Pending
+R-6097,D-2048,Water,656,33985.62,11/27/2014,Pune,Pending
+R-6098,D-1962,Food,366,33225.17,5/27/2021,Pune,Allocated
+R-6099,D-2982,Medical Kits,749,37884.91,4/27/2007,Pune,Used
+R-6100,D-2282,Medical Kits,669,43471.63,4/6/2018,Ratnagiri,Allocated
+R-6101,D-2476,Rescue Equipment,971,42352.86,4/28/2010,Satara,Allocated
+R-6102,D-2041,Rescue Equipment,69,1053.79,4/22/2023,Mumbai,Pending
+R-6103,D-1148,Clothing,934,1699.5,4/9/2006,Mumbai,Pending
+R-6104,D-1195,Clothing,729,48014.5,2/4/2019,Mumbai,Used
+R-6105,D-2270,Clothing,928,19627.6,9/29/2008,Pune,Allocated
+R-6106,D-2067,Food,741,42314.77,12/12/2021,Aurangabad,Pending
+R-6107,D-1855,Water,900,38958.45,11/18/2008,Satara,Used
+R-6108,D-2469,Water,929,9947.98,4/25/2007,Ratnagiri,Pending
+R-6109,D-2231,Rescue Equipment,789,46001.07,5/15/2023,Ratnagiri,Pending
+R-6110,D-2060,Medical Kits,331,27609.0,3/9/2014,Thane,Used
+R-6111,D-2902,Shelter,464,43465.23,8/22/2014,Solapur,Allocated
+R-6112,D-2300,Shelter,73,12588.5,2/21/2007,Mumbai,Used
+R-6113,D-1068,Rescue Equipment,892,37698.1,6/5/2016,Mumbai,Pending
+R-6114,D-2971,Medical Kits,936,46356.88,11/23/2023,Nagpur,Used
+R-6115,D-1277,Shelter,585,10139.93,7/10/2023,Kolhapur,Allocated
+R-6116,D-2489,Shelter,841,18861.58,7/26/2023,Thane,Pending
+R-6117,D-2991,Medical Kits,872,10486.46,2/23/2006,Satara,Pending
+R-6118,D-2797,Rescue Equipment,318,25355.39,4/4/2023,Nashik,Allocated
+R-6119,D-2212,Food,464,6461.14,9/1/2006,Solapur,Used
+R-6120,D-2615,Shelter,155,30597.03,6/14/2022,Mumbai,Used
+R-6121,D-1411,Food,187,18657.53,9/6/2004,Nashik,Pending
+R-6122,D-1230,Clothing,612,36118.59,10/9/2022,Ratnagiri,Allocated
+R-6123,D-2033,Rescue Equipment,1000,2198.99,11/20/2015,Pune,Used
+R-6124,D-2416,Rescue Equipment,967,16119.33,7/26/2019,Solapur,Used
+R-6125,D-2380,Clothing,377,10582.14,9/22/2014,Thane,Pending
+R-6126,D-2087,Shelter,984,6409.04,4/19/2014,Mumbai,Used
+R-6127,D-2939,Rescue Equipment,673,16756.03,5/21/2007,Thane,Pending
+R-6128,D-1301,Rescue Equipment,616,25874.68,1/17/2007,Ratnagiri,Used
+R-6129,D-1339,Clothing,688,43179.26,12/18/2020,Solapur,Allocated
+R-6130,D-2052,Rescue Equipment,760,42823.32,4/6/2008,Kolhapur,Used
+R-6131,D-2443,Shelter,883,39956.82,11/15/2005,Solapur,Pending
+R-6132,D-2042,Rescue Equipment,891,48344.79,7/13/2018,Aurangabad,Pending
+R-6133,D-1516,Rescue Equipment,212,19940.46,11/14/2018,Kolhapur,Pending
+R-6134,D-1281,Clothing,718,14424.93,4/23/2018,Kolhapur,Allocated
+R-6135,D-1511,Food,532,11047.81,9/21/2007,Mumbai,Allocated
+R-6136,D-1850,Clothing,528,24357.36,12/28/2010,Nagpur,Pending
+R-6137,D-1650,Clothing,716,1040.93,6/19/2017,Nashik,Allocated
+R-6138,D-1050,Food,910,26188.09,3/23/2009,Nashik,Allocated
+R-6139,D-2231,Water,706,48416.22,5/6/2010,Nagpur,Allocated
+R-6140,D-1951,Medical Kits,290,2863.67,5/25/2013,Solapur,Allocated
+R-6141,D-1127,Food,489,22205.17,11/25/2013,Kolhapur,Allocated
+R-6142,D-2477,Clothing,41,19098.51,7/23/2008,Kolhapur,Allocated
+R-6143,D-2623,Rescue Equipment,954,26614.9,4/22/2021,Thane,Allocated
+R-6144,D-1880,Clothing,999,17351.9,9/7/2017,Nagpur,Allocated
+R-6145,D-1765,Shelter,25,24600.35,9/20/2015,Ratnagiri,Pending
+R-6146,D-1165,Water,977,31871.85,4/15/2022,Thane,Used
+R-6147,D-2919,Rescue Equipment,379,8643.6,5/22/2020,Solapur,Used
+R-6148,D-1168,Rescue Equipment,714,17024.84,3/21/2008,Mumbai,Allocated
+R-6149,D-2148,Food,21,4326.58,9/10/2011,Solapur,Pending
+R-6150,D-1051,Food,554,2558.95,9/24/2023,Satara,Allocated
+R-6151,D-1092,Rescue Equipment,459,45649.11,12/21/2010,Nagpur,Used
+R-6152,D-2202,Food,115,5358.45,10/6/2018,Kolhapur,Allocated
+R-6153,D-2070,Food,559,29365.39,10/18/2020,Solapur,Used
+R-6154,D-1238,Food,115,19883.33,12/18/2015,Nashik,Used
+R-6155,D-1887,Rescue Equipment,244,1552.51,5/30/2013,Mumbai,Pending
+R-6156,D-2085,Food,572,44762.75,10/19/2007,Pune,Allocated
+R-6157,D-2606,Clothing,544,36123.95,1/18/2013,Pune,Allocated
+R-6158,D-1960,Shelter,544,2384.59,10/19/2007,Satara,Used
+R-6159,D-1367,Clothing,47,2119.12,1/4/2006,Aurangabad,Pending
+R-6160,D-1640,Clothing,453,48860.38,11/15/2011,Kolhapur,Allocated
+R-6161,D-2238,Rescue Equipment,117,25722.03,12/29/2021,Nagpur,Pending
+R-6162,D-2456,Medical Kits,799,34720.86,7/13/2023,Ratnagiri,Used
+R-6163,D-1248,Food,827,17142.15,5/14/2006,Aurangabad,Used
+R-6164,D-2772,Water,654,26194.33,5/1/2004,Solapur,Pending
+R-6165,D-2860,Water,839,22678.6,3/25/2007,Solapur,Used
+R-6166,D-1731,Water,299,43610.7,12/20/2023,Thane,Allocated
+R-6167,D-1409,Medical Kits,603,7776.44,2/7/2006,Pune,Pending
+R-6168,D-2602,Medical Kits,69,18611.57,3/15/2015,Satara,Used
+R-6169,D-1401,Shelter,35,25628.83,1/17/2015,Satara,Used
+R-6170,D-2356,Clothing,362,23762.12,3/13/2004,Nashik,Used
+R-6171,D-2822,Food,535,29043.27,12/29/2013,Aurangabad,Allocated
+R-6172,D-2424,Shelter,372,24188.63,12/17/2015,Pune,Allocated
+R-6173,D-1903,Shelter,351,4752.97,11/17/2017,Nagpur,Used
+R-6174,D-1027,Water,259,31914.49,8/24/2021,Aurangabad,Pending
+R-6175,D-1051,Shelter,971,23075.6,9/27/2004,Pune,Pending
+R-6176,D-1166,Water,772,3521.22,9/16/2011,Nashik,Allocated
+R-6177,D-1697,Water,90,33627.31,2/8/2009,Solapur,Used
+R-6178,D-2497,Water,619,11960.5,7/13/2023,Thane,Used
+R-6179,D-2260,Shelter,829,20741.17,7/12/2013,Kolhapur,Allocated
+R-6180,D-2385,Rescue Equipment,376,11447.75,2/3/2012,Solapur,Pending
+R-6181,D-2466,Clothing,321,42457.15,2/6/2019,Nashik,Used
+R-6182,D-1522,Shelter,66,14642.7,10/26/2005,Thane,Allocated
+R-6183,D-1461,Rescue Equipment,135,37637.25,10/12/2007,Satara,Used
+R-6184,D-1337,Food,34,33721.88,9/15/2008,Ratnagiri,Pending
+R-6185,D-2740,Shelter,942,43072.92,9/29/2014,Solapur,Allocated
+R-6186,D-2368,Water,533,19555.69,12/10/2013,Nashik,Pending
+R-6187,D-1376,Rescue Equipment,577,5814.21,8/30/2007,Thane,Allocated
+R-6188,D-1400,Water,946,32738.23,1/10/2022,Satara,Used
+R-6189,D-1987,Water,391,38225.91,4/9/2023,Nagpur,Used
+R-6190,D-1888,Medical Kits,620,34737.52,12/19/2006,Mumbai,Used
+R-6191,D-1848,Clothing,118,14305.18,7/14/2018,Solapur,Used
+R-6192,D-1275,Food,941,18568.03,6/23/2016,Nagpur,Allocated
+R-6193,D-1600,Shelter,313,29605.32,2/3/2017,Ratnagiri,Used
+R-6194,D-1613,Food,22,8478.08,1/30/2010,Solapur,Pending
+R-6195,D-1443,Medical Kits,93,30047.08,1/6/2016,Satara,Allocated
+R-6196,D-1165,Rescue Equipment,155,46450.39,1/21/2011,Nagpur,Allocated
+R-6197,D-2743,Water,513,8581.48,7/15/2018,Ratnagiri,Pending
+R-6198,D-2968,Rescue Equipment,490,41300.89,11/15/2017,Aurangabad,Allocated
+R-6199,D-1316,Water,490,1221.98,5/28/2012,Solapur,Pending
+R-6200,D-2214,Food,748,35585.57,11/15/2014,Mumbai,Allocated
+R-6201,D-2978,Medical Kits,989,48118.86,4/9/2006,Solapur,Pending
+R-6202,D-2632,Water,543,4096.84,9/24/2017,Ratnagiri,Used
+R-6203,D-1483,Food,703,39510.94,4/28/2018,Nagpur,Allocated
+R-6204,D-2017,Clothing,475,3361.5,1/26/2009,Satara,Pending
+R-6205,D-2235,Clothing,507,1758.89,12/22/2014,Thane,Pending
+R-6206,D-1401,Food,999,22758.31,5/12/2016,Mumbai,Used
+R-6207,D-1941,Water,740,12111.58,1/26/2012,Ratnagiri,Allocated
+R-6208,D-2168,Rescue Equipment,341,4682.79,10/1/2017,Satara,Allocated
+R-6209,D-1264,Clothing,423,12575.33,10/24/2022,Aurangabad,Used
+R-6210,D-2413,Water,196,45020.12,9/12/2005,Pune,Allocated
+R-6211,D-2237,Rescue Equipment,729,12752.83,8/16/2012,Thane,Pending
+R-6212,D-1845,Clothing,746,47305.07,3/11/2012,Aurangabad,Used
+R-6213,D-1714,Shelter,857,21292.61,1/10/2019,Solapur,Allocated
+R-6214,D-1128,Water,497,30597.7,6/1/2005,Pune,Allocated
+R-6215,D-1088,Medical Kits,103,42509.74,6/22/2020,Satara,Pending
+R-6216,D-2033,Clothing,581,12996.3,7/10/2020,Nagpur,Allocated
+R-6217,D-2518,Clothing,82,22071.03,8/28/2012,Nagpur,Allocated
+R-6218,D-1794,Food,805,22800.71,10/15/2017,Mumbai,Used
+R-6219,D-2131,Water,577,14509.83,9/3/2014,Satara,Pending
+R-6220,D-2417,Clothing,276,39832.54,1/18/2018,Mumbai,Used
+R-6221,D-2004,Water,666,21735.3,4/23/2009,Satara,Pending
+R-6222,D-1398,Water,965,16628.31,7/13/2007,Nagpur,Pending
+R-6223,D-2888,Clothing,896,4390.56,6/7/2005,Nagpur,Used
+R-6224,D-1656,Water,685,24532.2,11/7/2022,Ratnagiri,Allocated
+R-6225,D-2998,Water,757,18171.79,12/21/2017,Satara,Allocated
+R-6226,D-2868,Shelter,101,33565.4,5/21/2019,Kolhapur,Pending
+R-6227,D-2537,Medical Kits,464,10533.58,7/30/2023,Thane,Pending
+R-6228,D-2333,Medical Kits,466,13106.18,1/8/2013,Kolhapur,Allocated
+R-6229,D-1366,Food,758,31495.78,6/1/2015,Kolhapur,Pending
+R-6230,D-1995,Shelter,321,27362.96,9/20/2018,Aurangabad,Allocated
+R-6231,D-2859,Shelter,141,14933.27,3/1/2005,Mumbai,Pending
+R-6232,D-1308,Food,92,9669.65,4/5/2017,Solapur,Pending
+R-6233,D-1175,Medical Kits,970,22669.44,7/3/2012,Mumbai,Used
+R-6234,D-1608,Shelter,805,27538.42,12/9/2011,Aurangabad,Used
+R-6235,D-1853,Clothing,511,12225.26,12/16/2009,Thane,Allocated
+R-6236,D-2115,Food,79,19684.87,12/27/2004,Nashik,Used
+R-6237,D-1865,Food,26,28919.87,9/6/2008,Nagpur,Used
+R-6238,D-1649,Medical Kits,710,5763.48,2/28/2012,Nashik,Pending
+R-6239,D-1194,Rescue Equipment,644,46771.47,5/18/2019,Solapur,Used
+R-6240,D-1454,Rescue Equipment,13,18176.23,3/13/2012,Aurangabad,Pending
+R-6241,D-2408,Clothing,62,12220.09,6/8/2023,Nashik,Pending
+R-6242,D-2728,Rescue Equipment,129,15682.72,5/18/2006,Pune,Used
+R-6243,D-1788,Water,222,15771.56,9/7/2012,Mumbai,Allocated
+R-6244,D-1351,Food,755,46373.16,5/30/2015,Solapur,Used
+R-6245,D-2939,Food,142,36006.65,7/23/2020,Mumbai,Used
+R-6246,D-2903,Food,12,25606.92,11/16/2017,Nashik,Pending
+R-6247,D-2404,Food,704,22074.68,10/11/2018,Mumbai,Pending
+R-6248,D-1199,Clothing,137,17513.53,4/24/2014,Nagpur,Allocated
+R-6249,D-1830,Shelter,540,28849.84,4/1/2005,Thane,Used
+R-6250,D-1593,Rescue Equipment,636,7808.02,3/24/2021,Pune,Used
+R-6251,D-2747,Clothing,918,3754.92,7/20/2023,Nagpur,Pending
+R-6252,D-2909,Clothing,753,40682.44,1/13/2009,Kolhapur,Pending
+R-6253,D-1511,Shelter,281,24287.64,2/21/2018,Kolhapur,Used
+R-6254,D-1498,Clothing,744,18829.67,8/8/2017,Kolhapur,Allocated
+R-6255,D-2918,Water,504,9668.51,12/1/2010,Pune,Used
+R-6256,D-1951,Rescue Equipment,740,40048.84,5/23/2005,Nagpur,Used
+R-6257,D-1904,Medical Kits,320,42920.79,12/28/2023,Nashik,Allocated
+R-6258,D-2097,Water,219,18519.16,12/9/2013,Nashik,Used
+R-6259,D-1451,Medical Kits,75,14205.68,11/22/2013,Nashik,Used
+R-6260,D-1245,Water,924,17379.54,4/17/2016,Satara,Pending
+R-6261,D-1131,Food,237,39386.97,7/12/2020,Ratnagiri,Pending
+R-6262,D-2442,Medical Kits,59,36726.49,3/14/2007,Solapur,Used
+R-6263,D-2598,Clothing,289,15425.8,3/10/2022,Ratnagiri,Used
+R-6264,D-2722,Medical Kits,620,36627.73,7/21/2004,Solapur,Used
+R-6265,D-1363,Clothing,831,27661.87,6/21/2023,Kolhapur,Used
+R-6266,D-1299,Shelter,287,20136.74,5/13/2013,Ratnagiri,Allocated
+R-6267,D-2575,Food,353,32102.19,4/30/2009,Thane,Allocated
+R-6268,D-1398,Clothing,393,39081.39,1/11/2007,Mumbai,Pending
+R-6269,D-1854,Clothing,637,16547.02,11/2/2015,Kolhapur,Allocated
+R-6270,D-1674,Shelter,771,41400.61,8/16/2009,Mumbai,Used
+R-6271,D-2807,Food,280,42088.89,9/22/2013,Kolhapur,Pending
+R-6272,D-1883,Rescue Equipment,385,20769.53,8/16/2017,Solapur,Used
+R-6273,D-1947,Water,15,29080.25,6/24/2019,Thane,Used
+R-6274,D-2409,Shelter,694,8498.7,6/13/2004,Satara,Used
+R-6275,D-1535,Rescue Equipment,190,27986.39,1/29/2018,Kolhapur,Used
+R-6276,D-1448,Clothing,352,31402.46,6/17/2014,Nashik,Pending
+R-6277,D-2467,Water,218,48634.67,7/17/2022,Mumbai,Pending
+R-6278,D-2419,Clothing,865,22583.03,12/21/2010,Nashik,Used
+R-6279,D-2580,Medical Kits,416,10637.47,3/28/2012,Mumbai,Allocated
+R-6280,D-1765,Clothing,710,20858.14,8/23/2019,Pune,Used
+R-6281,D-2839,Water,72,10756.03,10/6/2014,Mumbai,Pending
+R-6282,D-2788,Food,852,43080.94,10/17/2007,Nagpur,Pending
+R-6283,D-1440,Clothing,729,18698.46,9/23/2006,Mumbai,Used
+R-6284,D-1659,Rescue Equipment,891,5606.79,11/28/2004,Satara,Pending
+R-6285,D-2944,Clothing,106,46916.13,11/16/2016,Ratnagiri,Pending
+R-6286,D-1643,Rescue Equipment,305,34900.07,5/2/2012,Mumbai,Allocated
+R-6287,D-2565,Medical Kits,963,21467.24,11/30/2007,Nagpur,Pending
+R-6288,D-1899,Food,880,19547.44,9/11/2017,Kolhapur,Allocated
+R-6289,D-1469,Medical Kits,609,38503.01,8/12/2021,Solapur,Used
+R-6290,D-1089,Food,107,35013.59,3/16/2014,Ratnagiri,Allocated
+R-6291,D-2892,Medical Kits,497,30148.06,1/10/2012,Ratnagiri,Pending
+R-6292,D-2262,Rescue Equipment,178,8043.97,12/17/2022,Aurangabad,Allocated
+R-6293,D-2306,Rescue Equipment,544,4755.0,10/29/2008,Solapur,Pending
+R-6294,D-2685,Medical Kits,895,9538.5,12/29/2019,Ratnagiri,Pending
+R-6295,D-2440,Water,607,8952.86,10/28/2008,Aurangabad,Pending
+R-6296,D-1742,Shelter,647,43787.51,9/2/2005,Nagpur,Pending
+R-6297,D-2145,Clothing,956,5677.35,9/30/2005,Thane,Allocated
+R-6298,D-2785,Food,663,47420.74,8/3/2014,Pune,Pending
+R-6299,D-1812,Clothing,200,28128.86,3/6/2020,Nashik,Pending
+R-6300,D-1951,Shelter,517,32993.77,1/10/2007,Ratnagiri,Pending
+R-6301,D-2882,Food,232,7471.55,2/3/2007,Satara,Used
+R-6302,D-2092,Rescue Equipment,117,29723.78,7/28/2021,Pune,Used
+R-6303,D-2479,Water,183,37486.54,3/20/2018,Satara,Pending
+R-6304,D-2142,Clothing,683,42523.75,11/14/2016,Solapur,Used
+R-6305,D-2685,Shelter,134,2670.81,1/8/2017,Nagpur,Allocated
+R-6306,D-1877,Food,249,2000.59,6/20/2023,Mumbai,Pending
+R-6307,D-2630,Rescue Equipment,737,4295.46,9/9/2007,Aurangabad,Used
+R-6308,D-2467,Clothing,243,5796.9,9/8/2018,Aurangabad,Pending
+R-6309,D-1902,Water,596,6357.87,11/15/2023,Nagpur,Pending
+R-6310,D-2575,Medical Kits,757,7860.76,7/31/2009,Aurangabad,Used
+R-6311,D-1768,Medical Kits,827,30872.39,4/22/2007,Ratnagiri,Pending
+R-6312,D-2769,Medical Kits,628,13000.83,4/4/2008,Ratnagiri,Pending
+R-6313,D-2802,Clothing,494,31276.33,5/5/2005,Nashik,Used
+R-6314,D-2689,Food,44,49428.96,2/20/2006,Mumbai,Pending
+R-6315,D-2421,Rescue Equipment,102,45851.25,8/11/2020,Aurangabad,Allocated
+R-6316,D-1802,Medical Kits,418,29247.48,9/17/2023,Pune,Used
+R-6317,D-2039,Rescue Equipment,297,13870.33,8/22/2015,Satara,Used
+R-6318,D-2428,Food,36,8321.11,11/7/2014,Ratnagiri,Allocated
+R-6319,D-2771,Rescue Equipment,875,30954.17,9/16/2008,Kolhapur,Used
+R-6320,D-1850,Clothing,908,47416.56,7/21/2016,Mumbai,Allocated
+R-6321,D-1162,Clothing,228,15888.25,6/24/2023,Mumbai,Pending
+R-6322,D-1003,Rescue Equipment,158,26214.26,5/22/2010,Thane,Pending
+R-6323,D-2924,Clothing,220,31814.25,4/25/2015,Kolhapur,Used
+R-6324,D-2219,Food,886,34344.89,1/25/2019,Satara,Used
+R-6325,D-1483,Clothing,813,4325.07,3/5/2018,Nashik,Used
+R-6326,D-1942,Rescue Equipment,173,42442.74,5/27/2012,Kolhapur,Used
+R-6327,D-2997,Medical Kits,983,20295.38,6/6/2017,Mumbai,Allocated
+R-6328,D-1990,Shelter,18,1000.43,6/2/2020,Nagpur,Used
+R-6329,D-2019,Water,342,46484.33,12/7/2016,Aurangabad,Used
+R-6330,D-2952,Shelter,604,20780.81,12/6/2020,Satara,Used
+R-6331,D-1283,Rescue Equipment,792,44519.57,1/8/2008,Pune,Pending
+R-6332,D-2289,Clothing,120,49917.15,10/10/2016,Satara,Pending
+R-6333,D-1033,Rescue Equipment,280,49091.87,1/27/2006,Nashik,Allocated
+R-6334,D-1116,Food,987,38783.69,7/13/2004,Nashik,Used
+R-6335,D-1880,Rescue Equipment,273,10552.15,12/15/2015,Kolhapur,Used
+R-6336,D-1692,Shelter,667,46211.66,10/5/2010,Mumbai,Allocated
+R-6337,D-2196,Medical Kits,148,10046.0,10/8/2007,Mumbai,Allocated
+R-6338,D-2408,Rescue Equipment,346,24828.54,4/20/2017,Aurangabad,Pending
+R-6339,D-2078,Rescue Equipment,221,26176.41,12/19/2021,Solapur,Used
+R-6340,D-2797,Shelter,420,25969.8,7/21/2021,Mumbai,Pending
+R-6341,D-1360,Water,921,6659.57,7/19/2012,Solapur,Used
+R-6342,D-1164,Water,755,48798.45,5/5/2012,Satara,Allocated
+R-6343,D-2831,Water,659,43343.35,7/26/2013,Mumbai,Allocated
+R-6344,D-1196,Shelter,44,32303.29,8/19/2005,Mumbai,Allocated
+R-6345,D-1575,Food,126,7304.59,3/21/2019,Solapur,Allocated
+R-6346,D-1276,Shelter,949,34424.74,5/21/2012,Nashik,Used
+R-6347,D-1820,Water,281,806.5,11/4/2014,Pune,Used
+R-6348,D-2651,Water,245,30516.89,11/7/2018,Thane,Used
+R-6349,D-2590,Water,801,21942.02,10/11/2014,Solapur,Pending
+R-6350,D-1370,Clothing,37,6788.74,11/22/2015,Ratnagiri,Allocated
+R-6351,D-1308,Clothing,848,38924.93,6/28/2006,Nagpur,Pending
+R-6352,D-2706,Water,199,46866.4,12/19/2022,Pune,Used
+R-6353,D-2658,Clothing,313,3516.06,8/18/2021,Nashik,Pending
+R-6354,D-1296,Shelter,580,21518.78,12/10/2019,Nashik,Pending
+R-6355,D-1252,Water,313,9865.82,12/9/2017,Thane,Pending
+R-6356,D-1327,Food,67,11917.54,10/15/2007,Ratnagiri,Allocated
+R-6357,D-1042,Food,927,4088.22,8/25/2023,Mumbai,Pending
+R-6358,D-2423,Rescue Equipment,83,29807.1,8/13/2011,Aurangabad,Pending
+R-6359,D-2308,Medical Kits,617,45441.77,9/12/2013,Kolhapur,Pending
+R-6360,D-2883,Food,395,7408.13,8/31/2017,Satara,Pending
+R-6361,D-2964,Water,633,18403.46,12/19/2010,Nashik,Pending
+R-6362,D-2739,Shelter,571,11179.17,11/29/2022,Nashik,Allocated
+R-6363,D-1985,Shelter,564,4218.96,5/17/2005,Kolhapur,Used
+R-6364,D-2448,Medical Kits,885,36016.4,2/11/2004,Solapur,Allocated
+R-6365,D-2879,Medical Kits,791,25122.67,2/9/2016,Satara,Allocated
+R-6366,D-2875,Medical Kits,415,26140.9,7/10/2005,Kolhapur,Pending
+R-6367,D-2084,Rescue Equipment,258,4110.7,3/22/2004,Pune,Allocated
+R-6368,D-2809,Rescue Equipment,124,43117.85,8/30/2012,Thane,Allocated
+R-6369,D-1716,Medical Kits,698,12196.62,2/3/2020,Nashik,Allocated
+R-6370,D-2362,Food,565,28226.35,9/13/2023,Pune,Used
+R-6371,D-1199,Shelter,283,7962.56,10/15/2014,Ratnagiri,Pending
+R-6372,D-2628,Clothing,449,37419.38,11/26/2013,Kolhapur,Allocated
+R-6373,D-2238,Medical Kits,711,5237.18,7/17/2005,Mumbai,Pending
+R-6374,D-1364,Water,238,31424.07,3/10/2016,Nagpur,Pending
+R-6375,D-2849,Clothing,366,12389.02,8/22/2013,Aurangabad,Used
+R-6376,D-1179,Rescue Equipment,107,42456.2,4/10/2020,Ratnagiri,Pending
+R-6377,D-2635,Medical Kits,25,20597.09,4/2/2013,Mumbai,Pending
+R-6378,D-2002,Medical Kits,433,14932.23,10/23/2009,Aurangabad,Used
+R-6379,D-1101,Water,462,6257.92,10/7/2008,Thane,Allocated
+R-6380,D-2690,Clothing,478,28181.89,8/16/2020,Nagpur,Allocated
+R-6381,D-2851,Rescue Equipment,994,47501.63,10/4/2018,Ratnagiri,Pending
+R-6382,D-1733,Rescue Equipment,633,47243.43,8/22/2010,Nashik,Used
+R-6383,D-2073,Rescue Equipment,967,23282.11,8/4/2011,Solapur,Allocated
+R-6384,D-2345,Water,841,3614.89,5/31/2006,Satara,Pending
+R-6385,D-1047,Medical Kits,201,49448.41,4/15/2022,Kolhapur,Used
+R-6386,D-2055,Water,264,31106.8,10/18/2005,Ratnagiri,Used
+R-6387,D-2580,Medical Kits,628,43524.94,10/29/2007,Ratnagiri,Allocated
+R-6388,D-1920,Clothing,878,46383.35,12/15/2008,Satara,Used
+R-6389,D-1592,Shelter,690,37393.22,4/29/2010,Thane,Pending
+R-6390,D-2237,Water,791,28292.96,1/8/2022,Ratnagiri,Pending
+R-6391,D-1435,Water,595,35376.35,3/12/2017,Nashik,Allocated
+R-6392,D-1589,Food,769,27823.93,10/3/2016,Pune,Pending
+R-6393,D-2988,Shelter,259,17505.95,7/17/2011,Aurangabad,Pending
+R-6394,D-1017,Food,581,47286.75,8/18/2014,Thane,Used
+R-6395,D-2229,Rescue Equipment,573,21704.47,12/10/2016,Kolhapur,Used
+R-6396,D-2302,Medical Kits,432,45170.24,4/19/2020,Thane,Allocated
+R-6397,D-2285,Medical Kits,24,42234.76,12/4/2008,Kolhapur,Used
+R-6398,D-1817,Water,910,32471.49,2/23/2005,Kolhapur,Allocated
+R-6399,D-1428,Water,663,19761.51,5/4/2005,Aurangabad,Used
+R-6400,D-2744,Shelter,241,27490.08,4/4/2011,Solapur,Allocated
+R-6401,D-2688,Water,554,48308.38,6/16/2006,Thane,Allocated
+R-6402,D-2666,Clothing,674,36240.7,10/21/2015,Solapur,Pending
+R-6403,D-2194,Food,636,27145.35,2/12/2013,Satara,Allocated
+R-6404,D-1929,Medical Kits,582,25789.03,9/26/2018,Kolhapur,Used
+R-6405,D-1506,Water,162,27770.82,1/18/2015,Nashik,Used
+R-6406,D-2597,Medical Kits,873,41236.53,5/29/2017,Pune,Pending
+R-6407,D-2750,Rescue Equipment,232,44811.19,2/3/2011,Pune,Allocated
+R-6408,D-2086,Food,109,49534.39,8/20/2018,Mumbai,Pending
+R-6409,D-2092,Clothing,907,37332.27,11/10/2019,Kolhapur,Allocated
+R-6410,D-2618,Rescue Equipment,874,36486.3,3/10/2012,Solapur,Pending
+R-6411,D-2645,Food,906,3532.62,11/12/2009,Pune,Pending
+R-6412,D-2228,Food,322,23848.58,5/19/2023,Nagpur,Pending
+R-6413,D-2728,Food,793,15381.95,3/3/2008,Kolhapur,Allocated
+R-6414,D-1778,Medical Kits,716,46448.1,11/2/2006,Thane,Pending
+R-6415,D-2732,Clothing,798,26044.27,6/21/2020,Solapur,Pending
+R-6416,D-2550,Medical Kits,988,37343.92,10/24/2009,Nashik,Allocated
+R-6417,D-2235,Water,22,26098.41,9/3/2010,Nashik,Used
+R-6418,D-1792,Rescue Equipment,624,35695.96,12/23/2017,Aurangabad,Used
+R-6419,D-2639,Rescue Equipment,225,1666.6,7/4/2008,Satara,Allocated
+R-6420,D-1727,Clothing,99,45320.59,9/26/2010,Solapur,Allocated
+R-6421,D-2823,Shelter,986,20629.67,7/31/2017,Solapur,Allocated
+R-6422,D-2994,Water,250,47452.15,2/21/2016,Thane,Allocated
+R-6423,D-2985,Food,196,28630.62,5/15/2008,Solapur,Allocated
+R-6424,D-2311,Medical Kits,939,39723.28,4/2/2006,Aurangabad,Used
+R-6425,D-2044,Water,480,25651.2,4/25/2005,Satara,Allocated
+R-6426,D-1714,Rescue Equipment,977,7134.12,12/22/2020,Aurangabad,Used
+R-6427,D-2798,Medical Kits,574,36736.32,2/7/2021,Nashik,Used
+R-6428,D-2258,Water,46,39445.75,7/13/2007,Mumbai,Pending
+R-6429,D-2171,Clothing,255,21169.41,6/6/2007,Kolhapur,Allocated
+R-6430,D-2031,Clothing,969,15075.73,1/30/2008,Mumbai,Pending
+R-6431,D-2518,Clothing,32,36280.0,11/4/2014,Kolhapur,Allocated
+R-6432,D-2722,Clothing,651,13326.56,9/29/2011,Pune,Pending
+R-6433,D-2124,Food,200,13156.29,11/21/2017,Satara,Allocated
+R-6434,D-2572,Medical Kits,594,44592.52,2/20/2023,Kolhapur,Used
+R-6435,D-1629,Medical Kits,256,16098.54,11/5/2007,Solapur,Allocated
+R-6436,D-2537,Water,819,31457.54,9/4/2008,Nagpur,Pending
+R-6437,D-1609,Shelter,656,16695.67,12/22/2005,Nashik,Allocated
+R-6438,D-1899,Food,486,8845.67,2/19/2018,Nagpur,Used
+R-6439,D-2600,Shelter,471,33657.17,7/10/2005,Ratnagiri,Used
+R-6440,D-1413,Rescue Equipment,392,26823.81,2/28/2005,Pune,Allocated
+R-6441,D-2815,Water,266,16398.47,11/23/2020,Mumbai,Allocated
+R-6442,D-2111,Rescue Equipment,863,49469.67,5/19/2014,Ratnagiri,Pending
+R-6443,D-1692,Shelter,110,17787.82,6/8/2015,Nagpur,Pending
+R-6444,D-1594,Water,282,38814.42,11/10/2009,Nashik,Allocated
+R-6445,D-1060,Water,724,2107.58,5/4/2010,Nagpur,Allocated
+R-6446,D-2734,Rescue Equipment,651,754.64,5/7/2021,Thane,Used
+R-6447,D-2872,Medical Kits,581,48615.05,6/20/2004,Ratnagiri,Pending
+R-6448,D-2189,Food,533,18924.86,10/29/2007,Nagpur,Used
+R-6449,D-2534,Medical Kits,759,11873.1,10/7/2005,Nashik,Pending
+R-6450,D-1854,Clothing,411,17726.8,3/17/2022,Nagpur,Used
+R-6451,D-1091,Water,567,3804.66,8/1/2004,Solapur,Used
+R-6452,D-1657,Water,849,37513.09,6/27/2011,Kolhapur,Used
+R-6453,D-2193,Medical Kits,703,9847.97,8/14/2005,Mumbai,Pending
+R-6454,D-2843,Food,546,3734.33,8/30/2022,Thane,Used
+R-6455,D-1874,Food,623,43040.36,3/7/2011,Nashik,Allocated
+R-6456,D-1864,Medical Kits,787,5445.68,2/3/2018,Aurangabad,Used
+R-6457,D-2375,Shelter,976,12478.16,12/7/2021,Thane,Pending
+R-6458,D-2991,Rescue Equipment,599,34761.7,6/12/2017,Thane,Pending
+R-6459,D-2873,Water,830,31021.0,3/17/2012,Nashik,Allocated
+R-6460,D-2620,Shelter,657,43851.79,4/25/2020,Aurangabad,Pending
+R-6461,D-2946,Food,517,2557.12,9/17/2020,Aurangabad,Used
+R-6462,D-1131,Medical Kits,338,2818.3,12/15/2017,Nagpur,Pending
+R-6463,D-1600,Medical Kits,957,16441.51,6/8/2014,Thane,Pending
+R-6464,D-1392,Shelter,322,44240.9,8/4/2006,Solapur,Used
+R-6465,D-1383,Shelter,862,40472.61,8/13/2012,Satara,Pending
+R-6466,D-1616,Water,806,31693.15,4/15/2019,Pune,Pending
+R-6467,D-2291,Shelter,119,3431.04,5/23/2017,Nagpur,Used
+R-6468,D-1155,Water,903,43688.56,4/30/2004,Nagpur,Used
+R-6469,D-1165,Food,968,43641.6,7/4/2017,Mumbai,Pending
+R-6470,D-2644,Food,751,31153.6,12/21/2023,Ratnagiri,Used
+R-6471,D-1809,Medical Kits,810,20841.45,10/24/2008,Mumbai,Allocated
+R-6472,D-2992,Shelter,822,49635.61,6/21/2012,Nashik,Used
+R-6473,D-2099,Food,43,39712.7,11/29/2012,Pune,Allocated
+R-6474,D-1396,Clothing,545,49204.51,5/22/2005,Nagpur,Pending
+R-6475,D-2131,Food,1000,49181.41,12/30/2004,Nashik,Pending
+R-6476,D-1545,Medical Kits,561,14746.28,7/4/2014,Solapur,Pending
+R-6477,D-1012,Clothing,176,32949.46,8/14/2013,Satara,Used
+R-6478,D-2468,Clothing,895,35633.56,9/29/2014,Satara,Allocated
+R-6479,D-2132,Clothing,933,157.22,9/19/2014,Ratnagiri,Pending
+R-6480,D-1949,Clothing,926,48939.39,5/23/2011,Pune,Pending
+R-6481,D-2129,Medical Kits,478,5064.31,3/23/2006,Ratnagiri,Used
+R-6482,D-1715,Clothing,511,17602.98,1/19/2012,Thane,Used
+R-6483,D-1100,Food,69,45751.64,2/21/2008,Ratnagiri,Allocated
+R-6484,D-1916,Clothing,21,49795.56,1/17/2009,Ratnagiri,Allocated
+R-6485,D-2685,Clothing,558,41964.44,4/7/2005,Satara,Pending
+R-6486,D-1617,Clothing,574,19777.79,11/19/2018,Solapur,Pending
+R-6487,D-1822,Rescue Equipment,297,31214.45,8/29/2022,Kolhapur,Pending
+R-6488,D-2003,Rescue Equipment,652,11644.49,11/3/2017,Solapur,Allocated
+R-6489,D-2143,Water,11,43603.59,1/19/2019,Nagpur,Pending
+R-6490,D-2926,Shelter,29,25708.71,4/24/2020,Ratnagiri,Allocated
+R-6491,D-1517,Clothing,823,47475.59,8/15/2017,Solapur,Allocated
+R-6492,D-2876,Rescue Equipment,711,6381.53,12/29/2015,Ratnagiri,Pending
+R-6493,D-1290,Water,820,9456.88,5/20/2022,Aurangabad,Used
+R-6494,D-2022,Shelter,873,27456.24,6/5/2014,Kolhapur,Pending
+R-6495,D-1367,Shelter,775,44405.44,5/19/2014,Aurangabad,Allocated
+R-6496,D-1186,Shelter,13,5916.11,5/27/2019,Satara,Pending
+R-6497,D-2973,Food,577,16643.71,12/24/2023,Solapur,Used
+R-6498,D-2735,Shelter,930,42063.66,7/1/2019,Thane,Pending
+R-6499,D-1505,Clothing,792,37531.87,10/31/2004,Solapur,Pending
+R-6500,D-2095,Shelter,334,34507.67,6/21/2021,Kolhapur,Used
+R-6501,D-2896,Shelter,848,17569.68,9/28/2014,Nagpur,Allocated
+R-6502,D-2537,Clothing,417,22840.49,3/23/2010,Pune,Used
+R-6503,D-1672,Medical Kits,91,4131.28,5/9/2023,Mumbai,Allocated
+R-6504,D-2784,Medical Kits,987,31175.92,9/15/2019,Nashik,Allocated
+R-6505,D-2118,Shelter,94,7331.49,8/31/2013,Nagpur,Used
+R-6506,D-1181,Medical Kits,912,16260.77,1/23/2010,Mumbai,Pending
+R-6507,D-2759,Water,83,9828.33,10/29/2004,Kolhapur,Used
+R-6508,D-2618,Rescue Equipment,424,26699.21,9/22/2008,Nashik,Pending
+R-6509,D-1313,Clothing,606,32891.92,9/25/2010,Pune,Pending
+R-6510,D-1839,Medical Kits,680,2286.47,5/17/2017,Solapur,Used
+R-6511,D-1792,Medical Kits,572,34608.67,10/31/2016,Nagpur,Pending
+R-6512,D-1787,Shelter,969,28624.08,2/19/2016,Ratnagiri,Used
+R-6513,D-2487,Water,965,43863.08,2/15/2016,Aurangabad,Allocated
+R-6514,D-1229,Shelter,644,8593.02,8/15/2006,Mumbai,Pending
+R-6515,D-1758,Clothing,467,32887.37,11/21/2023,Mumbai,Allocated
+R-6516,D-1089,Medical Kits,615,26050.31,3/16/2019,Nashik,Allocated
+R-6517,D-2221,Water,545,44813.56,5/18/2015,Mumbai,Pending
+R-6518,D-1197,Shelter,365,31793.11,4/13/2005,Ratnagiri,Used
+R-6519,D-1528,Clothing,259,12058.06,7/8/2021,Solapur,Pending
+R-6520,D-1675,Water,108,41879.78,5/16/2021,Ratnagiri,Used
+R-6521,D-2282,Water,891,22573.56,6/9/2017,Aurangabad,Pending
+R-6522,D-2913,Water,267,45494.8,8/15/2016,Mumbai,Pending
+R-6523,D-2085,Food,166,46577.56,2/23/2012,Kolhapur,Used
+R-6524,D-2644,Medical Kits,669,8752.06,10/14/2018,Aurangabad,Pending
+R-6525,D-2250,Food,781,5624.89,5/3/2020,Thane,Allocated
+R-6526,D-2738,Rescue Equipment,970,46367.91,1/6/2018,Aurangabad,Allocated
+R-6527,D-1768,Food,518,46976.86,10/14/2004,Pune,Used
+R-6528,D-1554,Rescue Equipment,647,18960.44,4/4/2007,Aurangabad,Used
+R-6529,D-1638,Medical Kits,124,30607.18,7/17/2020,Aurangabad,Allocated
+R-6530,D-2799,Medical Kits,938,4180.8,4/11/2013,Nagpur,Pending
+R-6531,D-2665,Medical Kits,186,27230.52,2/5/2016,Kolhapur,Allocated
+R-6532,D-2340,Food,907,22617.1,4/1/2015,Ratnagiri,Pending
+R-6533,D-1466,Clothing,703,47585.1,11/5/2023,Nashik,Allocated
+R-6534,D-1994,Water,177,25276.19,6/10/2019,Thane,Pending
+R-6535,D-2479,Clothing,17,21964.23,12/23/2004,Nashik,Used
+R-6536,D-2983,Medical Kits,963,26831.43,10/6/2022,Nagpur,Allocated
+R-6537,D-1097,Food,857,1205.51,9/26/2004,Solapur,Used
+R-6538,D-2962,Food,901,11366.46,3/23/2005,Kolhapur,Used
+R-6539,D-2971,Rescue Equipment,538,39284.35,5/10/2020,Mumbai,Used
+R-6540,D-2218,Medical Kits,262,22265.94,4/23/2014,Nagpur,Pending
+R-6541,D-1230,Clothing,482,48866.68,12/27/2022,Nashik,Pending
+R-6542,D-2985,Rescue Equipment,243,40980.9,1/3/2011,Aurangabad,Allocated
+R-6543,D-2502,Shelter,725,46383.93,1/26/2012,Kolhapur,Pending
+R-6544,D-1985,Clothing,867,3680.74,8/7/2022,Kolhapur,Allocated
+R-6545,D-1283,Rescue Equipment,254,18830.96,5/19/2023,Aurangabad,Used
+R-6546,D-2459,Shelter,899,14344.0,8/31/2023,Nashik,Pending
+R-6547,D-2344,Medical Kits,655,3988.91,5/28/2006,Satara,Used
+R-6548,D-1155,Clothing,380,44042.01,9/10/2013,Ratnagiri,Used
+R-6549,D-1250,Shelter,556,49018.94,9/3/2010,Pune,Used
+R-6550,D-2103,Rescue Equipment,306,25853.54,1/6/2005,Aurangabad,Pending
+R-6551,D-2889,Shelter,863,28982.19,5/2/2007,Mumbai,Pending
+R-6552,D-2780,Shelter,444,33044.09,4/23/2021,Aurangabad,Pending
+R-6553,D-2469,Rescue Equipment,586,41789.68,6/13/2005,Solapur,Used
+R-6554,D-2171,Medical Kits,725,1570.04,1/26/2009,Satara,Allocated
+R-6555,D-1159,Food,612,5639.68,10/19/2006,Aurangabad,Used
+R-6556,D-1946,Rescue Equipment,140,14068.89,6/6/2013,Nashik,Pending
+R-6557,D-1125,Clothing,493,32849.41,4/20/2019,Aurangabad,Used
+R-6558,D-2821,Clothing,278,16893.5,3/12/2008,Aurangabad,Pending
+R-6559,D-2778,Food,443,1314.53,8/23/2015,Kolhapur,Allocated
+R-6560,D-2660,Food,559,34318.27,8/6/2020,Satara,Used
+R-6561,D-1102,Clothing,755,46646.89,4/23/2007,Satara,Pending
+R-6562,D-1364,Shelter,196,32087.18,8/17/2018,Nagpur,Allocated
+R-6563,D-1272,Food,309,14552.88,12/28/2019,Solapur,Used
+R-6564,D-1471,Water,316,23182.04,7/7/2016,Nashik,Pending
+R-6565,D-1542,Rescue Equipment,588,15170.53,3/24/2018,Ratnagiri,Pending
+R-6566,D-1182,Shelter,820,12751.75,5/11/2009,Solapur,Pending
+R-6567,D-1391,Medical Kits,28,20707.2,8/7/2018,Ratnagiri,Allocated
+R-6568,D-1650,Rescue Equipment,80,27091.55,11/27/2023,Pune,Allocated
+R-6569,D-1280,Clothing,630,49439.59,4/27/2004,Satara,Allocated
+R-6570,D-1898,Rescue Equipment,430,15721.65,11/19/2007,Pune,Pending
+R-6571,D-2770,Clothing,253,35315.16,2/10/2005,Mumbai,Used
+R-6572,D-2493,Clothing,852,6475.97,1/21/2011,Kolhapur,Allocated
+R-6573,D-1537,Water,53,14771.68,9/27/2007,Nashik,Allocated
+R-6574,D-1421,Clothing,812,30907.27,1/9/2007,Ratnagiri,Used
+R-6575,D-1075,Medical Kits,646,4308.03,6/17/2008,Mumbai,Used
+R-6576,D-2662,Rescue Equipment,920,24858.59,8/28/2013,Solapur,Pending
+R-6577,D-2646,Food,602,35252.7,7/17/2012,Nashik,Allocated
+R-6578,D-1373,Water,927,36694.32,5/16/2006,Thane,Allocated
+R-6579,D-2877,Water,632,44149.25,11/2/2017,Aurangabad,Allocated
+R-6580,D-1355,Clothing,387,38569.91,6/10/2013,Kolhapur,Used
+R-6581,D-2682,Water,472,19862.63,10/28/2022,Pune,Pending
+R-6582,D-1858,Food,891,30322.76,1/27/2006,Thane,Allocated
+R-6583,D-1920,Food,690,27076.49,2/22/2022,Solapur,Used
+R-6584,D-2793,Clothing,85,23235.58,3/6/2015,Aurangabad,Used
+R-6585,D-1088,Water,704,2972.32,11/8/2022,Aurangabad,Pending
+R-6586,D-2509,Medical Kits,564,7786.95,7/13/2018,Satara,Allocated
+R-6587,D-2506,Clothing,574,33142.87,5/14/2018,Aurangabad,Allocated
+R-6588,D-2747,Medical Kits,531,2089.09,2/29/2016,Ratnagiri,Allocated
+R-6589,D-1800,Rescue Equipment,770,33258.91,5/10/2012,Satara,Used
+R-6590,D-2014,Water,367,41658.0,3/11/2004,Thane,Used
+R-6591,D-2315,Medical Kits,964,45446.95,9/10/2019,Satara,Pending
+R-6592,D-2832,Rescue Equipment,125,25898.01,5/31/2012,Mumbai,Pending
+R-6593,D-1459,Rescue Equipment,794,20678.28,6/11/2023,Pune,Allocated
+R-6594,D-2794,Medical Kits,716,34609.24,9/23/2013,Pune,Allocated
+R-6595,D-2631,Rescue Equipment,511,29639.58,10/22/2010,Nashik,Used
+R-6596,D-1360,Food,655,393.4,3/2/2005,Kolhapur,Allocated
+R-6597,D-1335,Shelter,36,30976.05,9/11/2015,Nagpur,Used
+R-6598,D-1012,Food,620,4960.16,1/20/2019,Solapur,Pending
+R-6599,D-2469,Food,518,5678.47,10/21/2011,Nashik,Used
+R-6600,D-1015,Water,614,25286.44,6/3/2006,Nashik,Allocated
+R-6601,D-1703,Clothing,651,4489.29,12/7/2016,Mumbai,Pending
+R-6602,D-2537,Shelter,683,14883.64,9/30/2016,Nagpur,Pending
+R-6603,D-1415,Food,105,42776.71,9/18/2016,Nagpur,Used
+R-6604,D-2148,Medical Kits,673,1057.66,2/2/2009,Kolhapur,Pending
+R-6605,D-1029,Rescue Equipment,996,5442.15,10/27/2016,Aurangabad,Used
+R-6606,D-1845,Food,562,20078.16,10/11/2017,Ratnagiri,Allocated
+R-6607,D-2032,Rescue Equipment,877,6528.23,11/27/2011,Satara,Pending
+R-6608,D-1248,Medical Kits,623,41002.35,8/7/2006,Nashik,Allocated
+R-6609,D-1478,Clothing,942,14258.57,3/8/2021,Aurangabad,Used
+R-6610,D-1454,Water,152,11365.68,2/15/2012,Nashik,Allocated
+R-6611,D-2088,Water,616,38896.87,5/29/2023,Ratnagiri,Used
+R-6612,D-2909,Shelter,886,17494.52,5/2/2016,Pune,Used
+R-6613,D-2864,Water,979,23710.29,1/1/2009,Aurangabad,Pending
+R-6614,D-1138,Rescue Equipment,961,3369.84,3/23/2013,Aurangabad,Allocated
+R-6615,D-2509,Medical Kits,146,4649.14,8/30/2020,Satara,Allocated
+R-6616,D-1482,Food,274,46765.03,9/27/2015,Ratnagiri,Used
+R-6617,D-2909,Clothing,520,28398.78,5/26/2010,Aurangabad,Used
+R-6618,D-1455,Clothing,791,40544.0,8/17/2013,Ratnagiri,Pending
+R-6619,D-1169,Shelter,676,22677.13,6/1/2010,Mumbai,Pending
+R-6620,D-1521,Food,362,28783.57,4/14/2023,Mumbai,Pending
+R-6621,D-2447,Food,822,9228.32,5/15/2005,Kolhapur,Pending
+R-6622,D-1488,Rescue Equipment,691,6455.56,12/24/2022,Satara,Used
+R-6623,D-2832,Shelter,12,32586.1,5/23/2007,Nashik,Used
+R-6624,D-2044,Shelter,764,32708.94,7/6/2019,Mumbai,Used
+R-6625,D-1571,Shelter,289,32290.31,8/16/2004,Mumbai,Pending
+R-6626,D-2800,Rescue Equipment,181,1279.46,12/22/2015,Kolhapur,Allocated
+R-6627,D-2876,Food,692,34909.94,2/16/2004,Satara,Used
+R-6628,D-2995,Water,315,31960.09,2/18/2018,Kolhapur,Used
+R-6629,D-2606,Clothing,997,15311.4,6/20/2023,Thane,Pending
+R-6630,D-1210,Food,877,3625.22,8/17/2015,Kolhapur,Allocated
+R-6631,D-1649,Shelter,509,16687.73,10/2/2022,Aurangabad,Allocated
+R-6632,D-2467,Food,941,22659.21,2/25/2014,Thane,Pending
+R-6633,D-2145,Clothing,328,4920.08,11/1/2023,Solapur,Pending
+R-6634,D-1229,Clothing,291,15975.96,4/29/2013,Ratnagiri,Allocated
+R-6635,D-1073,Water,450,45356.2,10/21/2015,Nashik,Pending
+R-6636,D-2111,Rescue Equipment,849,396.58,2/22/2021,Satara,Allocated
+R-6637,D-1158,Water,226,18993.69,2/19/2009,Solapur,Allocated
+R-6638,D-1803,Rescue Equipment,181,32149.72,2/25/2018,Thane,Allocated
+R-6639,D-2089,Rescue Equipment,926,34675.72,1/5/2005,Mumbai,Allocated
+R-6640,D-1645,Food,406,39004.67,1/8/2008,Mumbai,Pending
+R-6641,D-2365,Clothing,427,2664.76,5/7/2018,Kolhapur,Allocated
+R-6642,D-1759,Rescue Equipment,539,45197.31,8/25/2010,Thane,Used
+R-6643,D-2362,Water,266,23265.57,12/13/2011,Mumbai,Used
+R-6644,D-2584,Shelter,829,16792.03,7/2/2016,Kolhapur,Used
+R-6645,D-2584,Shelter,614,13635.58,10/27/2014,Ratnagiri,Used
+R-6646,D-1679,Water,549,46265.61,11/19/2018,Mumbai,Allocated
+R-6647,D-1524,Food,626,29373.18,4/23/2021,Ratnagiri,Pending
+R-6648,D-1235,Clothing,807,31192.94,11/23/2018,Thane,Pending
+R-6649,D-1038,Shelter,89,38682.78,7/4/2021,Pune,Used
+R-6650,D-1335,Medical Kits,861,19099.02,8/27/2019,Satara,Pending
+R-6651,D-1400,Medical Kits,379,40873.64,6/2/2023,Thane,Used
+R-6652,D-1629,Food,942,15486.6,11/28/2009,Solapur,Pending
+R-6653,D-2951,Clothing,613,33926.87,9/11/2015,Satara,Used
+R-6654,D-2771,Medical Kits,948,5945.26,8/1/2005,Pune,Pending
+R-6655,D-1462,Water,856,24969.86,1/5/2015,Nashik,Used
+R-6656,D-2941,Rescue Equipment,220,39686.65,6/2/2012,Satara,Allocated
+R-6657,D-2951,Shelter,969,3522.23,5/8/2021,Kolhapur,Allocated
+R-6658,D-2591,Water,604,12321.92,4/6/2007,Ratnagiri,Pending
+R-6659,D-2338,Medical Kits,156,6561.51,2/9/2015,Satara,Used
+R-6660,D-1317,Medical Kits,304,12743.53,11/26/2015,Ratnagiri,Used
+R-6661,D-2821,Rescue Equipment,656,23193.18,11/30/2008,Ratnagiri,Pending
+R-6662,D-1024,Shelter,581,974.15,4/24/2017,Aurangabad,Allocated
+R-6663,D-1155,Rescue Equipment,585,31353.58,7/1/2011,Nagpur,Pending
+R-6664,D-2425,Water,781,1614.13,5/6/2012,Solapur,Allocated
+R-6665,D-2088,Rescue Equipment,69,24219.44,12/22/2013,Pune,Used
+R-6666,D-1490,Rescue Equipment,823,41505.97,9/11/2013,Thane,Used
+R-6667,D-1112,Water,308,1350.21,12/6/2005,Kolhapur,Pending
+R-6668,D-1587,Food,930,17898.46,9/30/2015,Ratnagiri,Allocated
+R-6669,D-2058,Rescue Equipment,615,25140.16,9/6/2015,Mumbai,Pending
+R-6670,D-2980,Clothing,148,15666.57,4/16/2017,Thane,Allocated
+R-6671,D-1254,Food,23,35240.37,6/2/2020,Satara,Allocated
+R-6672,D-1708,Rescue Equipment,393,2382.61,7/30/2016,Satara,Used
+R-6673,D-1874,Shelter,963,18978.23,12/14/2010,Satara,Pending
+R-6674,D-1235,Medical Kits,734,32452.53,7/2/2015,Mumbai,Pending
+R-6675,D-2534,Medical Kits,618,30385.26,3/28/2023,Thane,Allocated
+R-6676,D-2912,Shelter,585,14458.86,1/2/2013,Mumbai,Pending
+R-6677,D-2242,Clothing,392,355.38,4/16/2023,Aurangabad,Allocated
+R-6678,D-2918,Medical Kits,639,15933.49,2/4/2006,Kolhapur,Used
+R-6679,D-1846,Rescue Equipment,521,22064.99,1/2/2011,Nashik,Used
+R-6680,D-2844,Rescue Equipment,479,33890.72,7/5/2011,Solapur,Allocated
+R-6681,D-1547,Medical Kits,683,40152.88,11/2/2014,Ratnagiri,Pending
+R-6682,D-2340,Water,371,4647.13,5/1/2023,Kolhapur,Used
+R-6683,D-2041,Water,404,10104.82,4/26/2017,Mumbai,Allocated
+R-6684,D-1887,Rescue Equipment,848,32966.55,10/26/2023,Satara,Allocated
+R-6685,D-1223,Clothing,720,35568.95,5/8/2022,Mumbai,Allocated
+R-6686,D-2391,Food,985,37375.43,10/9/2020,Solapur,Used
+R-6687,D-2942,Shelter,351,35749.83,8/7/2010,Ratnagiri,Used
+R-6688,D-2867,Food,695,32448.42,2/18/2005,Ratnagiri,Used
+R-6689,D-2530,Shelter,959,43926.55,7/2/2012,Satara,Used
+R-6690,D-2848,Shelter,637,38541.85,11/11/2022,Satara,Allocated
+R-6691,D-2795,Food,777,13399.61,10/12/2010,Pune,Pending
+R-6692,D-1958,Water,473,25632.24,1/16/2023,Pune,Used
+R-6693,D-1833,Rescue Equipment,581,27470.02,4/11/2011,Ratnagiri,Allocated
+R-6694,D-2446,Rescue Equipment,134,31631.8,9/22/2015,Thane,Pending
+R-6695,D-1421,Clothing,370,15073.77,10/17/2014,Aurangabad,Pending
+R-6696,D-2082,Water,596,13257.67,7/2/2015,Kolhapur,Used
+R-6697,D-2730,Clothing,263,756.62,12/3/2011,Solapur,Used
+R-6698,D-2282,Shelter,190,42102.5,4/12/2022,Solapur,Used
+R-6699,D-2476,Rescue Equipment,855,20875.85,2/26/2012,Aurangabad,Allocated
+R-6700,D-1740,Shelter,817,17893.14,3/14/2019,Pune,Allocated
+R-6701,D-2133,Food,599,37677.19,6/30/2008,Thane,Used
+R-6702,D-1185,Shelter,702,43559.24,1/23/2021,Nashik,Used
+R-6703,D-2496,Food,856,43050.28,10/18/2017,Satara,Used
+R-6704,D-2792,Clothing,464,40173.93,1/31/2017,Nashik,Pending
+R-6705,D-1069,Food,848,20588.92,1/23/2023,Nagpur,Allocated
+R-6706,D-1561,Food,414,23361.51,2/28/2013,Nashik,Allocated
+R-6707,D-2268,Medical Kits,224,31838.36,5/24/2014,Mumbai,Pending
+R-6708,D-1138,Medical Kits,156,45940.79,5/8/2007,Solapur,Pending
+R-6709,D-2168,Water,904,30152.43,4/25/2011,Pune,Allocated
+R-6710,D-1805,Medical Kits,646,26585.93,1/15/2014,Solapur,Pending
+R-6711,D-2864,Food,34,17453.66,3/18/2008,Thane,Pending
+R-6712,D-1543,Rescue Equipment,544,14803.66,7/16/2023,Nashik,Allocated
+R-6713,D-1269,Clothing,539,8215.12,10/10/2008,Kolhapur,Allocated
+R-6714,D-1294,Shelter,770,38497.41,6/19/2005,Aurangabad,Used
+R-6715,D-2407,Shelter,621,11499.77,7/22/2007,Nagpur,Used
+R-6716,D-1915,Shelter,747,3999.86,5/30/2004,Aurangabad,Allocated
+R-6717,D-1996,Clothing,434,10900.37,3/14/2018,Solapur,Pending
+R-6718,D-1442,Medical Kits,704,27584.28,6/27/2011,Thane,Used
+R-6719,D-2624,Food,54,24033.9,7/16/2005,Solapur,Used
+R-6720,D-2360,Food,311,19826.61,8/30/2005,Ratnagiri,Allocated
+R-6721,D-1726,Shelter,245,24506.83,11/20/2008,Thane,Allocated
+R-6722,D-2989,Shelter,766,20292.58,7/10/2007,Ratnagiri,Used
+R-6723,D-2803,Rescue Equipment,207,49867.04,3/3/2005,Aurangabad,Pending
+R-6724,D-1115,Water,517,18847.27,4/27/2020,Satara,Pending
+R-6725,D-2089,Medical Kits,695,13602.12,12/10/2008,Satara,Pending
+R-6726,D-1148,Shelter,158,37346.11,6/3/2010,Kolhapur,Allocated
+R-6727,D-2742,Rescue Equipment,827,21630.64,4/27/2019,Ratnagiri,Pending
+R-6728,D-1639,Rescue Equipment,583,45126.51,1/21/2021,Mumbai,Used
+R-6729,D-2951,Clothing,768,8831.4,6/1/2009,Nashik,Allocated
+R-6730,D-2623,Clothing,909,16806.72,8/31/2005,Satara,Used
+R-6731,D-1362,Shelter,725,35404.52,1/3/2006,Nagpur,Pending
+R-6732,D-1461,Rescue Equipment,250,40206.2,12/13/2016,Ratnagiri,Used
+R-6733,D-1828,Medical Kits,708,27092.4,11/13/2008,Nagpur,Pending
+R-6734,D-2887,Food,101,28241.97,2/10/2021,Kolhapur,Allocated
+R-6735,D-1483,Food,443,18559.42,9/18/2023,Ratnagiri,Pending
+R-6736,D-2045,Water,437,8953.54,8/23/2012,Thane,Used
+R-6737,D-1178,Clothing,681,49770.42,11/25/2018,Aurangabad,Allocated
+R-6738,D-2918,Rescue Equipment,890,28524.2,6/23/2006,Thane,Allocated
+R-6739,D-2962,Water,477,13048.84,10/2/2004,Kolhapur,Pending
+R-6740,D-1862,Clothing,150,14330.3,8/30/2023,Pune,Pending
+R-6741,D-1649,Food,56,26743.65,3/15/2015,Solapur,Pending
+R-6742,D-1722,Water,980,30868.72,4/21/2010,Nashik,Allocated
+R-6743,D-2188,Rescue Equipment,609,34635.0,12/7/2007,Pune,Pending
+R-6744,D-1399,Shelter,739,27660.89,9/22/2015,Pune,Used
+R-6745,D-1438,Shelter,216,45381.98,5/29/2005,Thane,Pending
+R-6746,D-2852,Water,171,41527.92,4/5/2023,Thane,Allocated
+R-6747,D-1830,Medical Kits,829,26949.7,3/29/2013,Aurangabad,Used
+R-6748,D-1511,Shelter,583,13201.37,9/26/2021,Pune,Pending
+R-6749,D-2792,Clothing,665,32934.19,2/6/2016,Satara,Allocated
+R-6750,D-1307,Food,182,43271.31,6/14/2004,Thane,Allocated
+R-6751,D-2650,Food,337,20795.04,1/23/2013,Mumbai,Pending
+R-6752,D-1047,Water,809,10943.74,5/27/2020,Satara,Pending
+R-6753,D-2605,Water,209,28817.69,2/24/2018,Solapur,Used
+R-6754,D-2426,Clothing,550,36632.56,1/30/2023,Kolhapur,Pending
+R-6755,D-1546,Medical Kits,921,26312.55,9/23/2020,Kolhapur,Pending
+R-6756,D-1240,Medical Kits,708,38112.93,2/6/2006,Aurangabad,Pending
+R-6757,D-1502,Shelter,387,8438.16,6/11/2004,Pune,Pending
+R-6758,D-1902,Rescue Equipment,822,21022.24,11/11/2008,Aurangabad,Used
+R-6759,D-1073,Clothing,120,5361.95,9/26/2023,Thane,Pending
+R-6760,D-2509,Shelter,673,1585.48,9/10/2004,Nashik,Pending
+R-6761,D-1016,Medical Kits,630,34413.3,4/29/2006,Mumbai,Allocated
+R-6762,D-2256,Water,261,40354.33,9/7/2005,Aurangabad,Allocated
+R-6763,D-1479,Water,607,20532.34,7/30/2012,Satara,Used
+R-6764,D-1337,Clothing,182,44928.53,8/5/2015,Kolhapur,Allocated
+R-6765,D-2627,Food,65,40417.99,9/29/2023,Nagpur,Pending
+R-6766,D-2331,Food,895,34697.95,10/17/2018,Aurangabad,Used
+R-6767,D-1444,Clothing,451,27852.23,5/5/2019,Thane,Used
+R-6768,D-1270,Rescue Equipment,877,37493.58,2/11/2010,Nagpur,Allocated
+R-6769,D-1812,Water,368,5256.99,10/11/2007,Kolhapur,Allocated
+R-6770,D-2439,Water,627,36595.48,3/3/2023,Thane,Used
+R-6771,D-2496,Rescue Equipment,855,35300.32,7/10/2015,Nagpur,Allocated
+R-6772,D-1130,Food,49,42484.83,8/6/2019,Satara,Used
+R-6773,D-2956,Food,58,26428.3,4/20/2016,Kolhapur,Allocated
+R-6774,D-2894,Shelter,392,8446.5,9/2/2021,Nagpur,Used
+R-6775,D-2600,Rescue Equipment,191,25698.72,2/8/2018,Aurangabad,Used
+R-6776,D-1814,Shelter,345,42150.97,9/12/2019,Nashik,Pending
+R-6777,D-1011,Shelter,601,26170.85,11/15/2022,Nagpur,Allocated
+R-6778,D-1113,Shelter,529,12043.18,12/28/2013,Solapur,Allocated
+R-6779,D-2025,Clothing,164,36764.75,10/13/2023,Mumbai,Pending
+R-6780,D-1283,Medical Kits,113,46922.76,9/24/2023,Solapur,Allocated
+R-6781,D-1871,Rescue Equipment,239,21348.46,8/18/2005,Nashik,Used
+R-6782,D-2778,Food,947,14969.99,11/22/2018,Nagpur,Allocated
+R-6783,D-2917,Clothing,412,14084.16,7/17/2022,Aurangabad,Pending
+R-6784,D-1710,Medical Kits,562,1977.31,6/26/2014,Satara,Used
+R-6785,D-1939,Medical Kits,574,36400.21,9/6/2006,Solapur,Used
+R-6786,D-2902,Rescue Equipment,442,23416.87,9/17/2017,Kolhapur,Used
+R-6787,D-1070,Clothing,483,23938.06,12/17/2023,Nagpur,Pending
+R-6788,D-2085,Food,848,1411.36,6/15/2005,Solapur,Pending
+R-6789,D-2689,Shelter,611,44970.86,10/17/2018,Aurangabad,Pending
+R-6790,D-2909,Food,655,19565.74,10/7/2010,Aurangabad,Allocated
+R-6791,D-2559,Medical Kits,114,37870.94,2/16/2005,Thane,Pending
+R-6792,D-1520,Food,14,42578.91,7/11/2009,Nagpur,Pending
+R-6793,D-1785,Water,847,22185.64,3/9/2016,Satara,Pending
+R-6794,D-2649,Shelter,222,37266.11,7/26/2007,Mumbai,Used
+R-6795,D-2403,Water,110,17155.26,6/18/2005,Thane,Pending
+R-6796,D-2616,Medical Kits,687,9043.0,7/28/2017,Aurangabad,Pending
+R-6797,D-2263,Clothing,787,21846.31,1/6/2004,Solapur,Allocated
+R-6798,D-1250,Shelter,600,3530.34,10/4/2021,Kolhapur,Used
+R-6799,D-2084,Food,701,28903.72,2/3/2014,Thane,Pending
+R-6800,D-1850,Shelter,480,7005.7,5/13/2021,Aurangabad,Used
+R-6801,D-1305,Clothing,689,2345.41,11/3/2007,Mumbai,Used
+R-6802,D-1292,Rescue Equipment,915,17591.06,11/16/2016,Mumbai,Pending
+R-6803,D-1143,Shelter,152,43672.34,6/1/2012,Aurangabad,Pending
+R-6804,D-2369,Shelter,783,45651.85,4/20/2006,Satara,Allocated
+R-6805,D-1963,Medical Kits,799,48573.0,7/12/2010,Pune,Allocated
+R-6806,D-2553,Clothing,39,46050.25,6/19/2013,Satara,Pending
+R-6807,D-2352,Water,659,4411.57,4/9/2010,Nashik,Allocated
+R-6808,D-2414,Clothing,14,32599.69,4/29/2013,Kolhapur,Used
+R-6809,D-2924,Water,395,30434.34,7/19/2011,Thane,Pending
+R-6810,D-1843,Rescue Equipment,302,21785.78,7/29/2008,Ratnagiri,Used
+R-6811,D-2086,Food,781,22077.22,5/20/2007,Thane,Allocated
+R-6812,D-2770,Rescue Equipment,90,12972.22,5/13/2010,Pune,Allocated
+R-6813,D-2348,Food,987,25225.0,7/16/2005,Mumbai,Used
+R-6814,D-2346,Water,127,5149.9,7/12/2016,Pune,Allocated
+R-6815,D-2347,Rescue Equipment,698,21637.22,6/3/2014,Nagpur,Used
+R-6816,D-2962,Rescue Equipment,811,49660.65,4/27/2017,Satara,Allocated
+R-6817,D-2931,Water,487,736.77,3/22/2010,Mumbai,Allocated
+R-6818,D-2482,Medical Kits,13,38318.72,10/20/2004,Thane,Pending
+R-6819,D-1434,Shelter,171,48031.58,1/15/2015,Solapur,Pending
+R-6820,D-1869,Shelter,118,17485.0,9/20/2008,Satara,Used
+R-6821,D-1343,Shelter,664,39382.03,8/19/2023,Aurangabad,Allocated
+R-6822,D-1273,Food,893,389.73,3/7/2012,Aurangabad,Pending
+R-6823,D-1699,Shelter,284,11466.79,2/15/2010,Ratnagiri,Used
+R-6824,D-1393,Medical Kits,890,29964.96,3/19/2018,Pune,Pending
+R-6825,D-1145,Shelter,362,22288.31,12/14/2014,Thane,Allocated
+R-6826,D-2022,Food,577,26696.94,8/5/2015,Pune,Used
+R-6827,D-2013,Rescue Equipment,856,9133.82,7/22/2017,Kolhapur,Allocated
+R-6828,D-2569,Rescue Equipment,500,42851.94,9/20/2007,Mumbai,Pending
+R-6829,D-1316,Food,515,18772.93,1/14/2005,Nagpur,Used
+R-6830,D-2034,Rescue Equipment,979,35116.28,8/21/2015,Pune,Used
+R-6831,D-2521,Food,815,26805.59,4/9/2023,Mumbai,Pending
+R-6832,D-1335,Shelter,427,41009.34,7/3/2011,Kolhapur,Pending
+R-6833,D-2475,Food,520,12183.96,3/1/2007,Pune,Allocated
+R-6834,D-2237,Shelter,762,3419.35,10/9/2011,Nashik,Used
+R-6835,D-1812,Rescue Equipment,573,22261.45,8/10/2023,Pune,Used
+R-6836,D-1513,Rescue Equipment,320,7544.16,4/2/2005,Thane,Used
+R-6837,D-1984,Rescue Equipment,65,44788.98,9/17/2021,Solapur,Allocated
+R-6838,D-1982,Rescue Equipment,137,6145.1,12/23/2017,Satara,Pending
+R-6839,D-2849,Clothing,205,8731.27,2/17/2008,Kolhapur,Pending
+R-6840,D-2081,Food,223,7522.93,11/6/2021,Solapur,Allocated
+R-6841,D-2143,Water,517,26714.97,8/22/2018,Solapur,Used
+R-6842,D-2370,Shelter,973,21487.08,4/2/2021,Satara,Used
+R-6843,D-1025,Medical Kits,605,20496.64,8/27/2004,Pune,Pending
+R-6844,D-2564,Shelter,603,8124.56,7/19/2022,Ratnagiri,Allocated
+R-6845,D-1194,Medical Kits,445,3269.33,2/3/2011,Pune,Pending
+R-6846,D-1660,Clothing,329,22517.44,8/17/2020,Solapur,Used
+R-6847,D-1022,Rescue Equipment,174,12875.33,12/31/2009,Pune,Used
+R-6848,D-2262,Food,975,2786.04,7/24/2008,Nagpur,Pending
+R-6849,D-1616,Clothing,361,16960.61,4/2/2010,Satara,Allocated
+R-6850,D-1879,Shelter,753,30752.92,10/20/2005,Satara,Allocated
+R-6851,D-2721,Food,261,37735.1,3/8/2023,Nagpur,Allocated
+R-6852,D-2041,Clothing,841,32237.77,9/15/2021,Solapur,Allocated
+R-6853,D-1241,Rescue Equipment,511,36886.18,1/9/2020,Ratnagiri,Pending
+R-6854,D-2425,Medical Kits,564,10157.22,3/16/2010,Solapur,Used
+R-6855,D-1420,Shelter,287,28571.59,8/28/2015,Mumbai,Used
+R-6856,D-1021,Medical Kits,299,1092.27,1/11/2015,Kolhapur,Pending
+R-6857,D-2573,Water,516,4415.89,9/15/2013,Ratnagiri,Allocated
+R-6858,D-2195,Medical Kits,728,29192.93,3/27/2008,Aurangabad,Used
+R-6859,D-1905,Shelter,472,42669.2,2/21/2012,Nagpur,Used
+R-6860,D-2093,Medical Kits,528,47128.82,11/4/2007,Satara,Used
+R-6861,D-1999,Shelter,754,20657.06,7/19/2019,Kolhapur,Pending
+R-6862,D-2440,Medical Kits,332,16505.01,11/28/2010,Kolhapur,Pending
+R-6863,D-2043,Medical Kits,380,9457.74,6/18/2006,Mumbai,Allocated
+R-6864,D-2491,Rescue Equipment,25,45396.38,7/14/2005,Solapur,Used
+R-6865,D-1639,Medical Kits,63,47773.33,8/12/2012,Kolhapur,Pending
+R-6866,D-2523,Rescue Equipment,704,34606.82,1/23/2008,Aurangabad,Pending
+R-6867,D-2944,Rescue Equipment,125,43494.93,8/1/2020,Nagpur,Used
+R-6868,D-2902,Medical Kits,13,31140.32,7/21/2004,Nagpur,Allocated
+R-6869,D-1719,Shelter,15,1191.9,11/10/2021,Satara,Pending
+R-6870,D-2906,Medical Kits,298,7477.95,6/20/2011,Solapur,Used
+R-6871,D-2835,Shelter,70,22210.5,7/19/2011,Aurangabad,Allocated
+R-6872,D-1993,Clothing,926,6099.06,3/18/2008,Pune,Pending
+R-6873,D-2740,Food,938,48906.39,3/26/2008,Pune,Allocated
+R-6874,D-1464,Food,598,27913.93,7/7/2009,Nashik,Allocated
+R-6875,D-2162,Clothing,808,34195.82,11/19/2014,Thane,Allocated
+R-6876,D-2375,Water,272,5814.52,3/27/2012,Mumbai,Allocated
+R-6877,D-2660,Water,65,17862.11,7/26/2014,Mumbai,Allocated
+R-6878,D-2741,Clothing,880,18336.69,4/14/2005,Aurangabad,Allocated
+R-6879,D-1388,Medical Kits,264,25110.66,6/20/2019,Satara,Allocated
+R-6880,D-2110,Water,523,22550.45,5/31/2021,Ratnagiri,Allocated
+R-6881,D-1274,Food,468,36705.91,10/17/2010,Kolhapur,Allocated
+R-6882,D-2854,Medical Kits,643,26652.1,7/29/2004,Nashik,Pending
+R-6883,D-1249,Rescue Equipment,283,24344.31,6/16/2008,Kolhapur,Pending
+R-6884,D-2671,Rescue Equipment,752,20566.72,12/20/2017,Kolhapur,Used
+R-6885,D-1727,Water,768,12318.75,9/27/2022,Thane,Used
+R-6886,D-2061,Rescue Equipment,916,15703.42,10/25/2019,Kolhapur,Used
+R-6887,D-2716,Rescue Equipment,162,16979.67,9/24/2013,Nashik,Pending
+R-6888,D-1492,Rescue Equipment,63,45909.26,1/13/2010,Mumbai,Pending
+R-6889,D-2009,Medical Kits,345,7606.4,1/24/2009,Pune,Pending
+R-6890,D-1620,Rescue Equipment,846,6172.09,2/1/2013,Aurangabad,Allocated
+R-6891,D-2413,Shelter,122,48185.76,4/17/2007,Ratnagiri,Pending
+R-6892,D-2315,Shelter,28,34701.73,6/7/2007,Pune,Pending
+R-6893,D-1071,Shelter,649,42904.43,10/27/2018,Solapur,Allocated
+R-6894,D-2993,Clothing,305,24754.61,12/21/2018,Kolhapur,Pending
+R-6895,D-1994,Rescue Equipment,341,27418.38,3/26/2017,Kolhapur,Pending
+R-6896,D-1102,Shelter,934,4658.49,12/31/2015,Nagpur,Allocated
+R-6897,D-1847,Water,540,2805.43,6/5/2011,Solapur,Allocated
+R-6898,D-1718,Medical Kits,675,5509.6,2/1/2016,Ratnagiri,Allocated
+R-6899,D-2875,Rescue Equipment,969,22037.1,9/26/2017,Satara,Used
+R-6900,D-2808,Water,721,30157.0,5/9/2018,Satara,Allocated
+R-6901,D-2166,Shelter,174,1316.84,5/3/2017,Aurangabad,Used
+R-6902,D-1208,Water,338,27331.23,8/26/2004,Pune,Used
+R-6903,D-2895,Shelter,867,36286.38,3/16/2013,Solapur,Allocated
+R-6904,D-2759,Water,340,19457.67,4/3/2008,Pune,Allocated
+R-6905,D-2075,Medical Kits,984,9740.38,9/1/2019,Solapur,Used
+R-6906,D-2922,Rescue Equipment,11,15719.26,9/24/2012,Satara,Used
+R-6907,D-2702,Shelter,580,41287.72,12/6/2013,Aurangabad,Pending
+R-6908,D-2970,Medical Kits,255,27805.51,8/7/2022,Pune,Pending
+R-6909,D-1067,Clothing,382,25279.82,6/14/2016,Aurangabad,Allocated
+R-6910,D-1780,Water,682,43114.73,9/13/2005,Thane,Pending
+R-6911,D-2710,Medical Kits,969,34900.78,5/4/2018,Nashik,Pending
+R-6912,D-2375,Clothing,846,7783.22,9/30/2013,Solapur,Allocated
+R-6913,D-2643,Water,497,14537.98,9/19/2020,Satara,Used
+R-6914,D-1537,Water,917,45831.53,10/19/2021,Ratnagiri,Pending
+R-6915,D-2498,Clothing,710,8300.55,5/12/2016,Kolhapur,Allocated
+R-6916,D-2500,Food,861,25397.67,9/18/2021,Satara,Used
+R-6917,D-1343,Rescue Equipment,600,37201.78,6/7/2017,Solapur,Used
+R-6918,D-1729,Water,410,20129.98,11/3/2004,Mumbai,Allocated
+R-6919,D-1018,Food,511,37137.74,10/29/2014,Nagpur,Pending
+R-6920,D-2920,Clothing,454,43750.23,3/23/2017,Solapur,Used
+R-6921,D-1678,Water,100,25978.33,5/15/2016,Nagpur,Pending
+R-6922,D-2994,Water,746,7387.53,8/17/2010,Thane,Used
+R-6923,D-1618,Food,374,17255.11,3/9/2015,Satara,Allocated
+R-6924,D-1446,Medical Kits,357,43649.99,1/22/2012,Nagpur,Allocated
+R-6925,D-2041,Shelter,583,34004.33,6/23/2012,Nagpur,Used
+R-6926,D-2436,Clothing,423,36478.92,9/13/2014,Aurangabad,Used
+R-6927,D-2072,Clothing,393,32530.45,1/1/2019,Nagpur,Used
+R-6928,D-1331,Water,151,48360.02,2/8/2012,Solapur,Pending
+R-6929,D-1514,Water,209,31079.8,7/13/2016,Pune,Allocated
+R-6930,D-2953,Rescue Equipment,249,6141.9,6/25/2019,Ratnagiri,Pending
+R-6931,D-1352,Medical Kits,838,24124.78,7/22/2012,Ratnagiri,Pending
+R-6932,D-1362,Clothing,53,26182.69,11/23/2016,Kolhapur,Pending
+R-6933,D-2986,Shelter,14,46626.99,7/26/2014,Aurangabad,Pending
+R-6934,D-1449,Rescue Equipment,119,10659.35,5/6/2016,Nashik,Allocated
+R-6935,D-1740,Medical Kits,675,2722.34,10/25/2017,Kolhapur,Used
+R-6936,D-1398,Rescue Equipment,876,33007.09,6/21/2005,Nashik,Pending
+R-6937,D-1392,Food,595,18551.49,5/5/2014,Solapur,Pending
+R-6938,D-1251,Medical Kits,112,35783.87,7/19/2016,Nagpur,Pending
+R-6939,D-1549,Rescue Equipment,221,2372.87,2/7/2009,Thane,Pending
+R-6940,D-2931,Rescue Equipment,546,49454.39,5/12/2020,Kolhapur,Used
+R-6941,D-1246,Water,64,17372.18,8/23/2005,Solapur,Pending
+R-6942,D-1189,Rescue Equipment,949,38113.37,12/12/2022,Satara,Pending
+R-6943,D-1445,Water,441,17810.63,2/21/2018,Nashik,Used
+R-6944,D-2049,Medical Kits,77,23904.91,7/28/2023,Nashik,Pending
+R-6945,D-2525,Medical Kits,996,32861.76,3/18/2011,Thane,Allocated
+R-6946,D-1553,Medical Kits,173,14738.44,4/1/2007,Kolhapur,Allocated
+R-6947,D-1945,Rescue Equipment,391,22741.52,7/13/2017,Solapur,Pending
+R-6948,D-1417,Rescue Equipment,498,35639.55,12/29/2013,Thane,Pending
+R-6949,D-2628,Shelter,475,45680.74,6/23/2022,Mumbai,Allocated
+R-6950,D-2997,Clothing,366,21337.41,6/12/2008,Aurangabad,Allocated
+R-6951,D-1301,Medical Kits,662,49742.0,7/4/2007,Pune,Pending
+R-6952,D-1058,Rescue Equipment,748,25686.08,8/3/2015,Solapur,Allocated
+R-6953,D-1694,Medical Kits,693,7461.72,4/5/2019,Satara,Used
+R-6954,D-1936,Medical Kits,297,10640.89,10/19/2004,Nagpur,Pending
+R-6955,D-2490,Shelter,590,33882.67,1/10/2014,Solapur,Used
+R-6956,D-2928,Rescue Equipment,404,31679.17,8/30/2020,Mumbai,Used
+R-6957,D-1686,Medical Kits,631,26665.01,10/19/2015,Aurangabad,Used
+R-6958,D-2064,Shelter,694,1559.0,10/3/2023,Kolhapur,Used
+R-6959,D-2225,Medical Kits,437,11520.69,12/26/2006,Ratnagiri,Used
+R-6960,D-2150,Medical Kits,482,28175.41,5/12/2004,Kolhapur,Pending
+R-6961,D-2429,Food,497,8703.76,10/10/2019,Thane,Allocated
+R-6962,D-1093,Water,714,42449.27,4/7/2014,Solapur,Allocated
+R-6963,D-1506,Clothing,387,565.25,7/2/2007,Thane,Used
+R-6964,D-2990,Medical Kits,785,14486.1,3/3/2009,Thane,Pending
+R-6965,D-2845,Medical Kits,370,17791.53,1/26/2015,Thane,Pending
+R-6966,D-1156,Food,175,12632.33,8/24/2014,Mumbai,Allocated
+R-6967,D-1368,Food,479,6033.53,9/16/2008,Aurangabad,Used
+R-6968,D-1188,Water,78,48033.83,4/9/2010,Aurangabad,Used
+R-6969,D-2595,Clothing,106,48061.63,1/30/2012,Ratnagiri,Pending
+R-6970,D-2362,Food,773,41363.15,2/17/2009,Kolhapur,Used
+R-6971,D-2032,Medical Kits,797,16711.53,3/11/2014,Solapur,Used
+R-6972,D-2182,Shelter,796,40218.32,10/13/2007,Ratnagiri,Used
+R-6973,D-1432,Water,661,11602.02,3/21/2018,Pune,Used
+R-6974,D-1529,Clothing,231,43815.55,3/16/2023,Pune,Used
+R-6975,D-1587,Food,730,35961.61,3/13/2016,Nashik,Allocated
+R-6976,D-2349,Medical Kits,37,13246.11,6/30/2004,Kolhapur,Used
+R-6977,D-1018,Rescue Equipment,765,37984.23,11/19/2022,Ratnagiri,Allocated
+R-6978,D-1913,Rescue Equipment,428,4803.78,7/4/2007,Aurangabad,Allocated
+R-6979,D-1506,Rescue Equipment,228,34314.56,6/12/2012,Pune,Pending
+R-6980,D-2728,Rescue Equipment,147,30469.9,10/27/2010,Ratnagiri,Allocated
+R-6981,D-1752,Clothing,337,11407.74,3/20/2015,Nagpur,Allocated
+R-6982,D-1090,Shelter,596,39001.09,5/21/2017,Aurangabad,Used
+R-6983,D-2849,Medical Kits,277,26887.28,8/18/2014,Nagpur,Pending
+R-6984,D-2641,Shelter,245,16122.24,1/24/2021,Aurangabad,Pending
+R-6985,D-2731,Food,377,18498.95,4/22/2007,Thane,Pending
+R-6986,D-1852,Rescue Equipment,690,14697.68,4/6/2017,Solapur,Used
+R-6987,D-2459,Rescue Equipment,80,17220.18,6/13/2012,Thane,Used
+R-6988,D-2746,Food,298,48570.92,4/5/2004,Aurangabad,Allocated
+R-6989,D-1014,Water,475,33616.86,5/8/2009,Nagpur,Allocated
+R-6990,D-1707,Clothing,451,7174.01,5/1/2022,Pune,Pending
+R-6991,D-2772,Shelter,844,30482.07,7/5/2022,Nagpur,Used
+R-6992,D-2676,Shelter,450,6237.84,8/25/2006,Nagpur,Pending
+R-6993,D-2060,Rescue Equipment,971,4459.16,9/22/2017,Kolhapur,Allocated
+R-6994,D-2717,Water,210,14197.83,2/23/2007,Mumbai,Allocated
+R-6995,D-1672,Rescue Equipment,804,29011.0,3/18/2006,Kolhapur,Used
+R-6996,D-2483,Water,938,5161.26,7/16/2007,Mumbai,Pending
+R-6997,D-1408,Water,603,44589.94,8/9/2012,Ratnagiri,Used
+R-6998,D-1985,Shelter,376,43587.45,12/16/2015,Nashik,Pending
+R-6999,D-1949,Medical Kits,974,45126.31,5/22/2023,Pune,Used
+R-5000,D-1227,Rescue Equipment,581,27212.76,06/14/2018,Ahmednagar,Allocated
+R-5001,D-2151,Shelter,103,34395.22,07/10/2024,Ahmednagar,Pending
+R-5002,D-1990,Medical,174,14517.28,01/11/2024,Satara,Used
+R-5003,D-2507,Medical,700,14804.63,03/25/2024,Pune,Pending
+R-5004,D-1350,Rescue Equipment,884,16857.84,04/03/2018,Ahmednagar,Used
+R-5005,D-1963,Food,531,41337.23,10/08/2022,Pune,Pending
+R-5006,D-2303,Medical,161,12512.61,07/30/2022,Ahmednagar,Pending
+R-5007,D-2419,Food,837,21963.74,08/23/2019,Satara,Pending
+R-5008,D-1369,Rescue Equipment,634,28481.42,07/09/2024,Nagpur,Used
+R-5009,D-1608,Shelter,803,35544.93,01/03/2017,Thane,Used
+R-5010,D-1266,Rescue Equipment,968,40041.75,08/12/2020,Ratnagiri,Used
+R-5011,D-1816,Food,819,33294.6,12/25/2016,Aurangabad,Allocated
+R-5012,D-2165,Food,158,16028.76,08/14/2019,Nagpur,Pending
+R-5013,D-2660,Rescue Equipment,477,13337.8,08/08/2019,Nashik,Used
+R-5014,D-2319,Shelter,266,42265.02,02/10/2021,Amravati,Allocated
+R-5015,D-2720,Medical,302,43460.98,02/05/2018,Solapur,Allocated
+R-5016,D-2292,Medical,868,7543.16,06/01/2016,Nagpur,Allocated
+R-5017,D-1327,Medical,750,5576.3,02/25/2019,Latur,Allocated
+R-5018,D-1340,Medical,112,38327.09,06/06/2015,Satara,Allocated
+R-5019,D-1752,Food,488,17413.01,11/01/2023,Aurangabad,Used
+R-5020,D-2427,Medical,766,38528.68,04/10/2023,Kolhapur,Pending
+R-5021,D-1879,Rescue Equipment,258,19689.71,06/07/2022,Nanded,Used
+R-5022,D-1951,Shelter,218,34343.63,10/06/2016,Thane,Pending
+R-5023,D-1132,Food,754,32064.52,12/09/2015,Ratnagiri,Allocated
+R-5024,D-2197,Food,891,42856.49,11/09/2018,Latur,Used
+R-5025,D-1341,Medical,753,31523.75,08/12/2020,Mumbai,Pending
+R-5026,D-2315,Shelter,691,48324.02,11/07/2015,Mumbai,Pending
+R-5027,D-2379,Food,779,42210.68,03/10/2022,Ahmednagar,Pending
+R-5028,D-2183,Medical,238,43735.5,03/05/2023,Ratnagiri,Allocated
+R-5029,D-2542,Shelter,423,24815.81,12/21/2022,Nagpur,Used
+R-5030,D-2166,Shelter,944,25217.03,02/27/2019,Nagpur,Pending
+R-5031,D-2707,Rescue Equipment,417,22169.94,12/04/2018,Latur,Allocated
+R-5032,D-2091,Food,761,46512.48,12/19/2024,Latur,Used
+R-5033,D-2866,Food,577,20252.19,05/04/2023,Nanded,Allocated
+R-5034,D-1819,Rescue Equipment,363,44070.13,09/10/2022,Pune,Used
+R-5035,D-1597,Food,224,16774.82,06/23/2022,Pune,Pending
+R-5036,D-2510,Shelter,577,31428.42,08/02/2024,Nagpur,Used
+R-5037,D-1370,Medical,296,17225.32,06/23/2020,Thane,Pending
+R-5038,D-2847,Food,206,41151.34,08/04/2016,Latur,Pending
+R-5039,D-1793,Shelter,328,27230.42,10/11/2015,Mumbai,Pending
+R-5040,D-1430,Medical,322,9393.67,01/28/2023,Ratnagiri,Pending
+R-5041,D-1700,Food,821,22149.26,04/09/2024,Aurangabad,Pending
+R-5042,D-2806,Medical,252,27614.05,05/01/2022,Pune,Allocated
+R-5043,D-2954,Medical,523,44930.6,02/21/2020,Mumbai,Pending
+R-5044,D-2827,Food,570,34885.23,08/15/2021,Latur,Allocated
+R-5045,D-1831,Medical,993,34420.85,04/16/2017,Pune,Pending
+R-5046,D-1553,Food,304,47480.33,06/13/2017,Nashik,Allocated
+R-5047,D-2189,Rescue Equipment,475,16855.49,09/21/2021,Ratnagiri,Pending
+R-5048,D-1032,Medical,926,16837.74,11/23/2015,Mumbai,Allocated
+R-5049,D-2832,Rescue Equipment,142,26515.56,04/26/2017,Amravati,Used
+R-5050,D-1771,Food,666,37862.46,02/26/2021,Thane,Used
+R-5051,D-1373,Food,546,6565.82,01/26/2018,Mumbai,Pending
+R-5052,D-2675,Shelter,277,28646.4,12/27/2020,Kolhapur,Used
+R-5053,D-2775,Shelter,740,34736.21,06/13/2021,Latur,Allocated
+R-5054,D-2361,Food,154,32416.52,12/17/2020,Thane,Used
+R-5055,D-1909,Food,599,25252.66,03/28/2021,Ratnagiri,Pending
+R-5056,D-1038,Shelter,886,9923.1,09/28/2021,Nashik,Pending
+R-5057,D-1791,Rescue Equipment,913,45189.1,02/19/2022,Nanded,Allocated
+R-5058,D-1437,Rescue Equipment,186,35690.2,01/26/2018,Ratnagiri,Pending
+R-5059,D-1119,Shelter,868,5080.07,01/09/2024,Satara,Pending
+R-5060,D-2862,Shelter,471,5892.94,09/28/2015,Thane,Used
+R-5061,D-2803,Medical,636,23754.61,05/09/2023,Ahmednagar,Pending
+R-5062,D-2250,Medical,665,32599.39,12/20/2015,Solapur,Allocated
+R-5063,D-1717,Food,242,14918.84,07/04/2016,Thane,Used
+R-5064,D-2366,Rescue Equipment,935,39801.04,01/01/2021,Latur,Pending
+R-5065,D-1118,Rescue Equipment,991,31746.88,06/16/2023,Satara,Used
+R-5066,D-1526,Shelter,900,26842.52,06/07/2019,Solapur,Used
+R-5067,D-2571,Shelter,534,49800.1,09/29/2019,Thane,Pending
+R-5068,D-2044,Medical,349,16197.76,05/28/2018,Ratnagiri,Pending
+R-5069,D-2612,Rescue Equipment,984,40281.55,10/22/2015,Satara,Allocated
+R-5070,D-2519,Rescue Equipment,551,24644.82,05/28/2020,Thane,Allocated
+R-5071,D-2083,Shelter,403,47755.85,08/15/2019,Aurangabad,Pending
+R-5072,D-2183,Rescue Equipment,110,15563.13,02/03/2019,Pune,Used
+R-5073,D-1511,Rescue Equipment,571,37136.97,06/20/2023,Solapur,Used
+R-5074,D-1646,Rescue Equipment,510,38659.14,05/16/2021,Nagpur,Pending
+R-5075,D-2043,Rescue Equipment,121,36418.64,02/03/2022,Aurangabad,Pending
+R-5076,D-2375,Medical,969,42450.31,10/06/2017,Amravati,Used
+R-5077,D-1008,Rescue Equipment,238,42581.8,06/10/2019,Kolhapur,Allocated
+R-5078,D-1776,Medical,174,29802.47,11/04/2015,Satara,Allocated
+R-5079,D-1407,Food,975,29719.74,04/30/2018,Satara,Allocated
+R-5080,D-1225,Medical,743,29677.79,06/03/2021,Mumbai,Used
+R-5081,D-2682,Rescue Equipment,870,15932.06,03/02/2018,Solapur,Used
+R-5082,D-2241,Shelter,254,13795.77,12/30/2020,Nashik,Allocated
+R-5083,D-1046,Rescue Equipment,354,16178.02,07/21/2022,Kolhapur,Pending
+R-5084,D-1606,Rescue Equipment,634,28468.62,08/29/2018,Nanded,Pending
+R-5085,D-1943,Rescue Equipment,732,49498.64,02/02/2025,Ahmednagar,Used
+R-5086,D-1466,Food,141,26878.93,08/06/2016,Nanded,Allocated
+R-5087,D-2568,Medical,328,47149.66,09/18/2017,Solapur,Pending
+R-5088,D-2848,Medical,377,21353.02,10/13/2015,Nagpur,Used
+R-5089,D-2545,Rescue Equipment,500,32257.37,07/16/2018,Mumbai,Used
+R-5090,D-1622,Medical,999,20042.06,08/04/2020,Nagpur,Used
+R-5091,D-2624,Medical,490,47663.51,03/22/2022,Aurangabad,Allocated
+R-5092,D-1899,Rescue Equipment,348,49474.7,05/14/2019,Latur,Pending
+R-5093,D-2634,Rescue Equipment,160,34172.84,11/15/2021,Amravati,Pending
+R-5094,D-2055,Shelter,618,49990.66,02/27/2022,Nagpur,Used
+R-5095,D-2982,Medical,617,42658.84,02/25/2024,Latur,Used
+R-5096,D-1742,Shelter,456,30520.88,09/28/2019,Pune,Pending
+R-5097,D-2045,Medical,669,11325.28,09/15/2019,Ratnagiri,Pending
+R-5098,D-2540,Food,349,20406.68,12/27/2016,Satara,Allocated
+R-5099,D-1987,Rescue Equipment,443,43394.24,05/23/2023,Ratnagiri,Used
+R-5100,D-1095,Rescue Equipment,745,14477.82,02/10/2018,Ratnagiri,Allocated
+R-5101,D-1412,Shelter,718,44166.16,09/14/2024,Nagpur,Used
+R-5102,D-1210,Rescue Equipment,201,6485.28,01/10/2023,Nashik,Used
+R-5103,D-2219,Rescue Equipment,904,11050.64,08/19/2018,Nanded,Used
+R-5104,D-1282,Medical,145,12481.34,12/03/2015,Satara,Pending
+R-5105,D-1768,Rescue Equipment,462,28864.25,01/15/2016,Aurangabad,Used
+R-5106,D-1182,Shelter,552,11734.11,03/16/2020,Solapur,Allocated
+R-5107,D-1912,Shelter,613,18312.66,12/17/2020,Satara,Allocated
+R-5108,D-1391,Rescue Equipment,270,29302.06,07/22/2017,Solapur,Used
+R-5109,D-1115,Medical,753,46562.52,02/22/2022,Solapur,Used
+R-5110,D-2591,Rescue Equipment,429,22448.38,02/02/2023,Thane,Used
+R-5111,D-1506,Rescue Equipment,655,7945.75,11/26/2020,Nanded,Pending
+R-5112,D-1676,Medical,963,35620.26,05/17/2018,Amravati,Allocated
+R-5113,D-1752,Food,727,5098.56,08/10/2024,Ahmednagar,Pending
+R-5114,D-2996,Medical,848,21169.6,09/04/2021,Thane,Used
+R-5115,D-2847,Food,466,15575.96,10/16/2018,Solapur,Used
+R-5116,D-1393,Rescue Equipment,294,19445.94,09/29/2024,Pune,Pending
+R-5117,D-2072,Shelter,441,14179.07,08/29/2017,Ratnagiri,Pending
+R-5118,D-2196,Rescue Equipment,681,20518.54,09/17/2015,Ahmednagar,Used
+R-5119,D-2065,Medical,161,32399.3,04/19/2018,Aurangabad,Allocated
+R-5120,D-1026,Shelter,635,18518.28,03/07/2017,Thane,Used
+R-5121,D-1214,Medical,929,21239.63,03/22/2022,Ahmednagar,Pending
+R-5122,D-1482,Rescue Equipment,508,21516.2,06/10/2020,Thane,Pending
+R-5123,D-1488,Rescue Equipment,184,17232.99,09/19/2019,Solapur,Allocated
+R-5124,D-1239,Shelter,537,16379.79,06/12/2024,Thane,Pending
+R-5125,D-1097,Shelter,109,31370.75,03/03/2020,Pune,Used
+R-5126,D-1525,Medical,827,33043.2,06/23/2016,Nanded,Allocated
+R-5127,D-1780,Food,110,38571.63,04/01/2019,Kolhapur,Pending
+R-5128,D-2752,Medical,893,31564.14,02/27/2021,Thane,Allocated
+R-5129,D-1420,Shelter,243,19666.42,01/08/2020,Latur,Allocated
+R-5130,D-1128,Shelter,846,29903.77,02/27/2018,Pune,Allocated
+R-5131,D-1782,Shelter,647,11868.95,10/04/2016,Pune,Pending
+R-5132,D-1180,Medical,926,17684.65,08/21/2021,Kolhapur,Pending
+R-5133,D-1292,Food,440,47480.78,07/04/2019,Kolhapur,Used
+R-5134,D-2661,Food,251,5399.39,03/09/2020,Ratnagiri,Allocated
+R-5135,D-2671,Food,894,20565.94,01/18/2016,Mumbai,Used
+R-5136,D-2244,Food,318,7594.16,10/06/2018,Thane,Used
+R-5137,D-1332,Medical,887,12267.79,05/06/2024,Ratnagiri,Pending
+R-5138,D-2961,Shelter,144,45917.0,11/02/2021,Amravati,Pending
+R-5139,D-2410,Food,666,30908.41,12/20/2018,Amravati,Pending
+R-5140,D-1330,Rescue Equipment,801,39297.73,05/13/2016,Kolhapur,Allocated
+R-5141,D-2193,Food,543,27282.35,03/04/2015,Pune,Used
+R-5142,D-2930,Rescue Equipment,598,40687.83,02/23/2016,Amravati,Pending
+R-5143,D-1806,Shelter,194,35936.09,09/02/2020,Ratnagiri,Allocated
+R-5144,D-1586,Medical,750,18126.64,04/11/2023,Satara,Pending
+R-5145,D-2545,Shelter,657,32368.63,09/19/2015,Mumbai,Allocated
+R-5146,D-1352,Medical,841,18664.84,06/05/2021,Solapur,Pending
+R-5147,D-1614,Medical,654,40287.01,10/05/2023,Pune,Used
+R-5148,D-1893,Shelter,453,19230.97,12/10/2015,Nashik,Pending
+R-5149,D-1993,Food,459,7095.71,06/20/2020,Thane,Used
+R-5150,D-2435,Medical,671,20515.59,12/01/2023,Latur,Allocated
+R-5151,D-2680,Rescue Equipment,817,44550.8,03/18/2022,Kolhapur,Pending
+R-5152,D-2780,Medical,669,26399.82,08/26/2015,Aurangabad,Allocated
+R-5153,D-2334,Rescue Equipment,593,29858.58,03/28/2020,Amravati,Used
+R-5154,D-1156,Medical,971,39124.91,01/25/2024,Pune,Used
+R-5155,D-2045,Shelter,673,7890.62,08/05/2015,Pune,Used
+R-5156,D-1505,Medical,844,45725.41,03/15/2015,Amravati,Used
+R-5157,D-2509,Shelter,507,31943.45,08/30/2022,Amravati,Pending
+R-5158,D-1779,Medical,664,8680.9,08/02/2022,Latur,Pending
+R-5159,D-1537,Shelter,702,19481.6,07/12/2015,Kolhapur,Used
+R-5160,D-2115,Food,299,31947.35,04/19/2017,Mumbai,Pending
+R-5161,D-2411,Shelter,719,40695.39,11/01/2022,Amravati,Allocated
+R-5162,D-2741,Shelter,611,9658.45,09/26/2016,Ratnagiri,Allocated
+R-5163,D-1684,Food,995,33137.2,11/21/2020,Satara,Pending
+R-5164,D-1316,Food,920,13628.95,01/27/2021,Ahmednagar,Allocated
+R-5165,D-1561,Rescue Equipment,256,20219.07,12/26/2017,Nashik,Pending
+R-5166,D-2665,Food,794,28708.39,02/16/2020,Ratnagiri,Pending
+R-5167,D-1521,Shelter,338,8870.55,10/24/2017,Amravati,Pending
+R-5168,D-1339,Medical,613,25236.85,12/24/2019,Satara,Allocated
+R-5169,D-2184,Shelter,600,10546.24,03/12/2022,Nashik,Used
+R-5170,D-2664,Rescue Equipment,630,41280.5,12/15/2022,Ahmednagar,Allocated
+R-5171,D-1120,Food,749,27254.98,03/25/2023,Pune,Allocated
+R-5172,D-1850,Food,161,22783.9,04/07/2021,Mumbai,Pending
+R-5173,D-1074,Rescue Equipment,557,46762.27,02/28/2022,Ratnagiri,Used
+R-5174,D-1898,Food,709,9469.8,01/21/2017,Nagpur,Pending
+R-5175,D-1250,Rescue Equipment,423,24291.82,04/03/2019,Ratnagiri,Pending
+R-5176,D-1804,Food,800,30104.05,01/01/2020,Nashik,Used
+R-5177,D-1239,Medical,859,21349.0,02/18/2023,Thane,Allocated
+R-5178,D-2180,Rescue Equipment,988,39207.31,04/13/2023,Ahmednagar,Allocated
+R-5179,D-2441,Food,790,38763.26,02/10/2016,Ahmednagar,Used
+R-5180,D-1259,Rescue Equipment,307,13934.45,01/10/2016,Satara,Pending
+R-5181,D-1523,Shelter,250,49318.15,08/07/2021,Pune,Used
+R-5182,D-2991,Food,835,46690.76,01/13/2016,Ahmednagar,Allocated
+R-5183,D-2152,Rescue Equipment,892,41389.66,04/07/2017,Thane,Pending
+R-5184,D-1952,Food,954,37942.46,02/12/2024,Satara,Pending
+R-5185,D-1060,Shelter,607,5211.73,08/10/2019,Thane,Pending
+R-5186,D-1854,Shelter,956,26776.08,05/05/2023,Latur,Allocated
+R-5187,D-2183,Medical,691,42889.0,07/26/2016,Ahmednagar,Pending
+R-5188,D-1101,Food,814,27201.97,05/26/2024,Kolhapur,Pending
+R-5189,D-2065,Medical,940,47568.53,07/05/2020,Nashik,Allocated
+R-5190,D-2600,Rescue Equipment,433,13118.78,06/20/2015,Satara,Pending
+R-5191,D-2296,Rescue Equipment,314,46205.11,01/06/2024,Ratnagiri,Used
+R-5192,D-2209,Food,379,43743.64,12/31/2021,Latur,Used
+R-5193,D-2107,Rescue Equipment,822,11209.91,01/04/2016,Nanded,Allocated
+R-5194,D-1723,Rescue Equipment,302,41547.94,05/12/2021,Aurangabad,Allocated
+R-5195,D-1488,Medical,988,34602.0,12/11/2015,Solapur,Used
+R-5196,D-2231,Food,407,28951.0,03/28/2018,Nagpur,Used
+R-5197,D-1129,Shelter,412,9599.29,02/13/2016,Kolhapur,Used
+R-5198,D-1275,Medical,356,8727.39,09/29/2019,Nashik,Pending
+R-5199,D-2490,Food,304,32061.92,06/19/2017,Nanded,Used
+R-5200,D-2810,Shelter,626,38238.43,04/06/2015,Nagpur,Pending
+R-5201,D-2176,Medical,209,46666.94,04/07/2022,Satara,Allocated
+R-5202,D-2509,Rescue Equipment,183,40819.33,11/03/2017,Amravati,Used
+R-5203,D-1418,Shelter,835,24147.23,09/13/2023,Nagpur,Allocated
+R-5204,D-2959,Medical,697,28844.94,11/24/2015,Nanded,Used
+R-5205,D-1547,Medical,616,33061.43,12/30/2018,Kolhapur,Pending
+R-5206,D-2573,Food,714,33183.88,11/14/2023,Pune,Pending
+R-5207,D-1989,Medical,443,24087.35,07/29/2019,Solapur,Pending
+R-5208,D-1495,Food,108,23044.8,03/07/2024,Nagpur,Allocated
+R-5209,D-2585,Food,124,16708.9,07/24/2022,Kolhapur,Pending
+R-5210,D-2096,Shelter,751,16274.75,05/20/2019,Aurangabad,Used
+R-5211,D-2299,Food,771,18927.15,05/04/2022,Ahmednagar,Used
+R-5212,D-1145,Medical,880,11109.0,12/20/2016,Nashik,Pending
+R-5213,D-1649,Shelter,502,48131.01,09/20/2021,Solapur,Allocated
+R-5214,D-1963,Food,213,14496.09,05/15/2017,Nagpur,Used
+R-5215,D-2854,Medical,337,36851.6,02/04/2016,Latur,Allocated
+R-5216,D-2752,Shelter,842,8989.05,05/10/2022,Mumbai,Pending
+R-5217,D-1005,Rescue Equipment,998,11371.67,11/08/2016,Mumbai,Allocated
+R-5218,D-2235,Rescue Equipment,499,5087.0,08/21/2015,Ratnagiri,Pending
+R-5219,D-1785,Medical,499,7354.28,06/20/2023,Nanded,Used
+R-5220,D-2658,Rescue Equipment,352,49068.77,03/27/2018,Amravati,Pending
+R-5221,D-2346,Food,483,48281.96,02/25/2021,Thane,Pending
+R-5222,D-1811,Shelter,578,30871.35,04/05/2016,Latur,Allocated
+R-5223,D-1498,Rescue Equipment,849,40405.03,03/22/2019,Nashik,Used
+R-5224,D-2165,Medical,587,41437.06,03/11/2024,Ahmednagar,Pending
+R-5225,D-1091,Food,855,39505.15,04/13/2024,Mumbai,Used
+R-5226,D-1704,Medical,211,9384.7,09/15/2023,Pune,Allocated
+R-5227,D-1191,Medical,921,28867.74,05/19/2018,Nashik,Pending
+R-5228,D-2889,Rescue Equipment,736,49739.39,01/14/2023,Nanded,Allocated
+R-5229,D-2350,Rescue Equipment,344,20378.33,09/11/2023,Kolhapur,Used
+R-5230,D-1659,Medical,960,11642.54,03/25/2019,Nanded,Pending
+R-5231,D-2357,Medical,160,49488.06,04/17/2015,Latur,Allocated
+R-5232,D-2948,Medical,457,6112.23,09/28/2023,Ahmednagar,Allocated
+R-5233,D-2271,Shelter,361,6441.56,10/26/2019,Aurangabad,Allocated
+R-5234,D-1312,Medical,373,20603.52,06/04/2021,Latur,Allocated
+R-5235,D-1390,Shelter,910,47452.17,04/22/2017,Nashik,Allocated
+R-5236,D-1509,Medical,676,42801.61,06/08/2024,Thane,Allocated
+R-5237,D-2452,Food,193,37717.23,01/28/2018,Kolhapur,Used
+R-5238,D-2433,Rescue Equipment,426,48610.76,09/06/2024,Ahmednagar,Used
+R-5239,D-1982,Food,280,15669.9,01/31/2025,Mumbai,Used
+R-5240,D-1287,Rescue Equipment,193,23729.61,07/25/2016,Ratnagiri,Pending
+R-5241,D-1380,Shelter,170,28063.66,12/14/2023,Amravati,Used
+R-5242,D-1465,Rescue Equipment,841,13808.22,02/18/2022,Latur,Used
+R-5243,D-2526,Rescue Equipment,585,26238.87,05/26/2020,Nagpur,Pending
+R-5244,D-2662,Rescue Equipment,311,16929.84,10/07/2016,Thane,Used
+R-5245,D-2814,Food,598,9138.66,01/26/2019,Amravati,Pending
+R-5246,D-1744,Shelter,565,42704.79,02/27/2021,Solapur,Allocated
+R-5247,D-2485,Shelter,291,10838.22,10/01/2023,Pune,Used
+R-5248,D-2427,Food,189,23053.85,11/08/2018,Latur,Used
+R-5249,D-1478,Shelter,685,19844.61,12/14/2019,Ratnagiri,Pending
+R-5250,D-2493,Shelter,291,36767.89,12/08/2019,Ratnagiri,Allocated
+R-5251,D-1635,Medical,115,43611.73,09/07/2018,Nagpur,Allocated
+R-5252,D-2728,Food,279,33467.61,11/30/2018,Nanded,Used
+R-5253,D-1565,Food,470,21476.61,12/17/2016,Kolhapur,Used
+R-5254,D-2823,Rescue Equipment,360,27708.42,06/13/2022,Solapur,Used
+R-5255,D-1562,Rescue Equipment,816,20817.98,08/03/2021,Thane,Allocated
+R-5256,D-1992,Food,801,11116.03,08/14/2015,Nagpur,Pending
+R-5257,D-1765,Food,297,33206.2,10/02/2022,Nanded,Pending
+R-5258,D-2446,Shelter,970,11149.79,05/24/2021,Satara,Allocated
+R-5259,D-2784,Rescue Equipment,556,39468.85,02/12/2020,Latur,Used
+R-5260,D-2442,Rescue Equipment,599,41685.91,09/11/2017,Solapur,Pending
+R-5261,D-2613,Shelter,847,12909.6,02/07/2020,Amravati,Allocated
+R-5262,D-1054,Medical,596,41596.74,10/09/2017,Ahmednagar,Pending
+R-5263,D-1621,Medical,512,35473.64,07/17/2024,Latur,Used
+R-5264,D-2613,Medical,590,33242.37,08/02/2024,Nagpur,Used
+R-5265,D-2908,Medical,384,22106.86,04/17/2022,Kolhapur,Used
+R-5266,D-2535,Food,561,10326.82,04/26/2018,Kolhapur,Allocated
+R-5267,D-1409,Shelter,837,22914.15,09/12/2018,Amravati,Pending
+R-5268,D-1729,Rescue Equipment,752,19928.93,10/22/2018,Ratnagiri,Pending
+R-5269,D-1481,Medical,608,19441.72,05/11/2016,Mumbai,Used
+R-5270,D-2880,Medical,563,15238.98,04/28/2024,Thane,Allocated
+R-5271,D-1875,Shelter,739,6602.95,10/28/2019,Mumbai,Allocated
+R-5272,D-1131,Rescue Equipment,636,19543.98,09/18/2023,Nagpur,Pending
+R-5273,D-1875,Shelter,220,15204.22,10/20/2023,Thane,Used
+R-5274,D-2487,Rescue Equipment,324,31372.91,08/31/2023,Ratnagiri,Allocated
+R-5275,D-2011,Rescue Equipment,907,43373.59,09/19/2020,Pune,Allocated
+R-5276,D-2439,Shelter,854,36323.66,05/18/2019,Nashik,Allocated
+R-5277,D-1575,Rescue Equipment,817,7989.45,01/30/2022,Aurangabad,Pending
+R-5278,D-1510,Food,283,25251.32,09/10/2018,Nagpur,Used
+R-5279,D-2528,Medical,347,33476.34,06/11/2015,Nashik,Pending
+R-5280,D-2988,Food,193,39712.07,12/04/2022,Solapur,Used
+R-5281,D-2232,Medical,279,29480.63,12/25/2018,Amravati,Used
+R-5282,D-1387,Rescue Equipment,758,18595.26,02/12/2019,Thane,Used
+R-5283,D-2388,Rescue Equipment,466,11999.23,05/29/2015,Nanded,Used
+R-5284,D-1902,Rescue Equipment,417,11451.82,12/08/2024,Nanded,Pending
+R-5285,D-2214,Rescue Equipment,238,33346.49,12/17/2023,Pune,Pending
+R-5286,D-1528,Rescue Equipment,735,6022.21,09/19/2018,Nagpur,Allocated
+R-5287,D-2683,Shelter,597,43487.58,05/21/2020,Satara,Pending
+R-5288,D-1426,Rescue Equipment,733,15199.17,03/16/2018,Amravati,Used
+R-5289,D-1403,Rescue Equipment,677,9849.69,06/29/2015,Nagpur,Allocated
+R-5290,D-2566,Shelter,305,30936.5,07/29/2019,Mumbai,Pending
+R-5291,D-2417,Shelter,471,49217.27,04/04/2019,Kolhapur,Pending
+R-5292,D-2171,Shelter,666,44423.22,12/27/2021,Latur,Allocated
+R-5293,D-2688,Rescue Equipment,375,28983.69,06/28/2022,Mumbai,Allocated
+R-5294,D-2860,Rescue Equipment,460,48115.97,02/24/2020,Nashik,Allocated
+R-5295,D-1093,Medical,745,19768.54,06/04/2016,Thane,Pending
+R-5296,D-1354,Rescue Equipment,643,38342.17,11/02/2018,Kolhapur,Allocated
+R-5297,D-1496,Rescue Equipment,627,24383.88,04/02/2015,Satara,Pending
+R-5298,D-2096,Food,538,45583.57,11/15/2019,Ratnagiri,Used
+R-5299,D-2890,Food,557,15727.15,11/23/2022,Thane,Allocated
+R-5300,D-1805,Food,189,24998.21,10/27/2020,Nagpur,Pending
+R-5301,D-1122,Medical,883,30514.92,02/04/2021,Thane,Used
+R-5302,D-1580,Shelter,760,17238.87,08/09/2017,Amravati,Used
+R-5303,D-2573,Shelter,270,15269.03,05/16/2021,Aurangabad,Pending
+R-5304,D-1942,Food,859,15592.71,10/25/2022,Ratnagiri,Pending
+R-5305,D-1025,Medical,976,13456.61,11/27/2021,Satara,Allocated
+R-5306,D-1755,Shelter,815,36402.41,02/24/2018,Amravati,Allocated
+R-5307,D-2244,Rescue Equipment,338,44350.52,03/13/2022,Ahmednagar,Allocated
+R-5308,D-2384,Food,547,38081.97,01/30/2016,Ahmednagar,Allocated
+R-5309,D-1077,Rescue Equipment,581,17163.74,08/03/2015,Nanded,Used
+R-5310,D-1568,Rescue Equipment,771,5597.19,01/21/2025,Nanded,Allocated
+R-5311,D-1813,Food,737,43346.37,09/14/2023,Satara,Pending
+R-5312,D-1374,Shelter,776,21059.84,04/18/2022,Solapur,Pending
+R-5313,D-2198,Food,513,19397.51,04/26/2015,Nanded,Pending
+R-5314,D-1350,Food,724,11291.12,02/08/2025,Nagpur,Pending
+R-5315,D-1260,Medical,807,26872.38,01/15/2024,Kolhapur,Pending
+R-5316,D-1544,Medical,440,33876.56,09/02/2015,Pune,Allocated
+R-5317,D-2336,Medical,543,25604.41,07/02/2016,Thane,Allocated
+R-5318,D-2306,Rescue Equipment,263,21745.44,02/04/2022,Kolhapur,Pending
+R-5319,D-1064,Medical,264,46512.53,12/30/2015,Mumbai,Pending
+R-5320,D-1983,Rescue Equipment,266,19983.13,07/21/2021,Satara,Allocated
+R-5321,D-2016,Rescue Equipment,285,14445.66,04/13/2023,Mumbai,Used
+R-5322,D-2162,Rescue Equipment,422,34399.19,05/08/2023,Aurangabad,Used
+R-5323,D-1448,Food,770,41084.05,07/28/2015,Kolhapur,Used
+R-5324,D-2923,Medical,775,40929.98,12/17/2016,Latur,Pending
+R-5325,D-1152,Shelter,467,30029.27,08/23/2018,Nashik,Allocated
+R-5326,D-2330,Rescue Equipment,782,18489.87,11/09/2019,Solapur,Used
+R-5327,D-1874,Shelter,287,39858.3,01/16/2021,Nanded,Allocated
+R-5328,D-2846,Rescue Equipment,455,15658.34,08/25/2021,Thane,Pending
+R-5329,D-2894,Rescue Equipment,913,18097.98,06/03/2021,Mumbai,Pending
+R-5330,D-1538,Medical,378,39194.94,01/20/2016,Nashik,Pending
+R-5331,D-1790,Shelter,969,11045.62,07/21/2018,Nagpur,Used
+R-5332,D-2313,Food,425,9184.44,07/03/2022,Latur,Allocated
+R-5333,D-1223,Rescue Equipment,285,41948.25,07/01/2023,Amravati,Used
+R-5334,D-1131,Shelter,978,26680.97,02/23/2022,Ahmednagar,Allocated
+R-5335,D-2849,Food,131,34730.72,09/18/2018,Latur,Allocated
+R-5336,D-1673,Medical,885,41193.69,05/30/2017,Ratnagiri,Pending
+R-5337,D-2070,Food,301,20097.45,06/27/2023,Nanded,Allocated
+R-5338,D-2329,Shelter,507,21122.32,08/26/2020,Kolhapur,Pending
+R-5339,D-1224,Rescue Equipment,954,10526.72,12/12/2022,Ratnagiri,Allocated
+R-5340,D-2426,Food,758,37315.05,01/14/2020,Ratnagiri,Allocated
+R-5341,D-2736,Rescue Equipment,290,7421.26,09/24/2017,Nagpur,Allocated
+R-5342,D-1719,Shelter,273,14909.99,03/11/2015,Nagpur,Pending
+R-5343,D-1121,Food,146,49553.94,09/04/2015,Nanded,Allocated
+R-5344,D-1403,Food,749,17232.37,06/23/2024,Aurangabad,Pending
+R-5345,D-1345,Rescue Equipment,175,42975.9,08/17/2015,Mumbai,Used
+R-5346,D-2794,Medical,819,19792.21,06/14/2018,Pune,Allocated
+R-5347,D-2145,Food,288,12528.54,08/21/2015,Aurangabad,Pending
+R-5348,D-1492,Food,419,37261.63,12/03/2019,Nagpur,Pending
+R-5349,D-2076,Medical,480,29611.73,03/11/2024,Nanded,Allocated
+R-5350,D-2510,Rescue Equipment,853,15650.85,09/04/2024,Thane,Pending
+R-5351,D-1575,Rescue Equipment,468,48148.8,06/10/2016,Solapur,Pending
+R-5352,D-2579,Food,406,19820.84,11/17/2023,Ahmednagar,Allocated
+R-5353,D-2121,Food,227,24800.07,04/18/2016,Ahmednagar,Used
+R-5354,D-1318,Shelter,395,35541.86,04/29/2020,Mumbai,Pending
+R-5355,D-1352,Medical,137,12039.96,11/25/2023,Nashik,Allocated
+R-5356,D-1847,Rescue Equipment,427,6107.26,12/26/2024,Nanded,Allocated
+R-5357,D-2297,Shelter,732,42930.63,11/27/2022,Aurangabad,Used
+R-5358,D-1393,Medical,668,27196.04,11/07/2022,Solapur,Pending
+R-5359,D-2691,Shelter,779,36295.4,10/02/2017,Solapur,Pending
+R-5360,D-2075,Food,759,30835.15,11/24/2015,Nanded,Allocated
+R-5361,D-1763,Medical,843,26707.62,08/14/2015,Aurangabad,Allocated
+R-5362,D-2856,Food,646,13305.05,08/20/2016,Kolhapur,Pending
+R-5363,D-2415,Medical,872,43268.27,05/26/2023,Mumbai,Used
+R-5364,D-1467,Shelter,667,13752.28,05/24/2020,Ahmednagar,Allocated
+R-5365,D-2617,Food,861,25559.8,10/18/2023,Pune,Pending
+R-5366,D-1635,Medical,625,33193.12,05/17/2024,Ratnagiri,Used
+R-5367,D-2281,Medical,232,7119.72,04/09/2022,Solapur,Used
+R-5368,D-2268,Food,950,20225.92,09/14/2021,Aurangabad,Pending
+R-5369,D-1509,Food,394,29961.99,08/05/2020,Nashik,Allocated
+R-5370,D-1724,Shelter,542,11794.18,09/20/2023,Nanded,Allocated
+R-5371,D-1775,Food,131,46972.49,11/14/2022,Latur,Allocated
+R-5372,D-2616,Medical,635,12205.67,02/16/2023,Nagpur,Pending
+R-5373,D-2595,Shelter,671,8176.31,06/28/2017,Thane,Used
+R-5374,D-2191,Shelter,567,15002.04,05/26/2020,Amravati,Allocated
+R-5375,D-1840,Rescue Equipment,252,11554.95,01/23/2018,Nanded,Used
+R-5376,D-2788,Food,586,47791.39,09/26/2024,Amravati,Allocated
+R-5377,D-2969,Food,609,32965.58,04/21/2020,Nashik,Used
+R-5378,D-2798,Shelter,262,14638.33,11/10/2019,Latur,Pending
+R-5379,D-2544,Shelter,729,42518.41,05/30/2015,Nanded,Used
+R-5380,D-1216,Rescue Equipment,698,35615.31,10/18/2020,Thane,Pending
+R-5381,D-2587,Medical,647,38512.52,09/26/2024,Ahmednagar,Allocated
+R-5382,D-1271,Shelter,527,20779.93,01/24/2016,Amravati,Used
+R-5383,D-2330,Rescue Equipment,465,49028.01,09/16/2020,Mumbai,Pending
+R-5384,D-1228,Rescue Equipment,205,12072.98,08/15/2018,Nashik,Allocated
+R-5385,D-1490,Rescue Equipment,592,12697.75,12/23/2016,Nanded,Pending
+R-5386,D-1568,Medical,708,30515.08,10/13/2016,Solapur,Used
+R-5387,D-1156,Rescue Equipment,808,36775.07,06/25/2024,Satara,Pending
+R-5388,D-1850,Rescue Equipment,264,18489.78,06/30/2018,Satara,Pending
+R-5389,D-1272,Medical,734,33128.26,09/29/2017,Thane,Pending
+R-5390,D-2864,Medical,773,45868.73,07/09/2016,Latur,Pending
+R-5391,D-1989,Medical,611,23632.98,07/21/2024,Nashik,Pending
+R-5392,D-1933,Shelter,639,28184.36,08/30/2023,Aurangabad,Used
+R-5393,D-1134,Food,958,29474.83,11/17/2015,Pune,Allocated
+R-5394,D-1217,Shelter,234,6460.36,03/29/2021,Pune,Pending
+R-5395,D-2713,Shelter,818,31333.12,01/12/2018,Nagpur,Pending
+R-5396,D-1983,Shelter,403,32552.51,10/06/2024,Ratnagiri,Pending
+R-5397,D-1126,Food,195,34818.12,07/30/2019,Nanded,Allocated
+R-5398,D-2003,Shelter,386,16440.48,03/22/2015,Thane,Allocated
+R-5399,D-2686,Medical,564,29079.01,06/23/2022,Nanded,Pending
+R-5400,D-1897,Food,395,6315.21,03/10/2022,Nashik,Allocated
+R-5401,D-2032,Medical,475,40330.51,08/22/2024,Nashik,Used
+R-5402,D-2644,Shelter,119,31816.98,10/01/2020,Mumbai,Pending
+R-5403,D-1954,Rescue Equipment,153,43924.32,11/29/2022,Pune,Pending
+R-5404,D-2861,Food,662,10163.87,02/04/2022,Mumbai,Allocated
+R-5405,D-1811,Shelter,492,7198.63,09/27/2017,Aurangabad,Used
+R-5406,D-1076,Medical,966,45635.46,02/15/2023,Nashik,Pending
+R-5407,D-3000,Rescue Equipment,242,13509.11,03/01/2023,Ahmednagar,Pending
+R-5408,D-1971,Food,523,40855.51,09/10/2016,Thane,Pending
+R-5409,D-1817,Rescue Equipment,678,22240.25,07/16/2018,Ratnagiri,Pending
+R-5410,D-1465,Rescue Equipment,996,27043.78,04/09/2021,Ahmednagar,Allocated
+R-5411,D-2698,Shelter,319,35313.99,09/01/2018,Nagpur,Pending
+R-5412,D-1121,Shelter,181,35627.68,10/14/2020,Pune,Allocated
+R-5413,D-1066,Shelter,179,26260.66,03/11/2023,Thane,Allocated
+R-5414,D-1698,Shelter,778,28661.47,03/11/2022,Nagpur,Allocated
+R-5415,D-2578,Shelter,589,8980.79,05/31/2015,Pune,Allocated
+R-5416,D-1480,Food,164,42967.01,05/06/2018,Nanded,Used
+R-5417,D-1494,Rescue Equipment,991,14566.09,10/12/2016,Amravati,Used
+R-5418,D-1037,Rescue Equipment,459,15578.83,02/27/2018,Thane,Pending
+R-5419,D-1859,Food,730,37107.88,07/05/2020,Thane,Pending
+R-5420,D-1433,Shelter,619,40059.21,10/24/2016,Amravati,Pending
+R-5421,D-1473,Medical,589,11952.38,03/11/2019,Satara,Used
+R-5422,D-2199,Medical,863,33656.43,12/01/2018,Ratnagiri,Allocated
+R-5423,D-1853,Rescue Equipment,401,47514.9,07/13/2024,Pune,Used
+R-5424,D-2455,Shelter,599,49495.7,02/22/2016,Latur,Pending
+R-5425,D-1216,Shelter,576,6694.15,01/13/2019,Ahmednagar,Used
+R-5426,D-2187,Medical,498,26635.36,06/27/2015,Ratnagiri,Used
+R-5427,D-2885,Rescue Equipment,154,16165.69,12/04/2024,Ahmednagar,Allocated
+R-5428,D-2562,Medical,860,41536.95,08/12/2024,Mumbai,Pending
+R-5429,D-2824,Food,429,48967.61,04/20/2022,Satara,Used
+R-5430,D-2062,Medical,558,20372.66,11/06/2024,Mumbai,Pending
+R-5431,D-1485,Food,718,41534.85,04/22/2023,Aurangabad,Allocated
+R-5432,D-1077,Shelter,854,41976.49,04/28/2018,Kolhapur,Allocated
+R-5433,D-2632,Shelter,439,47355.73,09/30/2017,Nagpur,Allocated
+R-5434,D-1475,Shelter,985,5900.65,04/04/2018,Mumbai,Allocated
+R-5435,D-1140,Rescue Equipment,461,31881.03,09/11/2022,Pune,Allocated
+R-5436,D-2517,Rescue Equipment,731,37106.12,10/17/2015,Amravati,Pending
+R-5437,D-1782,Food,993,31487.5,11/20/2019,Aurangabad,Allocated
+R-5438,D-2559,Food,524,6761.97,02/13/2018,Pune,Used
+R-5439,D-1302,Medical,210,24213.16,04/19/2022,Mumbai,Used
+R-5440,D-2566,Medical,788,19718.91,05/21/2015,Ahmednagar,Pending
+R-5441,D-1125,Rescue Equipment,114,23014.41,07/17/2017,Aurangabad,Pending
+R-5442,D-1346,Medical,365,20499.09,07/23/2020,Mumbai,Allocated
+R-5443,D-2027,Shelter,843,6839.62,08/31/2015,Pune,Pending
+R-5444,D-2447,Food,751,28817.35,04/24/2017,Nagpur,Used
+R-5445,D-1030,Food,141,24156.82,05/10/2015,Amravati,Pending
+R-5446,D-1627,Medical,881,39476.47,04/11/2021,Nashik,Allocated
+R-5447,D-1413,Shelter,233,12105.75,12/04/2020,Latur,Allocated
+R-5448,D-1695,Shelter,926,8121.83,07/04/2015,Nashik,Used
+R-5449,D-2475,Food,208,32705.19,12/03/2016,Satara,Allocated
+R-5450,D-1086,Rescue Equipment,678,38093.55,05/31/2024,Aurangabad,Pending
+R-5451,D-1718,Food,287,46045.65,02/28/2017,Satara,Allocated
+R-5452,D-2079,Food,569,22717.7,06/29/2019,Solapur,Used
+R-5453,D-1366,Medical,117,5503.55,11/06/2022,Solapur,Pending
+R-5454,D-2119,Food,426,45765.78,02/24/2016,Latur,Used
+R-5455,D-2561,Shelter,638,11911.79,03/22/2022,Nanded,Allocated
+R-5456,D-1272,Medical,991,30087.29,08/23/2024,Pune,Pending
+R-5457,D-1306,Medical,744,28572.57,08/20/2021,Nagpur,Allocated
+R-5458,D-1201,Shelter,794,11570.69,07/11/2021,Latur,Used
+R-5459,D-2149,Rescue Equipment,981,7666.69,09/24/2018,Nanded,Pending
+R-5460,D-1367,Medical,124,38876.86,03/29/2018,Nashik,Used
+R-5461,D-2036,Medical,940,21869.87,08/18/2016,Ratnagiri,Pending
+R-5462,D-1189,Medical,778,20388.47,06/13/2017,Satara,Allocated
+R-5463,D-2533,Rescue Equipment,581,17450.81,01/02/2021,Nashik,Pending
+R-5464,D-1036,Rescue Equipment,139,10743.58,11/07/2019,Nanded,Allocated
+R-5465,D-2620,Medical,117,45137.18,05/27/2020,Nagpur,Used
+R-5466,D-1827,Rescue Equipment,887,49170.15,08/31/2024,Thane,Used
+R-5467,D-1666,Shelter,795,7617.77,05/03/2015,Latur,Allocated
+R-5468,D-1692,Medical,214,47198.32,11/24/2022,Thane,Used
+R-5469,D-2001,Shelter,769,13141.97,02/26/2015,Satara,Allocated
+R-5470,D-1545,Shelter,668,38969.53,12/01/2016,Ahmednagar,Allocated
+R-5471,D-1899,Food,396,35169.27,09/01/2019,Nagpur,Used
+R-5472,D-1181,Shelter,763,41215.66,02/01/2019,Nanded,Allocated
+R-5473,D-2413,Shelter,902,18097.17,10/01/2022,Pune,Allocated
+R-5474,D-2606,Food,749,20520.37,02/23/2022,Ratnagiri,Allocated
+R-5475,D-2684,Shelter,952,18315.43,04/11/2017,Ratnagiri,Used
+R-5476,D-1987,Medical,216,27547.63,06/11/2023,Nashik,Used
+R-5477,D-2473,Rescue Equipment,720,20793.65,10/15/2019,Aurangabad,Used
+R-5478,D-2724,Food,739,12736.98,02/18/2018,Nanded,Pending
+R-5479,D-1188,Food,844,25182.78,12/30/2018,Latur,Allocated
+R-5480,D-2581,Rescue Equipment,785,37277.96,01/20/2022,Kolhapur,Pending
+R-5481,D-1347,Medical,315,45382.34,10/05/2017,Latur,Pending
+R-5482,D-2426,Rescue Equipment,564,49791.65,05/11/2022,Nashik,Allocated
+R-5483,D-2472,Shelter,245,37339.57,12/20/2024,Pune,Allocated
+R-5484,D-1714,Shelter,790,18861.04,11/24/2023,Aurangabad,Allocated
+R-5485,D-2310,Food,247,44568.99,04/18/2018,Amravati,Pending
+R-5486,D-1154,Medical,297,31740.25,04/25/2015,Aurangabad,Allocated
+R-5487,D-2891,Food,879,43707.33,11/08/2019,Ahmednagar,Used
+R-5488,D-2133,Food,604,8468.2,07/17/2022,Amravati,Allocated
+R-5489,D-1822,Rescue Equipment,633,38324.28,02/15/2020,Thane,Pending
+R-5490,D-2598,Medical,166,13695.98,12/28/2020,Nagpur,Allocated
+R-5491,D-2863,Rescue Equipment,147,32562.63,06/15/2018,Nashik,Pending
+R-5492,D-2881,Medical,335,38866.82,10/04/2021,Nashik,Pending
+R-5493,D-2803,Rescue Equipment,674,32510.94,06/27/2017,Solapur,Used
+R-5494,D-2599,Shelter,853,46974.12,11/23/2018,Nanded,Pending
+R-5495,D-1582,Medical,433,38409.21,09/22/2021,Nagpur,Used
+R-5496,D-2758,Shelter,792,33898.56,08/17/2020,Ahmednagar,Used
+R-5497,D-1494,Shelter,132,24997.86,05/09/2024,Nagpur,Pending
+R-5498,D-1105,Rescue Equipment,706,39712.7,07/02/2020,Ratnagiri,Used
+R-5499,D-1719,Shelter,439,23251.03,09/14/2017,Kolhapur,Pending

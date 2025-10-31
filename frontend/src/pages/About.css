@@ -1,0 +1,248 @@
+
+/* Main Container */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  gap: 20px;
+  background-color: #f4f7fa;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+/* About Section */
+.about-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  max-width: 900px;
+}
+
+.about-text {
+  max-width: 4000px;
+  text-align: left;
+}
+
+.about-text h2 {
+  color: #2c3e50;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.about-text p {
+  font-size: 18px;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* Logo Image */
+.about-image img {
+  width: 350px;
+  height: auto;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.about-image img:hover {
+  transform: scale(1.1);
+}
+
+/* Flashcard Grid */
+.flashcards-container {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 5px;
+}
+
+.flashcard {
+  width: 200px;
+  height: 120px;
+  perspective: 1000px;
+}
+
+.flashcard-inner {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flashcard:hover .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 10px;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.flashcard-front {
+  background: whitesmoke;
+  color: #333;
+}
+
+.flashcard-back {
+  background: #00ad71;
+  color: #fff;
+  transform: rotateY(180deg);
+}
+
+/* Section Divider */
+.section-divider {
+  width: 80%;
+  margin: 0px 0;
+  border: 1px solid #ddd;
+}
+
+/* Disaster Section */
+.disaster-section {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.disaster-section h2 {
+  font-size: 28px;
+  color: #2c3e50;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+/* Disaster Cards - Criss-Cross Layout */
+.disaster-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  max-width: 800px;
+  padding: 20px;
+  margin: 20px auto;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, opacity 0.5s ease-in-out;
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.disaster-card.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Alternate left-right positioning */
+.disaster-card:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+/* Disaster Image */
+.disaster-img {
+  width: 250px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.disaster-img:hover {
+  transform: scale(1.05);
+}
+
+/* Disaster Text */
+.disaster-text {
+  max-width: 400px;
+  text-align: left;
+}
+
+.disaster-text h3 {
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.disaster-text p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .about-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .disaster-card {
+    flex-direction: column !important;
+    text-align: center;
+  }
+
+  .disaster-text {
+    text-align: center;
+  }
+}
+
+
+.help-hover {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #004d40;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  z-index: 1000;
+}
+
+.help-hover:hover {
+  background-color: #cc0000;
+}
+
+.help-popup {
+  display: none;
+  position: fixed;
+  bottom: 60px;
+  right: 20px;
+  background-color: #fff;
+  color: #333;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  font-size: 14px;
+  z-index: 1000;
+}
+
+.help-hover:hover + .help-popup {
+  display: block;
+}
