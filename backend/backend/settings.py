@@ -27,6 +27,10 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['drras.onrender.com', 'localhost', '127.0.0.1']
 
+# ✅ Static files (for Render)
+STATIC_URL = '/static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
 
 # Application definition
 INSTALLED_APPS = [
