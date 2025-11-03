@@ -11,6 +11,8 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 
 from pathlib import Path
+import os #new
+import dj_database_url #new
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -23,9 +25,15 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-c1rjj^(yz)kg%ayd8%3fxue_nzuc3kh(ya8ins=g1im+34_c--'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+# DEBUG = True
 
-ALLOWED_HOSTS = [] #'drras.onrender.com', 'localhost', '127.0.0.1'
+DEBUG = os.getenv("DEBUG", "True") == "True" #new
+
+# ALLOWED_HOSTS = [] #'drras.onrender.com', 'localhost', '127.0.0.1'
+
+ALLOWED_HOSTS = os.getenv(
+    "ALLOWED_HOSTS", "localhost,127.0.0.1,drras.onrender.com"
+).split(",") #new
 
 # ✅ Static files (for Render)
 #STATIC_URL = '/static/'
@@ -104,8 +112,8 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 #     }
 # }
 
-import os
-import dj_database_url
+# import os
+# import dj_database_url
 
 # Detect if running on Render
 IS_RENDER = "RENDER" in os.environ
