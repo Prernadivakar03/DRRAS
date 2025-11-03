@@ -93,17 +93,40 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'DB1',
-        'USER': 'DRRAS',
-        'PASSWORD': 'pgdivakar',
-        'HOST': '127.0.0.1',
-        'PORT': '5432',
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'DB1',
+#         'USER': 'DRRAS',
+#         'PASSWORD': 'pgdivakar',
+#         'HOST': '127.0.0.1',
+#         'PORT': '5432',
+#     }
+# }
 
+import os
+import dj_database_url
+
+# Detect if running on Render
+IS_RENDER = "RENDER" in os.environ
+
+if IS_RENDER:
+    # ✅ Use Render's environment variable (DATABASE_URL)
+    DATABASES = {
+        'default': dj_database_url.config(conn_max_age=600)
+    }
+else:
+    # ✅ Use your local PostgreSQL database
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': 'DB1',
+            'USER': 'DRRAS',
+            'PASSWORD': 'pgdivakar',
+            'HOST': '127.0.0.1',
+            'PORT': '5432',
+        }
+    }
 
 
 # Password validation
