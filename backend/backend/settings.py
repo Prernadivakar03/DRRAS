@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
-    'api',
+    'backend.api',
 ]
 
 # ✅ CORS SETTINGS (Place outside INSTALLED_APPS)
