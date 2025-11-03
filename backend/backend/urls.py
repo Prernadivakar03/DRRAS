@@ -53,7 +53,7 @@ from .views import home_view  # ✅ Ensure this is imported
 urlpatterns = [
     path("", home_view, name="home"),  # ✅ Home Route
     path("admin/", admin.site.urls),  # ✅ Admin Route
-    path("api/", include("api.urls")),  # ✅ Include API URLs
+    path("api/", include("backend.api.urls")),  # ✅ Include API URLs
 ]
 
 # ✅ Serve media files in development (DO NOT use this in production)
