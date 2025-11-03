@@ -25,11 +25,11 @@ SECRET_KEY = 'django-insecure-c1rjj^(yz)kg%ayd8%3fxue_nzuc3kh(ya8ins=g1im+34_c--
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['drras.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = [] #'drras.onrender.com', 'localhost', '127.0.0.1'
 
 # ✅ Static files (for Render)
-STATIC_URL = '/static/'
-STATIC_ROOT = BASE_DIR / 'staticfiles'
+#STATIC_URL = '/static/'
+#STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 
 # Application definition
@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
-    'backend.api',
+    'api',
 ]
 
 # ✅ CORS SETTINGS (Place outside INSTALLED_APPS)
@@ -68,7 +68,7 @@ MIDDLEWARE = [
 ]
 
 
-ROOT_URLCONF = 'backend.backend.urls'
+ROOT_URLCONF = 'backend.urls'
 
 TEMPLATES = [
     {
@@ -100,9 +100,10 @@ DATABASES = {
         'USER': 'DRRAS',
         'PASSWORD': 'pgdivakar',
         'HOST': '127.0.0.1',
-        'PORT': '5432'
+        'PORT': '5432',
     }
 }
+
 
 
 # Password validation
@@ -184,8 +185,8 @@ MEDIA_ROOT = BASE_DIR / 'media'
 
 DATA_UPLOAD_MAX_MEMORY_SIZE = 5242880  # 5 MB limit
 
-import dj_database_url
+#import dj_database_url
 
-DATABASES = {
-    'default': dj_database_url.config(default='postgresql://drras_db_user:3zBo0LTzS9uYNohAtUMDKqXnfhtjkPK0@dpg-d42a9b63jp1c73afm8i0-a/drras_db')
-}
+#DATABASES = {
+#    'default': dj_database_url.config(default='postgresql://drras_db_user:3zBo0LTzS9uYNohAtUMDKqXnfhtjkPK0@dpg-d42a9b63jp1c73afm8i0-a/drras_db')
+#}
