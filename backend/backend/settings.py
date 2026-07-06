@@ -8,7 +8,12 @@ https://docs.djangoproject.com/en/5.1/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
+
+
+
 """
+
+
 
 from pathlib import Path
 import os #new
@@ -106,9 +111,9 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'DB1',
-#         'USER': 'DRRAS',
-#         'PASSWORD': 'pgdivakar',
+#         'NAME': 'DRRAS',
+#         'USER': 'postgres',
+#         'PASSWORD': 'Student7',
 #         'HOST': '127.0.0.1',
 #         'PORT': '5432',
 #     }
@@ -130,9 +135,9 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
-            'NAME': 'DB1',
-            'USER': 'DRRAS',
-            'PASSWORD': 'pgdivakar',
+            'NAME': 'DRRAS',
+            'USER': 'postgres',
+            'PASSWORD': 'Student7',
             'HOST': '127.0.0.1',
             'PORT': '5432',
         }

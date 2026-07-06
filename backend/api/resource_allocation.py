@@ -1,269 +1,136 @@
 
-
-# from django.http import JsonResponse
-# from django.views.decorators.csrf import csrf_exempt
-# from .models import UserDisasterCluster, UserInput, ResourceData, OptimizedAllocation
-# from pulp import LpProblem, LpMinimize, LpVariable, lpSum
-
-# @csrf_exempt
-# def allocate_resources_with_pulp(request):
-#     # Fetch disasters that need resource allocation
-#     disasters_to_allocate = UserDisasterCluster.objects.all()
-    
-#     if not disasters_to_allocate.exists():
-#         return JsonResponse({"message": "No disasters found. No resources allocated."})
-
-#     # Fetch available resources
-#     resources = ResourceData.objects.all()
-#     if not resources.exists():
-#         return JsonResponse({"message": "No resources available."})
-
-#     # Create an optimization model
-#     problem = LpProblem("Resource_Allocation", LpMinimize)
-
-#     # Decision variables for resource allocation
-#     allocation_vars = {
-#         disaster.id: LpVariable(f"alloc_{disaster.id}", lowBound=0, cat="Continuous")  # Min 0 allocation
-#         for disaster in disasters_to_allocate
-#     }
-
-#     # Objective function: Minimize total resource allocation
-#     problem += lpSum(allocation_vars.values())
-
-#     # Constraints: Allocate resources proportionally based on disaster severity
-#     for disaster in disasters_to_allocate:
-#         if disaster.cluster_label == "Severe Impact":
-#             problem += allocation_vars[disaster.id] >= 500  # Minimum allocation for severe impact
-#         elif disaster.cluster_label == "Moderate Impact":
-#             problem += allocation_vars[disaster.id] >= 100  # Minimum allocation for moderate impact
-
-#     # Constraint: Do not exceed total available resources
-#     total_available = sum(res.quantity for res in resources)
-#     problem += lpSum(allocation_vars.values()) <= total_available
-
-#     # Solve the optimization problem
-#     problem.solve()
-
-#     allocations = []
-
-#     for disaster in disasters_to_allocate:
-#         allocated_amount = max(0, allocation_vars[disaster.id].varValue or 0)  # Ensure non-negative allocation
-
-#         # Fetch disaster details from UserInput using user_disaster_id
-#         matched_user_input = UserInput.objects.filter(id=disaster.user_disaster_id).first()
-
-#         location = matched_user_input.location if matched_user_input else "Unknown Location"
-#         disaster_type = matched_user_input.disaster_type if matched_user_input else "Unknown Disaster"
-
-#         # Assign the first available resource (modify as needed)
-#         resource = resources.first()
-#         resource_type = resource.resource_type if resource else "General Resource"
-
-#         # Store the allocated data in the database
-#         OptimizedAllocation.objects.create(
-#             location=location,  
-#             disaster_type=disaster_type,  
-#             cluster_label=disaster.cluster_label,  # ✅ Fixed attribute
-#             resource_name=resource_type,
-#             allocated_resources=allocated_amount
-#         )
-
-#         # Prepare response data
-#         allocations.append({
-#             "disaster_id": disaster.id,
-#             "location": location,  
-#             "disaster_type": disaster_type,  
-#             "impact_level": disaster.cluster_label,  # ✅ Fixed attribute
-#             "resource_type": resource_type,
-#             "allocated_resources": allocated_amount
-#         })
-
-#     return JsonResponse({"message": "Resource allocation completed successfully!", "allocations": allocations})
-#imp 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from .models import UserDisasterCluster, UserInput, ResourceData, OptimizedAllocation
 from pulp import LpProblem, LpMinimize, LpVariable, lpSum, value, LpStatus
+import logging
+
+logger = logging.getLogger(__name__)
 
 @csrf_exempt
 def allocate_resources_with_pulp(request):
-    disasters_to_allocate = UserDisasterCluster.objects.all()
+    """
+    Allocate multiple resource types to disaster clusters using PuLP.
+    For each disaster, a minimum total resource requirement is set based on severity.
+    The allocation minimises total usage while respecting per‑resource availability.
+    If supply is insufficient, slack variables allow shortages (penalised) so a solution is always found.
+    """
+    disasters = UserDisasterCluster.objects.all()
     resources = ResourceData.objects.all()
 
-    if not disasters_to_allocate.exists():
+    if not disasters.exists():
         return JsonResponse({"message": "No disasters found. No resources allocated."})
 
     if not resources.exists():
         return JsonResponse({"message": "No resources available."})
 
-    print("Checking available resources in the database...")
-    total_available = sum(res.quantity for res in resources)
+    logger.info("Available resources:")
     for res in resources:
-        print(f"Resource: {res.resource_type}, Quantity: {res.quantity}")
+        logger.info(f"  {res.resource_type}: {res.quantity}")
 
-    print("\nChecking disasters to allocate...")
-    for disaster in disasters_to_allocate:
-        print(f"Disaster ID: {disaster.id}, Severity: {disaster.cluster_label}")
+    # Build a dictionary of resource type -> available quantity
+    resource_pool = {res.resource_type: res.quantity for res in resources}
+    resource_types = list(resource_pool.keys())
 
-    problem = LpProblem("Resource_Allocation", LpMinimize)
-    
-    allocation_vars = {
-        disaster.id: LpVariable(f"alloc_{disaster.id}", lowBound=0, cat="Continuous")
-        for disaster in disasters_to_allocate
-    }
-
-    problem += lpSum(allocation_vars.values())  # Minimize total allocation
-
-    for disaster in disasters_to_allocate:
-        if disaster.cluster_label == "Severe Impact":
-            problem += allocation_vars[disaster.id] >= 300  # Adjusted threshold
-        elif disaster.cluster_label == "Moderate Impact":
-            problem += allocation_vars[disaster.id] >= 50
-
-    problem += lpSum(allocation_vars.values()) <= total_available
-
-    problem.solve()
-    print("\nSolver Status:", LpStatus[problem.status])
-
-    allocations = []
-    for disaster in disasters_to_allocate:
-        allocated_amount = max(0, value(allocation_vars[disaster.id]) or 0)
-        print(f"Disaster {disaster.id}: Allocated {allocated_amount}")
-
-        matched_user_input = UserInput.objects.filter(id=disaster.user_disaster_id).first()
-        location = matched_user_input.location if matched_user_input else "Unknown Location"
-        disaster_type = matched_user_input.disaster_type if matched_user_input else "Unknown Disaster"
-
-        resource = resources.first()
-        resource_type = resource.resource_type if resource else "General Resource"
-
-        OptimizedAllocation.objects.create(
-            location=location,
-            disaster_type=disaster_type,
-            cluster_label=disaster.cluster_label,
-            resource_name=resource_type,
-            allocated_resources=allocated_amount
-        )
-
-        allocations.append({
-            "disaster_id": disaster.id,
+    # Build disaster list with required minimum total allocation
+    disaster_data = []
+    for d in disasters:
+        if d.cluster_label == "Severe Impact":
+            required = 300
+        elif d.cluster_label == "Moderate Impact":
+            required = 50
+        else:
+            required = 0   # no minimum for other clusters
+        # Link to UserInput for location and disaster_type
+        user_input = UserInput.objects.filter(id=d.user_disaster_id).first()
+        location = user_input.location if user_input else "Unknown Location"
+        disaster_type = user_input.disaster_type if user_input else "Unknown Disaster"
+        disaster_data.append({
+            "id": d.id,
             "location": location,
             "disaster_type": disaster_type,
-            "impact_level": disaster.cluster_label,
-            "resource_type": resource_type,
-            "allocated_resources": allocated_amount
+            "cluster_label": d.cluster_label,
+            "required": required,
         })
 
-    return JsonResponse({"message": "Resource allocation completed successfully!", "allocations": allocations})
+    # ---- Build the LP problem ----
+    prob = LpProblem("Resource_Allocation", LpMinimize)
+
+    # Decision variables: amount of each resource type allocated to each disaster
+    alloc_vars = {}
+    for d in disaster_data:
+        for r_type in resource_types:
+            var_name = f"alloc_{d['id']}_{r_type.replace(' ', '_')}"
+            alloc_vars[(d['id'], r_type)] = LpVariable(var_name, lowBound=0, cat="Continuous")
+
+    # Slack variables for each disaster (shortage relative to required)
+    slack_vars = {}
+    for d in disaster_data:
+        slack_vars[d['id']] = LpVariable(f"slack_{d['id']}", lowBound=0, cat="Continuous")
+
+    # Objective: minimise total allocated resources + heavy penalty for shortages
+    total_alloc = lpSum(alloc_vars.values())
+    shortage_penalty = lpSum(1000 * slack_vars[d['id']] for d in disaster_data)  # high penalty
+    prob += total_alloc + shortage_penalty
+
+    # Constraints:
+    # 1. For each disaster, sum of allocated resources + slack >= required
+    for d in disaster_data:
+        prob += (
+            lpSum(alloc_vars[(d['id'], r_type)] for r_type in resource_types) + slack_vars[d['id']]
+            >= d['required']
+        )
+
+    # 2. For each resource type, total allocated cannot exceed available quantity
+    for r_type in resource_types:
+        prob += (
+            lpSum(alloc_vars[(d['id'], r_type)] for d in disaster_data)
+            <= resource_pool[r_type]
+        )
+
+    # Solve
+    prob.solve()
+    status = LpStatus[prob.status]
+    logger.info(f"Solver status: {status}")
+
+    # Check if an optimal or feasible solution was found (status may be 'Optimal' or 'Feasible')
+    # PuLP returns 'Optimal' if solved to optimality; 'Feasible' if a feasible solution exists.
+    # With slack variables, we should always get a feasible solution unless the problem is unbounded.
+    if status not in ['Optimal', 'Feasible']:
+        return JsonResponse({
+            "message": f"Resource allocation failed. Solver status: {status}",
+            "allocations": []
+        }, status=400)
+
+    # ---- Save allocations to database ----
+    allocations = []
+    for d in disaster_data:
+        for r_type in resource_types:
+            allocated = value(alloc_vars[(d['id'], r_type)]) or 0.0
+            if allocated > 0:  # only save if positive
+                OptimizedAllocation.objects.create(
+                    location=d['location'],
+                    disaster_type=d['disaster_type'],
+                    cluster_label=d['cluster_label'],
+                    resource_name=r_type,
+                    allocated_resources=allocated
+                )
+                allocations.append({
+                    "disaster_id": d['id'],
+                    "location": d['location'],
+                    "disaster_type": d['disaster_type'],
+                    "impact_level": d['cluster_label'],
+                    "resource_type": r_type,
+                    "allocated_resources": allocated
+                })
+
+    # Optionally log shortage information
+    total_shortage = sum(value(slack_vars[d['id']]) or 0 for d in disaster_data)
+    if total_shortage > 0:
+        logger.warning(f"Total shortage across all disasters: {total_shortage}")
+
+    return JsonResponse({
+        "message": "Resource allocation completed successfully!",
+        "allocations": allocations,
+        "total_shortage": total_shortage
+    })
